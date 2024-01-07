@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000974,Bartonella_bovis_91-4,BBBE_RS00180,447,A9,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_elizabethae_NCTC12898,EL285_RS08435,NA,NA,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_gerbillinarum_FN71,IPKPMCFA_00322,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00762,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00405,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00567,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01474,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00657,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00857,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01183,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00686,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00171,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00527,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00609,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00679,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00115,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_grahamii_as4aup,BGR_RS00185,150,A9,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_henselae_BM1374163,PRJBM_RS00195,447,A9,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00241,149,A9,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00110,149,A9,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00350,149,A9,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_FN12-1,EMOIKDEC_00959,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00465,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00113,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00143,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00365,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00142,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00111,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00472,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00139,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00140,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00110,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00138,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00138,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00420,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00927,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00489,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00572,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_krasnovii_OY11,PDPJCBEH_00075,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00371,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01403,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00703,NA,NA,ubiB,putative protein kinase UbiB,1587
+OG0000974,Bartonella_queenslandensis_AUST-NH15,BN338_RS04390,NA,NA,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_quintana_MF1-1,MF1_RS00170,447,A9,ubiB,2-polyprenylphenol 6-hydroxylase,1587
+OG0000974,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0000974,Bartonella_tribocorum_BM1374166,BM1374166_RS00185,NA,NA,ubiB,2-polyprenylphenol 6-hydroxylase,1587

@@ -1,0 +1,312 @@
+IQ-TREE 2.2.3 COVID-edition built Aug 13 2023
+
+Input file name: concatenated.fasta
+Type of analysis: tree reconstruction + non-parametric bootstrap (100 replicates)
+Random seed number: 430592
+
+REFERENCES
+----------
+
+To cite IQ-TREE please use:
+
+Bui Quang Minh, Heiko A. Schmidt, Olga Chernomor, Dominik Schrempf,
+Michael D. Woodhams, Arndt von Haeseler, and Robert Lanfear (2020)
+IQ-TREE 2: New models and efficient methods for phylogenetic inference
+in the genomic era. Mol. Biol. Evol., in press.
+https://doi.org/10.1093/molbev/msaa015
+
+SEQUENCE ALIGNMENT
+------------------
+
+Input data: 46 sequences with 265987 amino-acid sites
+Number of constant sites: 167560 (= 62.9956% of all sites)
+Number of invariant (constant or ambiguous constant) sites: 167560 (= 62.9956% of all sites)
+Number of parsimony informative sites: 65330
+Number of distinct site patterns: 57784
+
+SUBSTITUTION PROCESS
+--------------------
+
+Model of substitution: JTT+FO+R10
+
+State frequencies: (estimated with maximum likelihood)
+
+  pi(A) = 0.0751
+  pi(R) = 0.0516
+  pi(N) = 0.0454
+  pi(D) = 0.0467
+  pi(C) = 0.0154
+  pi(Q) = 0.0379
+  pi(E) = 0.0585
+  pi(G) = 0.0601
+  pi(H) = 0.0304
+  pi(I) = 0.0855
+  pi(L) = 0.0928
+  pi(K) = 0.0664
+  pi(M) = 0.0226
+  pi(F) = 0.0491
+  pi(P) = 0.0352
+  pi(S) = 0.0654
+  pi(T) = 0.0528
+  pi(W) = 0.0095
+  pi(Y) = 0.0280
+  pi(V) = 0.0715
+
+Model of rate heterogeneity: FreeRate with 10 categories
+Site proportion and rates:  (0.1373,0.0503) (0.1478,0.0503) (0.1229,0.0503) (0.1056,0.1098) (0.0896,0.3219) (0.0880,0.8661) (0.0953,1.2417) (0.0967,2.1546) (0.1067,4.1433) (0.0102,9.2245)
+
+ Category  Relative_rate  Proportion
+  1         0.0503         0.1373
+  2         0.0503         0.1478
+  3         0.0503         0.1229
+  4         0.1098         0.1056
+  5         0.3219         0.0896
+  6         0.8661         0.0880
+  7         1.2417         0.0953
+  8         2.1546         0.0967
+  9         4.1433         0.1067
+  10         9.2245         0.0102
+
+MAXIMUM LIKELIHOOD TREE
+-----------------------
+
+Log-likelihood of the tree: -2139020.9702 (s.e. 4065.4200)
+Unconstrained log-likelihood (without tree): -1679428.9809
+Number of free parameters (#branches + #model parameters): 126
+Akaike information criterion (AIC) score: 4278293.9404
+Corrected Akaike information criterion (AICc) score: 4278294.0608
+Bayesian information criterion (BIC) score: 4279615.8320
+
+Total tree length (sum of branch lengths): 1.0566
+Sum of internal branch lengths: 0.4029 (38.1320% of tree length)
+
+NOTE: Tree is UNROOTED although outgroup taxon 'BBBE' is drawn at root
+Numbers in parentheses are  standard bootstrap support (%)
+
++-----------------------------------------------------------BBBE
+|
+|                        +----EL285
+|                     +--| (100)
+|                     |  |      +--EMOIKDEC
+|                     |  |   +--| (100)
+|                     |  |   |  |           +--JEMLOCML
+|                     |  |   |  |        +--| (42)
+|                     |  |   |  |        |  |     +--KJGNIHHA
+|                     |  |   |  |        |  |  +--| (37)
+|                     |  |   |  |        |  |  |  |     +--BOFBMHLF
+|                     |  |   |  |        |  |  |  |  +--| (59)
+|                     |  |   |  |        |  |  |  |  |  +--GFDDFGGD
+|                     |  |   |  |        |  |  |  +--| (97)
+|                     |  |   |  |        |  |  |     |  +--NGJGDJAJ
+|                     |  |   |  |        |  |  |     +--| (61)
+|                     |  |   |  |        |  |  |        +--GMAGJBIB
+|                     |  |   |  |        |  +--| (15)
+|                     |  |   |  |        |     |     +--LKICNHNN
+|                     |  |   |  |        |     |  +--| (70)
+|                     |  |   |  |        |     |  |  |     +--CHDJJCHF
+|                     |  |   |  |        |     |  |  |  +--| (41)
+|                     |  |   |  |        |     |  |  |  |  +--BINCMBPP
+|                     |  |   |  |        |     |  |  +--| (100)
+|                     |  |   |  |        |     |  |     |  +--GCOMBPFH
+|                     |  |   |  |        |     |  |     +--| (100)
+|                     |  |   |  |        |     |  |        +--JGDFGBJJ
+|                     |  |   |  |        |     +--| (28)
+|                     |  |   |  |        |        |  +--MOMDPIKI
+|                     |  |   |  |        |        +--| (77)
+|                     |  |   |  |        |           +--DJDNEOMB
+|                     |  |   |  |     +--| (41)
+|                     |  |   |  |     |  +--FNJMBGLL
+|                     |  |   |  |  +--| (47)
+|                     |  |   |  |  |  +--CNPEIIHJ
+|                     |  |   |  +--| (100)
+|                     |  |   |     +--ELDOKPEM
+|                     |  +---| (100)
+|                     |      +---PDPJCBEH
+|                 +---| (100)
+|                 |   |  +------BN338
+|                 |   +--| (100)
+|                 |      +----BM1374166
+|     +-----------| (100)
+|     |           +-------BGR
+|  +--| (100)
+|  |  |                           +--BMMGAKCC
+|  |  |                        +--| (100)
+|  |  |                        |  +--FGBOIPEM
+|  |  +------------------------| (100)
+|  |                           +--OGFLLMDA
++--| (100)
+|  |                 +-----IPKPMCFA
+|  |             +---| (100)
+|  |             |   |              +--NGMDFPDP
+|  |             |   |           +--| (100)
+|  |             |   |           |  +--DCJOKJGC
+|  |             |   |        +--| (100)
+|  |             |   |        |  |  +--PEOOCOEB
+|  |             |   |        |  +--| (88)
+|  |             |   |        |     |  +--MHFFGBDM
+|  |             |   |        |     +--| (99)
+|  |             |   |        |        +--EMBLIICP
+|  |             |   |     +--| (100)
+|  |             |   |     |  +--EPECHDMP
+|  |             |   |  +--| (79)
+|  |             |   |  |  +--OIDCCKFD
+|  |             |   +--| (100)
+|  |             |      |  +--CAHOLCOL
+|  |             |      +--| (100)
+|  |             |         |           +--GCDFGLPA
+|  |             |         |        +--| (85)
+|  |             |         |        |  +--IHHODCJK
+|  |             |         |     +--| (72)
+|  |             |         |     |  +--JPLDOKKC
+|  |             |         |  +--| (99)
+|  |             |         |  |  +--MJAEBMJE
+|  |             |         +--| (100)
+|  |             |            +--NMIIJIPG
+|  |  +----------| (100)
+|  |  |          |         +--KLALJOCO
+|  |  |          +---------| (100)
+|  |  |                    |  +--IPPNIHCA
+|  |  |                    +--| (100)
+|  |  |                       +--IMMEILNN
+|  +--| (100)
+|     +--------------------------BN67
+|
+|   +---------------PRJBM
++---| (100)
+    +-----------------MF1
+
+Tree in newick format:
+
+(BBBE:0.2290280391,(((((EL285:0.0211728690,((EMOIKDEC:0.0144883290,((((JEMLOCML:0.0004751486,((KJGNIHHA:0.0008021918,((BOFBMHLF:0.0007611496,GFDDFGGD:0.0006911085)59:0.0002213420,(NGJGDJAJ:0.0008755386,GMAGJBIB:0.0005353095)61:0.0001780481)97:0.0003443239)37:0.0001526540,((LKICNHNN:0.0004347290,((CHDJJCHF:0.0002759580,BINCMBPP:0.0001849657)41:0.0000939115,(GCOMBPFH:0.0000132467,JGDFGBJJ:0.0000347598)100:0.0000655633)100:0.0003352682)70:0.0001746267,(MOMDPIKI:0.0004607537,DJDNEOMB:0.0004810357)77:0.0001385867)28:0.0001135326)15:0.0000973404)42:0.0001602994,FNJMBGLL:0.0003458388)41:0.0001576519,CNPEIIHJ:0.0003735768)47:0.0002771538,ELDOKPEM:0.0003771001)100:0.0113901091)100:0.0056131757,PDPJCBEH:0.0158173100)100:0.0156430516)100:0.0118329508,(BN338:0.0284750335,BM1374166:0.0212579505)100:0.0087542089)100:0.0171273453,BGR:0.0333204983)100:0.0489108113,((BMMGAKCC:0.0002754260,FGBOIPEM:0.0002158508)100:0.0004354193,OGFLLMDA:0.0005190242)100:0.0976160449)100:0.0105258619,(((IPKPMCFA:0.0232332820,(((((NGMDFPDP:0.0016444314,DCJOKJGC:0.0014402236)100:0.0012249189,(PEOOCOEB:0.0020864972,(MHFFGBDM:0.0020603817,EMBLIICP:0.0030405929)99:0.0007280345)88:0.0004816766)100:0.0010681989,EPECHDMP:0.0021154829)100:0.0042928769,OIDCCKFD:0.0034545417)79:0.0034202354,(CAHOLCOL:0.0005140711,((((GCDFGLPA:0.0003672711,IHHODCJK:0.0003439977)85:0.0001282626,JPLDOKKC:0.0003376929)72:0.0001232809,MJAEBMJE:0.0002996556)99:0.0002643697,NMIIJIPG:0.0004645933)100:0.0003779085)100:0.0074760383)100:0.0123493136)100:0.0169052327,(KLALJOCO:0.0013737562,(IPPNIHCA:0.0002571319,IMMEILNN:0.0002868953)100:0.0009808064)100:0.0410917453)100:0.0437807248,BN67:0.1065305946)100:0.0111351497)100:0.0113609373,(PRJBM:0.0624745811,MF1:0.0696778808)100:0.0153531613);
+
+CONSENSUS TREE
+--------------
+
+Consensus tree is constructed from 100 bootstrap trees
+Log-likelihood of consensus tree: -2139165.35452308
+Robinson-Foulds distance between ML tree and consensus tree: 6
+
+Branches with support >0.00000000% are kept (extended consensus)
+Branch lengths are optimized by maximum likelihood on original alignment
+Numbers in parentheses are bootstrap supports (%)
+
++-----------------------------------------------------------BBBE
+|
+|                        +----EL285
+|                     +--| (100)
+|                     |  |      +--EMOIKDEC
+|                     |  |   +--| (100)
+|                     |  |   |  |     +--JEMLOCML
+|                     |  |   |  |  +--| (42)
+|                     |  |   |  |  |  |     +--KJGNIHHA
+|                     |  |   |  |  |  |  +--| (37)
+|                     |  |   |  |  |  |  |  |     +--BOFBMHLF
+|                     |  |   |  |  |  |  |  |  +--| (59)
+|                     |  |   |  |  |  |  |  |  |  +--GFDDFGGD
+|                     |  |   |  |  |  |  |  +--| (97)
+|                     |  |   |  |  |  |  |     |  +--NGJGDJAJ
+|                     |  |   |  |  |  |  |     +--| (61)
+|                     |  |   |  |  |  |  |        +--GMAGJBIB
+|                     |  |   |  |  |  +--| (15)
+|                     |  |   |  |  |     |     +--LKICNHNN
+|                     |  |   |  |  |     |  +--| (70)
+|                     |  |   |  |  |     |  |  |  +--CHDJJCHF
+|                     |  |   |  |  |     |  |  +--| (100)
+|                     |  |   |  |  |     |  |     |     +--GCOMBPFH
+|                     |  |   |  |  |     |  |     |  +--| (100)
+|                     |  |   |  |  |     |  |     |  |  +--JGDFGBJJ
+|                     |  |   |  |  |     |  |     +--| (59)
+|                     |  |   |  |  |     |  |        +--BINCMBPP
+|                     |  |   |  |  |     +--| (28)
+|                     |  |   |  |  |        |  +--MOMDPIKI
+|                     |  |   |  |  |        +--| (77)
+|                     |  |   |  |  |           +--DJDNEOMB
+|                     |  |   |  +--| (100)
+|                     |  |   |     |     +--CNPEIIHJ
+|                     |  |   |     |  +--| (50)
+|                     |  |   |     |  |  +--ELDOKPEM
+|                     |  |   |     +--| (52)
+|                     |  |   |        +--FNJMBGLL
+|                     |  +---| (100)
+|                     |      +---PDPJCBEH
+|                 +---| (100)
+|                 |   |  +------BN338
+|                 |   +--| (100)
+|                 |      +----BM1374166
+|     +-----------| (100)
+|     |           +-------BGR
+|  +--| (100)
+|  |  |                           +--BMMGAKCC
+|  |  |                        +--| (100)
+|  |  |                        |  +--FGBOIPEM
+|  |  +------------------------| (100)
+|  |                           +--OGFLLMDA
++--| (100)
+|  |                 +-----IPKPMCFA
+|  |             +---| (100)
+|  |             |   |              +--NGMDFPDP
+|  |             |   |           +--| (100)
+|  |             |   |           |  +--DCJOKJGC
+|  |             |   |        +--| (100)
+|  |             |   |        |  |  +--PEOOCOEB
+|  |             |   |        |  +--| (88)
+|  |             |   |        |     |  +--MHFFGBDM
+|  |             |   |        |     +--| (99)
+|  |             |   |        |        +--EMBLIICP
+|  |             |   |     +--| (100)
+|  |             |   |     |  +--EPECHDMP
+|  |             |   |  +--| (79)
+|  |             |   |  |  +--OIDCCKFD
+|  |             |   +--| (100)
+|  |             |      |  +--CAHOLCOL
+|  |             |      +--| (100)
+|  |             |         |           +--GCDFGLPA
+|  |             |         |        +--| (85)
+|  |             |         |        |  +--IHHODCJK
+|  |             |         |     +--| (72)
+|  |             |         |     |  +--JPLDOKKC
+|  |             |         |  +--| (99)
+|  |             |         |  |  +--MJAEBMJE
+|  |             |         +--| (100)
+|  |             |            +--NMIIJIPG
+|  |  +----------| (100)
+|  |  |          |         +--KLALJOCO
+|  |  |          +---------| (100)
+|  |  |                    |  +--IPPNIHCA
+|  |  |                    +--| (100)
+|  |  |                       +--IMMEILNN
+|  +--| (100)
+|     +--------------------------BN67
+|
+|   +---------------PRJBM
++---| (100)
+    +-----------------MF1
+
+
+Consensus tree in newick format: 
+
+(BBBE:0.2292164694,(((((EL285:0.0211881673,((EMOIKDEC:0.0145731261,((JEMLOCML:0.0004773170,((KJGNIHHA:0.0008005341,((BOFBMHLF:0.0007676545,GFDDFGGD:0.0006869771)59:0.0002208687,(NGJGDJAJ:0.0008830047,GMAGJBIB:0.0005295165)61:0.0001792093)97:0.0003475700)37:0.0001585162,((LKICNHNN:0.0004706534,(CHDJJCHF:0.0002234925,((GCOMBPFH:0.0000161165,JGDFGBJJ:0.0000324919)100:0.0001079088,BINCMBPP:0.0002188843)59:0.0001057254)100:0.0002997628)70:0.0001612918,(MOMDPIKI:0.0004538520,DJDNEOMB:0.0004887097)77:0.0001521887)28:0.0000831161)15:0.0000964582)42:0.0001292401,((CNPEIIHJ:0.0003949808,ELDOKPEM:0.0006262121)50:0.0001474754,FNJMBGLL:0.0003491209)52:0.0000581800)100:0.0115394000)100:0.0055719846,PDPJCBEH:0.0158331542)100:0.0156467606)100:0.0118482928,(BN338:0.0284980786,BM1374166:0.0212760297)100:0.0087598060)100:0.0171403816,BGR:0.0333474602)100:0.0489476757,((BMMGAKCC:0.0002760028,FGBOIPEM:0.0002160746)100:0.0004360296,OGFLLMDA:0.0005196783)100:0.0976914058)100:0.0105342511,(((IPKPMCFA:0.0232475813,(((((NGMDFPDP:0.0016456526,DCJOKJGC:0.0014411790)100:0.0012256456,(PEOOCOEB:0.0020879529,(MHFFGBDM:0.0020618863,EMBLIICP:0.0030425168)99:0.0007287758)88:0.0004824605)100:0.0010688013,EPECHDMP:0.0021170569)100:0.0042955721,OIDCCKFD:0.0034566641)79:0.0034224791,(CAHOLCOL:0.0005144291,((((GCDFGLPA:0.0003681476,IHHODCJK:0.0003441597)85:0.0001285990,JPLDOKKC:0.0003377697)72:0.0001238841,MJAEBMJE:0.0003003354)99:0.0002647879,NMIIJIPG:0.0004650880)100:0.0003786677)100:0.0074810603)100:0.0123571544)100:0.0169162308,(KLALJOCO:0.0013746008,(IPPNIHCA:0.0002576136,IMMEILNN:0.0002875158)100:0.0009815124)100:0.0411179919)100:0.0438095390,BN67:0.1066065579)100:0.0111430315)100:0.0113653166,(PRJBM:0.0625197580,MF1:0.0697294636)100:0.0153626271);
+
+ALISIM COMMAND
+--------------
+To simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis, you can use the following command:
+
+--alisim simulated_MSA -t concatenated.fasta.treefile -m "JTT+FO{0.0750842,0.0516107,0.0454387,0.0467325,0.0153867,0.037925,0.0585228,0.0600589,0.0303957,0.0854664,0.0928195,0.0664272,0.0225719,0.0490939,0.0352222,0.0654445,0.0527835,0.00951835,0.0279553,0.0715421}+R10{0.137262,0.0502852,0.147772,0.0503015,0.122943,0.0503081,0.105554,0.1098,0.089564,0.321876,0.0879722,0.866068,0.0953183,1.24169,0.0967476,2.15459,0.106663,4.14334,0.0102035,9.22451}" --length 265987
+
+To mimic the alignment used to produce this analysis, i.e. simulate an alignment of the same length as the original alignment, using the tree and model parameters estimated from this analysis *and* copying the same gap positions as the original alignment, you can use the following command:
+
+iqtree -s concatenated.fasta --alisim mimicked_MSA
+
+To simulate any number of alignments in either of the two commandlines above, use the --num-alignments options, for example mimic 100 alignments you would use the command line:
+
+iqtree -s concatenated.fasta --alisim mimicked_MSA --num-alignments 100
+
+For more information on using AliSim, please visit: www.iqtree.org/doc/AliSim
+
+TIME STAMP
+----------
+
+Date and time: Thu Sep 21 09:40:25 2023
+Total CPU time used: 606812.9683 seconds (168h:33m:32s)
+Total wall-clock time used: 4984.958507 seconds (1h:23m:4s)
+

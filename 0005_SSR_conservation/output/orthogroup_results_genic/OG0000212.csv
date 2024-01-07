@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000212,Bartonella_bovis_91-4,BBBE_RS00490,NA,NA,ccmD,heme exporter protein CcmD,252
+OG0000212,Bartonella_elizabethae_NCTC12898,EL285_RS09360,169,A9,,heme exporter protein CcmD,252
+OG0000212,Bartonella_gerbillinarum_FN71,IPKPMCFA_00247,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00835,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00476,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00641,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00883,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00729,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00785,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01108,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00756,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00242,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00598,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00680,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00750,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00045,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_grahamii_as4aup,BGR_RS11270,169,A9,,heme exporter protein CcmD,252
+OG0000212,Bartonella_henselae_BM1374163,PRJBM_RS09290,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00309,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00042,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00282,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_FN12-1,EMOIKDEC_01419,169,A9,,hypothetical protein,234
+OG0000212,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00533,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00045,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00211,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00297,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00210,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00042,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00404,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00207,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00208,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00042,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00206,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00206,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00488,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00859,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00557,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00641,NA,NA,,hypothetical protein,252
+OG0000212,Bartonella_krasnovii_OY11,PDPJCBEH_00144,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00302,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00812,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00772,169,A9,,hypothetical protein,252
+OG0000212,Bartonella_queenslandensis_AUST-NH15,BN338_RS13035,169,A9,,hypothetical protein,225
+OG0000212,Bartonella_quintana_MF1-1,MF1_RS06700,169,A9,,heme exporter protein CcmD,252
+OG0000212,Bartonella_rattaustraliani_AUST-NH4,BN67_RS14835,169,A9,,heme exporter protein CcmD,252
+OG0000212,Bartonella_tribocorum_BM1374166,BM1374166_RS00550,169,A9,,heme exporter protein CcmD,252

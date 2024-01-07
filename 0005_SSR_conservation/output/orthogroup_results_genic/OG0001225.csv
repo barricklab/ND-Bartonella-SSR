@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001225,Bartonella_bovis_91-4,BBBE_RS04970,NA,NA,,RNA methyltransferase,816
+OG0001225,Bartonella_elizabethae_NCTC12898,EL285_RS05375,NA,NA,,RNA methyltransferase,819
+OG0001225,Bartonella_gerbillinarum_FN71,IPKPMCFA_00046,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00032,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00255,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00269,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00434,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00322,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00151,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00214,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00347,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00765,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00515,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00597,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00513,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00473,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_grahamii_as4aup,BGR_RS06895,NA,NA,,RNA methyltransferase,810
+OG0001225,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001225,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00699,635,A9,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00607,635,A9,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00499,635,A9,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_FN12-1,EMOIKDEC_01327,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00912,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00949,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00898,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00639,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00743,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00784,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00727,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00668,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00827,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00717,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00627,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00628,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00797,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00193,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00977,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00800,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_krasnovii_OY11,PDPJCBEH_00355,NA,NA,rlmB_1,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00671,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00629,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816
+OG0001225,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00571,NA,NA,rlmB_2,23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,831
+OG0001225,Bartonella_queenslandensis_AUST-NH15,BN338_RS02895,NA,NA,,RNA methyltransferase,816
+OG0001225,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001225,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001225,Bartonella_tribocorum_BM1374166,BM1374166_RS07700,NA,NA,,RNA methyltransferase,816

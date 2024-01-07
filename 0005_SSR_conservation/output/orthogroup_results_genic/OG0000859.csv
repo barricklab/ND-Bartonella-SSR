@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000859,Bartonella_bovis_91-4,BBBE_RS06460,NA,NA,tolR,protein TolR,453
+OG0000859,Bartonella_elizabethae_NCTC12898,EL285_RS07175,NA,NA,tolR,protein TolR,453
+OG0000859,Bartonella_gerbillinarum_FN71,IPKPMCFA_01349,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01539,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01635,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01219,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01335,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01496,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01536,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01497,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01444,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01574,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01640,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01477,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01296,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01538,28,A9,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_grahamii_as4aup,BGR_RS08850,NA,NA,tolR,protein TolR,456
+OG0000859,Bartonella_henselae_BM1374163,PRJBM_RS07245,NA,NA,tolR,protein TolR,453
+OG0000859,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00006,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01291,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01417,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_FN12-1,EMOIKDEC_01126,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00853,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01664,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00805,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01072,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01012,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00723,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01631,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00995,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01476,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01252,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01447,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01365,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01231,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01381,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01513,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00833,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_krasnovii_OY11,PDPJCBEH_01060,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01453,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01342,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01351,NA,NA,exbD,Biopolymer transport protein ExbD,453
+OG0000859,Bartonella_queenslandensis_AUST-NH15,BN338_RS08055,28,A9,tolR,protein TolR,453
+OG0000859,Bartonella_quintana_MF1-1,MF1_RS05740,NA,NA,tolR,protein TolR,453
+OG0000859,Bartonella_rattaustraliani_AUST-NH4,BN67_RS03910,NA,NA,tolR,protein TolR,450
+OG0000859,Bartonella_tribocorum_BM1374166,BM1374166_RS10355,NA,NA,tolR,protein TolR,453

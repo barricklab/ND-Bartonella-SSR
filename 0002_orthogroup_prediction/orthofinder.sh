@@ -1,0 +1,1 @@
+orthofinder -f proteins -o output

@@ -1,0 +1,65 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000067,Bartonella_bovis_91-4,BBBE_RS05010,NA,NA,,hypothetical protein,249
+OG0000067,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0000067,Bartonella_gerbillinarum_FN71,IPKPMCFA_00039,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00024,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00247,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00261,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00442,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00330,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00159,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00222,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00354,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00758,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00522,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00604,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00520,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00465,NA,NA,,hypothetical protein,651
+OG0000067,Bartonella_grahamii_as4aup,NA,NA,NA,NA,NA,NA
+OG0000067,Bartonella_henselae_BM1374163,PRJBM_RS05730,NA,NA,,hypothetical protein,681
+OG0000067,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00706,342,A9,,hypothetical protein,660
+OG0000067,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00614,342,A9,,hypothetical protein,660
+OG0000067,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00492,NA,NA,,hypothetical protein,660
+OG0000067,Bartonella_krasnovii_FN12-1,EMOIKDEC_01334,NA,NA,,hypothetical protein,378
+OG0000067,Bartonella_krasnovii_FN12-1,EMOIKDEC_01335,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00904,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00905,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00956,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00957,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00890,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00891,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00631,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00632,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00750,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00751,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00776,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00777,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00734,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00735,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00660,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00661,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00834,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00835,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00724,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00725,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00619,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00620,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00620,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00621,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00804,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00805,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00185,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00186,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00969,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00970,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00807,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00808,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OY11,PDPJCBEH_00347,NA,NA,,hypothetical protein,270
+OG0000067,Bartonella_krasnovii_OY11,PDPJCBEH_00348,NA,NA,,hypothetical protein,381
+OG0000067,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00664,NA,NA,,hypothetical protein,687
+OG0000067,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00622,NA,NA,,hypothetical protein,687
+OG0000067,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00564,NA,NA,,hypothetical protein,687
+OG0000067,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0000067,Bartonella_quintana_MF1-1,MF1_RS04665,642,A9,,hypothetical protein,663
+OG0000067,Bartonella_rattaustraliani_AUST-NH4,BN67_RS01160,NA,NA,,hypothetical protein,654
+OG0000067,Bartonella_tribocorum_BM1374166,NA,NA,NA,NA,NA,NA

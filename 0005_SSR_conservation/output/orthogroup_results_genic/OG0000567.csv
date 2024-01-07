@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000567,Bartonella_bovis_91-4,BBBE_RS03350,NA,NA,,septal ring lytic transglycosylase RlpA family protein,876
+OG0000567,Bartonella_elizabethae_NCTC12898,EL285_RS03610,NA,NA,,septal ring lytic transglycosylase RlpA family protein,897
+OG0000567,Bartonella_gerbillinarum_FN71,IPKPMCFA_00932,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,873
+OG0000567,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00402,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00064,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01086,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00220,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00439,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,879
+OG0000567,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00365,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00357,217,A9,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00625,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00557,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01068,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00060,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01045,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00938,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,885
+OG0000567,Bartonella_grahamii_as4aup,BGR_RS05205,NA,NA,,septal ring lytic transglycosylase RlpA family protein,900
+OG0000567,Bartonella_henselae_BM1374163,PRJBM_RS04070,14,A9,,septal ring lytic transglycosylase RlpA family protein,852
+OG0000567,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00752,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,903
+OG0000567,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00676,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,903
+OG0000567,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00668,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,903
+OG0000567,Bartonella_krasnovii_FN12-1,EMOIKDEC_00611,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01086,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00773,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00311,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00815,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00912,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01090,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00927,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01056,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00501,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00906,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00912,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01009,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00857,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00486,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00751,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00968,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_krasnovii_OY11,PDPJCBEH_00769,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,897
+OG0000567,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00539,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,846
+OG0000567,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00497,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,846
+OG0000567,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00120,NA,NA,rlpA,Endolytic peptidoglycan transglycosylase RlpA,846
+OG0000567,Bartonella_queenslandensis_AUST-NH15,BN338_RS02415,NA,NA,,septal ring lytic transglycosylase RlpA family protein,897
+OG0000567,Bartonella_quintana_MF1-1,MF1_RS03235,NA,NA,,septal ring lytic transglycosylase RlpA family protein,864
+OG0000567,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06435,NA,NA,,septal ring lytic transglycosylase RlpA family protein,897
+OG0000567,Bartonella_tribocorum_BM1374166,BM1374166_RS05415,NA,NA,,septal ring lytic transglycosylase RlpA family protein,897

@@ -1,0 +1,48 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001368,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_elizabethae_NCTC12898,EL285_RS07055,NA,NA,,virB8 family protein,672
+OG0001368,Bartonella_gerbillinarum_FN71,IPKPMCFA_01085,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01243,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01092,NA,NA,virB8_1,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01187,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01160,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01102,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01352,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_gerbillinarum_OE3-1_B1,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_gerbillinarum_OE3-1_C,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_grahamii_as4aup,BGR_RS08760,NA,NA,,VirB8/TrbF family protein,672
+OG0001368,Bartonella_grahamii_as4aup,BGR_RS09950,NA,NA,,VirB8/TrbF family protein,672
+OG0001368,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_khokhlovae_OE5-1_A,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_khokhlovae_OE5-1_B,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_khokhlovae_OE5-1_C,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_krasnovii_FN12-1,EMOIKDEC_01107,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00870,3,A9,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01592,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00788,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01055,NA,NA,virB8_1,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01029,3,A9,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00740,3,A9,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01551,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01010,3,A9,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01459,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01269,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01430,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01382,NA,NA,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01249,3,A9,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01271,3,A9,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01530,3,A9,virB8_3,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00815,NA,NA,virB8_2,Type IV secretion system protein virB8,672
+OG0001368,Bartonella_krasnovii_OY11,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_negeviensis_ga95fn6_A,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_negeviensis_ga95fn6_B,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_negeviensis_ga95fn6_C,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_queenslandensis_AUST-NH15,BN338_RS03315,NA,NA,,VirB8/TrbF family protein,531
+OG0001368,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001368,Bartonella_rattaustraliani_AUST-NH4,BN67_RS05920,NA,NA,,virB8 family protein,672
+OG0001368,Bartonella_tribocorum_BM1374166,BM1374166_RS10225,NA,NA,,virB8 family protein,672

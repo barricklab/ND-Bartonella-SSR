@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000952,Bartonella_bovis_91-4,BBBE_RS07070,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,648
+OG0000952,Bartonella_elizabethae_NCTC12898,EL285_RS08240,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,639
+OG0000952,Bartonella_gerbillinarum_FN71,IPKPMCFA_00559,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00920,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00703,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00932,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00802,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00038,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00561,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00876,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00892,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00132,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00330,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00818,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00235,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00154,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_grahamii_as4aup,BGR_RS09865,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,648
+OG0000952,Bartonella_henselae_BM1374163,PRJBM_RS08220,277,A9,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,648
+OG0000952,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00201,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00150,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00390,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_FN12-1,EMOIKDEC_00920,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00426,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00152,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00104,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00404,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00103,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00150,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00511,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00100,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00101,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00149,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00099,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00099,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00381,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00966,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00450,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00533,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_krasnovii_OY11,PDPJCBEH_00036,277,A9,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00410,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01017,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00960,NA,NA,rsmG,Ribosomal RNA small subunit methyltransferase G,648
+OG0000952,Bartonella_queenslandensis_AUST-NH15,BN338_RS04585,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,648
+OG0000952,Bartonella_quintana_MF1-1,MF1_RS06565,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,648
+OG0000952,Bartonella_rattaustraliani_AUST-NH4,BN67_RS05020,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,657
+OG0000952,Bartonella_tribocorum_BM1374166,BM1374166_RS11700,NA,NA,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG,642

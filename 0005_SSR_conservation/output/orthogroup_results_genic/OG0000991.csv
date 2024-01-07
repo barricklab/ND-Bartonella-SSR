@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000991,Bartonella_bovis_91-4,BBBE_RS01420,NA,NA,,AsmA family protein,1881
+OG0000991,Bartonella_elizabethae_NCTC12898,EL285_RS01275,NA,NA,,AsmA family protein,1881
+OG0000991,Bartonella_gerbillinarum_FN71,IPKPMCFA_01187,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00734,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00865,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00486,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01003,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00896,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00902,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01198,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00021,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00523,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00818,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00431,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00179,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00428,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_grahamii_as4aup,BGR_RS02045,NA,NA,,AsmA family protein,1881
+OG0000991,Bartonella_henselae_BM1374163,PRJBM_RS01915,NA,NA,,AsmA family protein,1875
+OG0000991,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00397,NA,NA,,hypothetical protein,1878
+OG0000991,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00290,NA,NA,,hypothetical protein,1878
+OG0000991,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00042,NA,NA,,hypothetical protein,1878
+OG0000991,Bartonella_krasnovii_FN12-1,EMOIKDEC_00268,NA,NA,,hypothetical protein,1884
+OG0000991,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00058,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00424,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01099,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00175,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01083,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00419,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00263,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01396,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00926,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01362,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00426,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00426,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00269,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01141,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00265,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00168,1673,G9,,hypothetical protein,1881
+OG0000991,Bartonella_krasnovii_OY11,PDPJCBEH_00625,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00233,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00230,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00319,NA,NA,,hypothetical protein,1881
+OG0000991,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0000991,Bartonella_quintana_MF1-1,MF1_RS01440,NA,NA,,AsmA family protein,1881
+OG0000991,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06910,NA,NA,,AsmA family protein,1911
+OG0000991,Bartonella_tribocorum_BM1374166,BM1374166_RS02805,NA,NA,,AsmA family protein,1881

@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001018,Bartonella_bovis_91-4,BBBE_RS02650,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1401
+OG0001018,Bartonella_elizabethae_NCTC12898,EL285_RS02685,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1413
+OG0001018,Bartonella_gerbillinarum_FN71,IPKPMCFA_00728,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00529,1315,A9,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00656,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00700,1315,A9,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00568,1315,A9,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00522,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00608,1315,A9,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00593,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01230,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00305,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01320,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01180,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01190,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01272,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_grahamii_as4aup,BGR_RS03240,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1413
+OG0001018,Bartonella_henselae_BM1374163,PRJBM_RS02915,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1407
+OG0001018,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01316,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01249,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00240,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1395
+OG0001018,Bartonella_krasnovii_FN12-1,EMOIKDEC_00010,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00313,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00677,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00453,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00460,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00430,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00622,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00010,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00260,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00260,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00416,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00980,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00950,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00010,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00622,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00010,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00422,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_krasnovii_OY11,PDPJCBEH_00469,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1413
+OG0001018,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00011,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1407
+OG0001018,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00011,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1407
+OG0001018,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00539,NA,NA,trmFO,Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO,1407
+OG0001018,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0001018,Bartonella_quintana_MF1-1,MF1_RS06875,NA,NA,,FAD-dependent oxidoreductase,243
+OG0001018,Bartonella_rattaustraliani_AUST-NH4,BN67_RS09100,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1401
+OG0001018,Bartonella_tribocorum_BM1374166,BM1374166_RS04095,NA,NA,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO,1425

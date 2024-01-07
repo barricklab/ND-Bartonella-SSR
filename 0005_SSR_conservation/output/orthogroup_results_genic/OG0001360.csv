@@ -1,0 +1,51 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001360,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_FN71,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01159,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_gerbillinarum_OE1-2_A2,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE1-2_B1,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00524,NA,NA,,hypothetical protein,435
+OG0001360,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01138,NA,NA,sppA_2,Putative signal peptide peptidase SppA,615
+OG0001360,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01139,NA,NA,,hypothetical protein,219
+OG0001360,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01343,NA,NA,,hypothetical protein,912
+OG0001360,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01430,875,A9,,hypothetical protein,930
+OG0001360,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01385,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01271,875,A9,,hypothetical protein,930
+OG0001360,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01396,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_grahamii_as4aup,BGR_RS01710,NA,NA,,S49 family peptidase,1083
+OG0001360,Bartonella_grahamii_as4aup,BGR_RS04330,NA,NA,,S49 family peptidase,1074
+OG0001360,Bartonella_henselae_BM1374163,PRJBM_RS01630,NA,NA,,S49 family peptidase,1044
+OG0001360,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01252,NA,NA,,hypothetical protein,1065
+OG0001360,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01138,NA,NA,,hypothetical protein,1041
+OG0001360,Bartonella_khokhlovae_OE5-1_C,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_FN12-1,EMOIKDEC_00365,NA,NA,,hypothetical protein,1056
+OG0001360,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00591,NA,NA,,hypothetical protein,969
+OG0001360,Bartonella_krasnovii_OE1-1_A2,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01861,NA,NA,,hypothetical protein,591
+OG0001360,Bartonella_krasnovii_OE1-1_A4,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00466,NA,NA,,hypothetical protein,969
+OG0001360,Bartonella_krasnovii_OE1-1_B,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00349,NA,NA,,hypothetical protein,969
+OG0001360,Bartonella_krasnovii_OE1-1_C2,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01609,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_krasnovii_OE1-1_D1,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_D2,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_D3,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01522,NA,NA,,hypothetical protein,1074
+OG0001360,Bartonella_krasnovii_OE1-1_D5,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00338,NA,NA,,hypothetical protein,969
+OG0001360,Bartonella_krasnovii_OE1-1_H,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_krasnovii_OY11,PDPJCBEH_01528,NA,NA,,hypothetical protein,1056
+OG0001360,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00463,NA,NA,,hypothetical protein,597
+OG0001360,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00295,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01286,NA,NA,,hypothetical protein,1071
+OG0001360,Bartonella_queenslandensis_AUST-NH15,BN338_RS00175,NA,NA,,S49 family peptidase,1065
+OG0001360,Bartonella_queenslandensis_AUST-NH15,BN338_RS01795,NA,NA,,S49 family peptidase,1188
+OG0001360,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001360,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06625,NA,NA,,S49 family peptidase,1080
+OG0001360,Bartonella_tribocorum_BM1374166,BM1374166_RS01575,NA,NA,,S49 family peptidase,1065
+OG0001360,Bartonella_tribocorum_BM1374166,BM1374166_RS02425,NA,NA,,S49 family peptidase,1068

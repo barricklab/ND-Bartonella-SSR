@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001465,Bartonella_bovis_91-4,BBBE_RS06290,NA,NA,,metallophosphoesterase,1464
+OG0001465,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_gerbillinarum_FN71,IPKPMCFA_01568,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1515
+OG0001465,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01605,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01614,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01580,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01687,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01620,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01666,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1560
+OG0001465,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01774,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01581,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01595,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01663,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01499,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01493,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01575,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1467
+OG0001465,Bartonella_grahamii_as4aup,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01369,1468,A9,cpdA_2,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1509
+OG0001465,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01284,1468,A9,cpdA_2,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1509
+OG0001465,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01069,1468,A9,cpdA_2,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1509
+OG0001465,Bartonella_krasnovii_FN12-1,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_A1,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_A2,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_A3,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_A4,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_A5,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_B,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_C1,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_C2,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_C3,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_D1,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_D2,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_D3,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_D4,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_D5,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_G,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OE1-1_H,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_krasnovii_OY11,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01354,NA,NA,cpdA_2,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1518
+OG0001465,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01392,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1518
+OG0001465,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01431,NA,NA,cpdA_3,"3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1422
+OG0001465,Bartonella_queenslandensis_AUST-NH15,BN338_RS01020,NA,NA,,metallophosphoesterase,1515
+OG0001465,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001465,Bartonella_tribocorum_BM1374166,NA,NA,NA,NA,NA,NA

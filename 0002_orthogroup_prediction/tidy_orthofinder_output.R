@@ -1,0 +1,7 @@
+library(tidyverse)
+orthogroups = read_tsv("Orthogroups.tsv")
+orthogroups = orthogroups %>% pivot_longer(!Orthogroup, names_to="species", values_to="locus_tag")
+orthogroups = orthogroups %>% filter(!is.na(locus_tag))
+orthogroups = orthogroups %>% separate_rows(locus_tag,sep=",\\s+")
+orthogroups = orthogroups %>% rename(orthogroup = Orthogroup)
+write_csv(orthogroups, "orthogroups.csv")

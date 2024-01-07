@@ -1,0 +1,59 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000107,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_elizabethae_NCTC12898,EL285_RS00175,3,A9,,Vomp family autotransporter,5358
+OG0000107,Bartonella_gerbillinarum_FN71,IPKPMCFA_00192,NA,NA,badA_2,Autotransporter adhesin BadA,5748
+OG0000107,Bartonella_gerbillinarum_FN71,IPKPMCFA_00193,NA,NA,,hypothetical protein,5199
+OG0000107,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00877,NA,NA,,hypothetical protein,5547
+OG0000107,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00878,NA,NA,,hypothetical protein,6258
+OG0000107,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00518,NA,NA,,hypothetical protein,5547
+OG0000107,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00519,NA,NA,,hypothetical protein,6258
+OG0000107,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00685,NA,NA,,hypothetical protein,5166
+OG0000107,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00686,NA,NA,,hypothetical protein,6258
+OG0000107,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01605,NA,NA,badA_2,Autotransporter adhesin BadA,2610
+OG0000107,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01743,NA,NA,,hypothetical protein,1479
+OG0000107,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01546,NA,NA,badA_2,Autotransporter adhesin BadA,2610
+OG0000107,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01691,NA,NA,,hypothetical protein,1479
+OG0000107,Bartonella_gerbillinarum_OE3-1_A,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01642,NA,NA,badA_3,Autotransporter adhesin BadA,2856
+OG0000107,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01666,NA,NA,badA_5,Autotransporter adhesin BadA,1824
+OG0000107,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00291,NA,NA,,hypothetical protein,5214
+OG0000107,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00292,NA,NA,,hypothetical protein,5835
+OG0000107,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01494,NA,NA,badA_2,Autotransporter adhesin BadA,2856
+OG0000107,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01619,NA,NA,badA_3,Autotransporter adhesin BadA,1824
+OG0000107,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01543,NA,NA,badA_2,Autotransporter adhesin BadA,2856
+OG0000107,Bartonella_grahamii_as4aup,BGR_RS00745,3,A9,,Vomp family autotransporter,6810
+OG0000107,Bartonella_grahamii_as4aup,BGR_RS00780,NA,NA,,Vomp family autotransporter,5358
+OG0000107,Bartonella_henselae_BM1374163,PRJBM_RS00735,NA,NA,,Vomp family autotransporter,5181
+OG0000107,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00349,NA,NA,,hypothetical protein,6237
+OG0000107,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00002,NA,NA,,hypothetical protein,6237
+OG0000107,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01432,NA,NA,,hypothetical protein,6231
+OG0000107,Bartonella_krasnovii_FN12-1,EMOIKDEC_01459,3,A9,,hypothetical protein,6759
+OG0000107,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00573,3,A9,,hypothetical protein,5697
+OG0000107,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00005,361,G9,,hypothetical protein,6192
+OG0000107,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00005,3,A9,,hypothetical protein,6192
+OG0000107,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01506,3,A9,,hypothetical protein,6417
+OG0000107,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00258,3,A9,,hypothetical protein,5694
+OG0000107,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00250,3,A9,,hypothetical protein,6048
+OG0000107,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00004,3,A9,,hypothetical protein,6195
+OG0000107,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00365,3,A9,,hypothetical protein,6195
+OG0000107,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00248,3,A9,,hypothetical protein,6003
+OG0000107,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00248,3,A9,,hypothetical protein,6372
+OG0000107,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00003,3,A9,,hypothetical protein,6372
+OG0000107,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00247,3,A9,,hypothetical protein,6198
+OG0000107,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00247,3,A9,,hypothetical protein,6198
+OG0000107,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00528,3,A9,,hypothetical protein,6219
+OG0000107,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00820,3,A9,,hypothetical protein,6198
+OG0000107,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00596,3,A9,,hypothetical protein,6201
+OG0000107,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00596,361,G9,,hypothetical protein,6201
+OG0000107,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00682,3,A9,,hypothetical protein,6390
+OG0000107,Bartonella_krasnovii_OY11,PDPJCBEH_00186,3,A9,,hypothetical protein,5250
+OG0000107,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00262,NA,NA,,hypothetical protein,5520
+OG0000107,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00772,NA,NA,,hypothetical protein,5559
+OG0000107,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00812,NA,NA,,hypothetical protein,5535
+OG0000107,Bartonella_queenslandensis_AUST-NH15,BN338_RS08715,NA,NA,,Vomp family autotransporter,3703
+OG0000107,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0000107,Bartonella_tribocorum_BM1374166,NA,NA,NA,NA,NA,NA

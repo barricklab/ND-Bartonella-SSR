@@ -1,0 +1,2403 @@
+orthogroup,gene,product,avg_bp_length
+OG0000000,lpxD_2; lpxD_3; lpxD_4; lpxD_5; lpxD_1,hypothetical protein; UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase; phage related protein; polymer-forming cytoskeletal protein,634.8986175115207
+OG0000001,,helix-turn-helix domain-containing protein; helix-turn-helix transcriptional regulator; hypothetical protein,336.0960960960961
+OG0000002,,EexN family lipoprotein; hypothetical protein,310.5248447204969
+OG0000003,,DEAD/DEAH box helicase family protein; hypothetical protein; restriction endonuclease; N-6 DNA methylase,2350.4836363636364
+OG0000004,trwL; trwL1; trwL2; trwL3; trwL4; trwL5; trwL6; trwL7,VirB2 family type IV secretion system major pilin TrwL; hypothetical protein; VirB2 family type IV secretion system major pilin TrwL1; VirB2 family type IV secretion system major pilin TrwL2; VirB2 family type IV secretion system major pilin TrwL3; VirB2 family type IV secretion system major pilin TrwL4; VirB2 family type IV secretion system major pilin TrwL5; VirB2 family type IV secretion system major pilin TrwL6; VirB2 family type IV secretion system major pilin TrwL7,317.003861003861
+OG0000005,intA_1; intA_2; intA_3; intA_4; intA_5; intS; intA; intA_6,integrase arm-type DNA-binding domain-containing protein; site-specific integrase; hypothetical protein; Prophage integrase IntA; Prophage integrase IntS; tyrosine-type recombinase/integrase; Arm DNA-binding domain-containing protein; integrase,958.6553398058253
+OG0000006,,hypothetical protein; DUF4102 domain-containing protein; Arm DNA-binding domain-containing protein; integrase arm-type DNA-binding domain-containing protein; integrase,229.82386363636363
+OG0000007,cdiA; cdiA_1; cdiA_2,hypothetical protein; 16S rRNA endonuclease CdiA; Deoxyribonuclease CdiA; hemagglutinin repeat-containing protein; filamentous hemagglutinin N-terminal domain-containing protein; filamentous hemagglutinin,1370.3103448275863
+OG0000008,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,2751.433526011561
+OG0000009,,lysozyme; hypothetical protein; glycoside hydrolase family protein,648.5470588235294
+OG0000010,,antA/AntB antirepressor family protein; phage regulatory protein/antirepressor Ant; hypothetical protein; phage antirepressor Ant; Rha family transcriptional regulator; phage antirepressor KilAC domain-containing protein,616.2893081761006
+OG0000011,,hypothetical protein,398.28476821192055
+OG0000012,,hypothetical protein,227.6510067114094
+OG0000013,,hypothetical protein; membrane protein,217.4890510948905
+OG0000014,badA_1; badA_3; badA_2; badA_4; badA_5; badA_6; badA_7; badA,YadA-like family protein; Vomp family autotransporter; Autotransporter adhesin BadA; hypothetical protein; YadA C-terminal domain-containing protein,3408.392307692308
+OG0000015,,SMI1/KNR4 family protein; hypothetical protein,492.384
+OG0000016,,DUF1376 domain-containing protein; YdaU family protein; hypothetical protein,790.9338842975206
+OG0000017,,hypothetical protein; YfjI family protein; DUF3987 domain-containing protein,860.4793388429752
+OG0000018,virB5; virB5_1; virB5_2,conjugal transfer protein TrwJ; hypothetical protein; Type IV secretion system protein virB5; conjugal transfer protein,692.3076923076923
+OG0000019,,hypothetical protein; toprim domain-containing protein,507.8
+OG0000020,ybaQ; higA_2; higA; higA_1; higA-1,HigA family addiction module antitoxin; hypothetical protein; putative HTH-type transcriptional regulator YbaQ; Antitoxin HigA; Antitoxin HigA-1,266.04545454545456
+OG0000021,dpnM,hypothetical protein; DNA adenine methylase; Modification methylase DpnIIA,489.962962962963
+OG0000022,,hypothetical protein,415.53061224489795
+OG0000023,ssb; ssb_1; ssb_2; ssb_3; ssb_4,single-stranded DNA-binding protein; Single-stranded DNA-binding protein,431.8041237113402
+OG0000024,,DNA-binding protein; hypothetical protein,200.8762886597938
+OG0000025,,hypothetical protein,399.1546391752577
+OG0000026,,hypothetical protein,494.5806451612903
+OG0000027,yopJ_2; yopJ_3; yopJ_1; yopJ; yopJ_4; yopJ_5; yopJ_6; yopJ_7,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase; Effector protein YopJ; hypothetical protein,783.9677419354839
+OG0000028,,hypothetical protein,927.6195652173913
+OG0000029,ppiB_1; ppiB_2; ppiB,peptidylprolyl isomerase; Peptidyl-prolyl cis-trans isomerase B; hypothetical protein,552.3333333333334
+OG0000030,,porin family protein; hypothetical protein; porin,850.9333333333333
+OG0000031,xerC_1; xerC_2; xerC; xerC_3,tyrosine-type recombinase/integrase; hypothetical protein; Tyrosine recombinase XerC,739.9
+OG0000032,,hypothetical protein,364.60674157303373
+OG0000033,argT_1; argT_2,transporter substrate-binding domain-containing protein; Lysine/arginine/ornithine-binding periplasmic protein,753.1348314606741
+OG0000034,,hypothetical protein,393.9310344827586
+OG0000035,,phage portal protein; hypothetical protein,1725.6206896551723
+OG0000036,,helix-turn-helix domain-containing protein; hypothetical protein; helix-turn-helix transcriptional regulator,474.7471264367816
+OG0000037,bafA,BafA family autotransporter; hypothetical protein; autotransporter outer membrane beta-barrel domain-containing protein,3699.2441860465115
+OG0000038,,YqaJ viral recombinase family protein; hypothetical protein,599.9764705882353
+OG0000039,bioY_1; bioY_2; bioY,biotin transporter BioY; Biotin transporter BioY,546.0117647058823
+OG0000040,,hypothetical protein; phage related protein,467.17857142857144
+OG0000041,ddpA_2; ddpA_4; ddpA_1; ddpA_3; ddpA_5,"ABC transporter substrate-binding protein; putative D,D-dipeptide-binding periplasmic protein DdpA",1619.4880952380952
+OG0000042,,hypothetical protein,275.7692307692308
+OG0000043,virB11,P-type DNA transfer ATPase VirB11; Type IV secretion system protein VirB11,1052.8266666666666
+OG0000044,,phage tail protein; hypothetical protein,998.5945945945946
+OG0000045,,hypothetical protein,199.45833333333334
+OG0000046,radA_1; dnaC; dnaC_1; dnaC_2; dnaC_3,replicative DNA helicase; DNA repair protein RadA; Replicative DNA helicase; hypothetical protein,1437.5070422535211
+OG0000047,ddpA_1; ddpA_3; ddpA_5; dppA; ddpA_2; ddpA_4,"ABC transporter substrate-binding protein; putative D,D-dipeptide-binding periplasmic protein DdpA; Periplasmic dipeptide transport protein",1632
+OG0000048,gpFI; gpFI_1; gpFI_2; gpFI_3,phage tail sheath subtilisin-like domain-containing protein; Putative prophage major tail sheath protein; hypothetical protein,1144.3714285714286
+OG0000049,,hypothetical protein; phage late control protein,589.5857142857143
+OG0000050,,hypothetical protein,285.2608695652174
+OG0000051,,hypothetical protein,138.6086956521739
+OG0000052,,antA/AntB antirepressor family protein; hypothetical protein; phage antirepressor Ant,439.44117647058823
+OG0000053,,MFS transporter; hypothetical protein,662.4264705882352
+OG0000054,virB6_3; virB6_4; virB6_1; virB6_2; trwI,type IV secretion system protein; hypothetical protein; Type IV secretion system protein VirB6; type IV secrection system protein TrwI,791.2388059701492
+OG0000055,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,2272.8307692307694
+OG0000056,,MFS transporter; hypothetical protein,830.8615384615384
+OG0000057,kgtP_2; kgtP_3; kgtP_1,MFS family transporter; Alpha-ketoglutarate permease,1281.796875
+OG0000058,bepA_2; bepA_3; bepA_4; bepA; bepA_5; bepA_6; bepA_7; bepA_8; bepA_9; bepA_10,BID domain-containing T4SS effector; Protein adenylyltransferase; T4SS effector adenylyltransferase BepA,1611.984375
+OG0000059,,hypothetical protein,215.1904761904762
+OG0000060,,hypothetical protein,336.4761904761905
+OG0000061,,hypothetical protein; phage tail protein,1284.5967741935483
+OG0000062,,DUF4815 domain-containing protein; hypothetical protein,2291.516129032258
+OG0000063,,hypothetical protein,444.7258064516129
+OG0000064,,baseplate J/gp47 family protein; hypothetical protein,807.2950819672132
+OG0000065,,transcriptional regulator; hypothetical protein; helix-turn-helix domain-containing protein; helix-turn-helix transcriptional regulator,293.2950819672131
+OG0000066,,putative addiction module antidote protein; hypothetical protein,297.8
+OG0000067,,hypothetical protein,451.95
+OG0000068,,BID domain-containing T4SS effector; hypothetical protein,1099.677966101695
+OG0000069,,TIGR04086 family membrane protein; hypothetical protein; DUF3792 family protein; YrzE family protein,1059.2068965517242
+OG0000070,,hypothetical protein,230.1206896551724
+OG0000071,,hypothetical protein,543.3103448275862
+OG0000072,,hypothetical protein; ThiF family adenylyltransferase,462.51724137931035
+OG0000073,,TM2 domain-containing protein; hypothetical protein; NINE protein,406.5964912280702
+OG0000074,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,2838.719298245614
+OG0000075,,DUF2087 domain-containing protein; hypothetical protein; class I SAM-dependent methyltransferase,802.1052631578947
+OG0000076,,BID domain-containing T4SS effector; hypothetical protein,1297.7894736842106
+OG0000077,,phage tail protein; hypothetical protein,1090.0714285714287
+OG0000078,,type II toxin-antitoxin system RelE/ParE family toxin; hypothetical protein,316.07142857142856
+OG0000079,glmM; glmM_1; glmM_2,phosphoglucosamine mutase; Phosphoglucosamine mutase; hypothetical protein,1092.642857142857
+OG0000080,tam,class I SAM-dependent methyltransferase; hypothetical protein; Trans-aconitate 2-methyltransferase; methyltransferase domain-containing protein,535.0714285714286
+OG0000081,,hypothetical protein,310.23214285714283
+OG0000082,,hypothetical protein,1350.642857142857
+OG0000083,,hypothetical protein,302.4642857142857
+OG0000084,,hypothetical protein; phage tail protein,923.3454545454546
+OG0000085,,hypothetical protein,358.6363636363636
+OG0000086,,hypothetical protein; HrgA protein,591.1666666666666
+OG0000087,,toprim domain-containing protein; hypothetical protein; bifunctional DNA primase/helicase; AAA family ATPase,1828.301886792453
+OG0000088,,ERF family protein; hypothetical protein,698.8679245283018
+OG0000089,,hypothetical protein,455.59615384615387
+OG0000090,,transglycosylase SLT domain-containing protein; hypothetical protein,689.3653846153846
+OG0000091,,hypothetical protein; phage tail tape measure protein,1303.7307692307693
+OG0000092,,N4-gp56 family major capsid protein; hypothetical protein; DUF4043 family protein,1106.4313725490197
+OG0000093,yafQ; yafQ_1; yafQ_2; yafQ_3,"type II toxin-antitoxin system YafQ family toxin; type II toxin-antitoxin system mRNA interferase toxin, RelE/StbE family; mRNA interferase toxin YafQ; hypothetical protein",259.05882352941177
+OG0000094,ruvC,crossover junction endodeoxyribonuclease RuvC; hypothetical protein; Crossover junction endodeoxyribonuclease RuvC,486.12
+OG0000095,,hypothetical protein,687.78
+OG0000096,infC; infC_1; infC_2,translation initiation factor IF-3; Translation initiation factor IF-3,470.0204081632653
+OG0000097,,porin family protein; hypothetical protein,933.0612244897959
+OG0000098,ada,methylated-DNA--[protein]-cysteine S-methyltransferase; Bifunctional transcriptional activator/DNA repair enzyme Ada; hypothetical protein,477.42857142857144
+OG0000099,,hypothetical protein; HNH/ENDO VII family nuclease,488.6734693877551
+OG0000100,,MFS transporter; putative MFS-type transporter; hypothetical protein,742.2857142857143
+OG0000101,leuB; cinA,isocitrate/isopropylmalate family dehydrogenase; 3-isopropylmalate dehydrogenase; hypothetical protein; Putative competence-damage inducible protein; isocitrate/isopropylmalate dehydrogenase family protein; molybdopterin-binding protein,1898.6938775510205
+OG0000102,,hypothetical protein,459.79591836734693
+OG0000103,tmk_1; tmk_2; tmk,Thymidylate kinase; hypothetical protein; dTMP kinase,428.51020408163265
+OG0000104,menH; menH_1,"alpha/beta hydrolase; hypothetical protein; 2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase",783
+OG0000105,cdsA,phosphatidate cytidylyltransferase; hypothetical protein; Phosphatidate cytidylyltransferase,784.0208333333334
+OG0000106,yacG,DNA gyrase inhibitor YacG; hypothetical protein,275
+OG0000107,badA_2; badA_3; badA_5,Vomp family autotransporter; Autotransporter adhesin BadA; hypothetical protein,5203.145833333333
+OG0000108,,hypothetical protein,1213.75
+OG0000109,,hypothetical protein; DEAD/DEAH box helicase family protein,2630.0625
+OG0000110,,translocation/assembly module TamB domain-containing protein; hypothetical protein,4552.914893617021
+OG0000111,,invasion associated locus B family protein; invasion-associated locus B family protein; hypothetical protein,594.1276595744681
+OG0000112,,site-specific DNA-methyltransferase; hypothetical protein,1139.872340425532
+OG0000113,panB,3-methyl-2-oxobutanoate hydroxymethyltransferase,817.8510638297872
+OG0000114,purL,phosphoribosylformylglycinamidine synthase subunit PurL; Phosphoribosylformylglycinamidine synthase subunit PurL; AIR synthase related protein,2160.1702127659573
+OG0000115,hisS,histidine--tRNA ligase; Histidine--tRNA ligase; His/Gly/Thr/Pro-type tRNA ligase C-terminal domain-containing protein,1472.7446808510638
+OG0000116,kgtP_3; kgtP_1; kgtP_4,MFS family transporter; Alpha-ketoglutarate permease; MFS transporter,1297.404255319149
+OG0000117,ettA,energy-dependent translational throttle protein EttA; Energy-dependent translational throttle protein EttA; ATP-binding cassette domain-containing protein,1654.659574468085
+OG0000118,pncA,bifunctional nicotinamidase/pyrazinamidase; Nicotinamidase; isochorismatase family protein,595.6382978723404
+OG0000119,carA; menF,glutamine-hydrolyzing carbamoyl-phosphate synthase small subunit; Carbamoyl-phosphate synthase small chain; Isochorismate synthase MenF,1212.1914893617022
+OG0000120,aatA,pyridoxal phosphate-dependent aminotransferase; Aspartate/prephenate aminotransferase; aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme,1177.212765957447
+OG0000121,mshA,glycosyltransferase family 4 protein; D-inositol-3-phosphate glycosyltransferase; hypothetical protein,970.5744680851063
+OG0000122,,BA14K family protein; hypothetical protein,744.7021276595744
+OG0000123,ctrA,response regulator transcription factor; Cell cycle response regulator CtrA,700.1914893617021
+OG0000124,zur,transcriptional repressor; Zinc uptake regulation protein,393.25531914893617
+OG0000125,emrB; ribZ,DHA2 family efflux MFS transporter permease subunit; Colistin resistance protein EmrB; Riboflavin transporter RibZ,1568.3617021276596
+OG0000126,mftE,creatininase family protein; hypothetical protein; Putative mycofactocin system creatinine amidohydrolase family protein MftE,731.4255319148937
+OG0000127,fliI; atpD,flagellar protein export ATPase FliI; F0F1 ATP synthase subunit beta; ATP synthase subunit beta,1604.5531914893618
+OG0000128,,DUF4167 domain-containing protein; hypothetical protein,751.3404255319149
+OG0000129,,phage terminase large subunit; hypothetical protein,1320.7659574468084
+OG0000130,,DUF1376 domain-containing protein; hypothetical protein,1088.2340425531916
+OG0000131,suhB,inositol monophosphatase; Inositol-1-monophosphatase; hypothetical protein,780.7021276595744
+OG0000132,,glycine zipper domain-containing protein; hypothetical protein; membrane protein; DUF1269 domain-containing protein,395.93617021276594
+OG0000133,purH,bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase; Bifunctional purine biosynthesis protein PurH; hypothetical protein,1583.2340425531916
+OG0000134,,glutamine amidotransferase; hypothetical protein,732.8297872340426
+OG0000135,,hypothetical protein,1069.212765957447
+OG0000136,apxIB; ltxB; irtB; apxIB_1; apxIB_2; pglK; hlyB,ATP-binding cassette domain-containing protein; Toxin RTX-I translocation ATP-binding protein; Leukotoxin export ATP-binding protein LtxB; Iron import ATP-binding/permease protein IrtB; peptidase domain-containing ABC transporter; hypothetical protein; Putative multidrug export ATP-binding/permease protein; Protein glycosylation K; Alpha-hemolysin translocation ATP-binding protein HlyB; ABC transporter transmembrane domain-containing protein; ABC transporter ATP-binding protein/permease,807.7659574468086
+OG0000137,,hypothetical protein,320.93617021276594
+OG0000138,,hypothetical protein,320.29787234042556
+OG0000139,trwH,TrwH protein; hypothetical protein; type IV secrection system protein TrwH,144.31914893617022
+OG0000140,,GNAT family N-acetyltransferase; hypothetical protein,485.74468085106383
+OG0000141,,hypothetical protein; phage tail protein,367.51063829787233
+OG0000142,yqfL,"kinase/pyrophosphorylase; Putative pyruvate, phosphate dikinase regulatory protein",826.7608695652174
+OG0000143,yceF; maf,Maf family nucleotide pyrophosphatase; 7-methyl-GTP pyrophosphatase; dTTP/UTP pyrophosphatase,596.9347826086956
+OG0000144,coaE,dephospho-CoA kinase; Dephospho-CoA kinase,590.0869565217391
+OG0000145,dnaQ,DNA polymerase III subunit epsilon,707.9347826086956
+OG0000146,,endonuclease/exonuclease/phosphatase family protein; hypothetical protein,874.3695652173913
+OG0000147,ybhL,Bax inhibitor-1/YccA family protein; Inner membrane protein YbhL,815.7391304347826
+OG0000148,lspA,signal peptidase II; Lipoprotein signal peptidase,501.80434782608694
+OG0000149,aviRb,RNA methyltransferase; 23S rRNA (uridine(2479)-2'-O)-methyltransferase,844.304347826087
+OG0000150,ihfB,integration host factor subunit beta; Integration host factor subunit beta,296.2826086956522
+OG0000151,lptC,LPS export ABC transporter periplasmic protein LptC; hypothetical protein,644.6739130434783
+OG0000152,lptA,OstA family protein; organic solvent tolerance protein OstA; Lipopolysaccharide export system protein LptA; sugar ABC transporter substrate-binding protein; LPS ABC transporter substrate-binding protein LptA,592.9565217391304
+OG0000153,lptB; lptB_1; lptB_2,LPS export ABC transporter ATP-binding protein; Lipopolysaccharide export system ATP-binding protein LptB,796.6304347826087
+OG0000154,ptsN,PTS IIA-like nitrogen regulatory protein PtsN; Nitrogen regulatory protein,465
+OG0000155,,invasion associated locus B family protein; hypothetical protein,504.5217391304348
+OG0000156,rlmN,23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN; Dual-specificity RNA methyltransferase RlmN,1227.4565217391305
+OG0000157,prfC,peptide chain release factor 3; Peptide chain release factor 3; Peptide chain release factor RF3,1576.5652173913043
+OG0000158,trxA,thioredoxin; Thioredoxin C-1,323.2826086956522
+OG0000159,addB,double-strand break repair protein AddB; hypothetical protein,3121.3695652173915
+OG0000160,rcsC_1; rcsC_2; rcsC_4; rcsC_3,PAS domain-containing sensor histidine kinase; PAS-domain containing protein; Sensor histidine kinase RcsC,2485.8260869565215
+OG0000161,oleD,complex I NDUFA9 subunit family protein; hypothetical protein; 2-alkyl-3-oxoalkanoate reductase,999.0652173913044
+OG0000162,fpgS,bifunctional folylpolyglutamate synthase/dihydrofolate synthase; Folylpolyglutamate synthase,1319.7391304347825
+OG0000163,accD,"acetyl-CoA carboxylase, carboxyltransferase subunit beta; Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta",921
+OG0000164,coaBC,bifunctional phosphopantothenoylcysteine decarboxylase/phosphopantothenate--cysteine ligase CoaBC; Coenzyme A biosynthesis bifunctional protein CoaBC,1405.4782608695652
+OG0000165,ubiE,"bifunctional demethylmenaquinone methyltransferase/2-methoxy-6-polyprenyl-1,4-benzoquinol methylase UbiE; Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE; ubiquinone/menaquinone biosynthesis methyltransferase",780.1739130434783
+OG0000166,comM,YifB family Mg chelatase-like AAA ATPase; Competence protein ComM,1533
+OG0000167,bamA_1; bamA_2,autotransporter assembly complex protein TamA; Outer membrane protein assembly factor BamA,1964.608695652174
+OG0000168,,ABC transporter ATP-binding protein/permease; Putative multidrug export ATP-binding/permease protein,1764.8478260869565
+OG0000169,,M48 family metallopeptidase; hypothetical protein,746.5434782608696
+OG0000170,dapE; dapE_1; dapE_2,succinyl-diaminopimelate desuccinylase; Succinyl-diaminopimelate desuccinylase,1173
+OG0000171,hemW,radical SAM family heme chaperone HemW; Heme chaperone HemW,1200.8478260869565
+OG0000172,rdgB,RdgB/HAM1 family non-canonical purine NTP pyrophosphatase; non-canonical purine NTP pyrophosphatase; dITP/XTP pyrophosphatase,649.0434782608696
+OG0000173,hrcA,heat-inducible transcriptional repressor HrcA; Heat-inducible transcription repressor HrcA,1093.5
+OG0000174,grpE,nucleotide exchange factor GrpE; Protein GrpE,662.4782608695652
+OG0000175,sasA_2; sasA_5; sasA_3; sasA_6; sasA_4; sasA_1,sensor histidine kinase; Adaptive-response sensory-kinase SasA,1784.9347826086957
+OG0000176,baeR,response regulator transcription factor; Transcriptional regulatory protein BaeR,723
+OG0000177,,copper chaperone PCu(A)C; hypothetical protein,561.0652173913044
+OG0000178,dnaK,molecular chaperone DnaK; Chaperone protein DnaK,1893.391304347826
+OG0000179,dnaJ; dnaJ_1; dnaJ_2; dnaJ_3,molecular chaperone DnaJ; Chaperone protein DnaJ,1144.1739130434783
+OG0000180,argB,acetylglutamate kinase; Acetylglutamate kinase,906
+OG0000181,,DMT family transporter; hypothetical protein,914.1521739130435
+OG0000182,lepA,translation elongation factor 4; Elongation factor 4,1819.4347826086957
+OG0000183,dapD,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase",849.2608695652174
+OG0000184,,LOG family protein; hypothetical protein,865.8913043478261
+OG0000185,truA; truA_3,tRNA pseudouridine(38-40) synthase TruA; tRNA pseudouridine synthase A,757.9565217391304
+OG0000186,fmt,methionyl-tRNA formyltransferase; Methionyl-tRNA formyltransferase,930.1304347826087
+OG0000187,def,peptide deformylase; Peptide deformylase,529.4347826086956
+OG0000188,rmuC,DNA recombination protein RmuC; hypothetical protein,1161.2608695652175
+OG0000189,,hypothetical protein; membrane protein; transglycosylase SLT domain-containing protein,587.9347826086956
+OG0000190,,DUF1150 family protein; DUF1150 domain-containing protein; hypothetical protein,252
+OG0000191,nth,endonuclease III; Endonuclease III,749.6739130434783
+OG0000192,rpmI,50S ribosomal protein L35; hypothetical protein,206.7391304347826
+OG0000193,rplT,50S ribosomal protein L20,402
+OG0000194,pheS,phenylalanine--tRNA ligase subunit alpha; Phenylalanine--tRNA ligase alpha subunit,1084.1739130434783
+OG0000195,pheT,phenylalanine--tRNA ligase subunit beta; Phenylalanine--tRNA ligase beta subunit,2415
+OG0000196,,metal ABC transporter substrate-binding protein; putative periplasmic iron-binding protein,908.6739130434783
+OG0000197,mntB_3; mntB_1; mntB_4,manganese/iron ABC transporter ATP-binding protein; Manganese transport system ATP-binding protein MntB,830.9347826086956
+OG0000198,mntB_2; mntB_3,metal ABC transporter permease; Manganese transport system membrane protein MntB,866.3478260869565
+OG0000199,mntB_1; mntB_3; mntB_2,metal ABC transporter permease; Manganese transport system membrane protein MntB,906.1304347826087
+OG0000200,ybaN,YbaN family protein; Inner membrane protein YbaN; hypothetical protein,362.9347826086956
+OG0000201,pncB,nicotinate phosphoribosyltransferase; Nicotinate phosphoribosyltransferase,1306.695652173913
+OG0000202,rpsA,30S ribosomal protein S1,1701
+OG0000203,cmk,(d)CMP kinase; Cytidylate kinase,648
+OG0000204,aroA,3-phosphoshikimate 1-carboxyvinyltransferase,1329
+OG0000205,,TIGR02300 family protein; hypothetical protein,381
+OG0000206,tme,NADP-dependent malic enzyme,2289.586956521739
+OG0000207,secB,protein-export chaperone SecB; Protein-export protein SecB,479.3478260869565
+OG0000208,,Tim44/TimA family putative adaptor protein; hypothetical protein,696.9130434782609
+OG0000209,hslO,Hsp33 family molecular chaperone; 33 kDa chaperonin,996.0652173913044
+OG0000210,aruC,aspartate aminotransferase family protein; Succinylornithine transaminase/acetylornithine aminotransferase,1208.608695652174
+OG0000211,,GcrA family cell cycle regulator; hypothetical protein,530.8695652173913
+OG0000212,ccmD,heme exporter protein CcmD; hypothetical protein,251.02173913043478
+OG0000213,ccmC,heme ABC transporter permease; Heme exporter protein C,760.1086956521739
+OG0000214,ccmB,heme exporter protein CcmB; Heme exporter protein B,666.8478260869565
+OG0000215,ccmA,heme ABC exporter ATP-binding protein CcmA; Cytochrome c biogenesis ATP-binding export protein CcmA,626.0217391304348
+OG0000216,acnA,aconitate hydratase AcnA; Aconitate hydratase A,2688
+OG0000217,rpsT,30S ribosomal protein S20,266.0217391304348
+OG0000218,dnaA; dnaA_1; dnaA_2,chromosomal replication initiator protein DnaA; Chromosomal replication initiator protein DnaA,1569.8478260869565
+OG0000219,dnaN,DNA polymerase III subunit beta; Beta sliding clamp,1122.0652173913043
+OG0000220,recF,DNA replication/repair protein RecF; DNA replication and repair protein RecF,1135.8260869565217
+OG0000221,aroQ,type II 3-dehydroquinate dehydratase; 3-dehydroquinate dehydratase,462.04347826086956
+OG0000222,cyoA,ubiquinol oxidase subunit II; Cytochrome bo(3) ubiquinol oxidase subunit 2,987.7826086956521
+OG0000223,cyoB,cytochrome o ubiquinol oxidase subunit I; Cytochrome bo(3) ubiquinol oxidase subunit 1,2019
+OG0000224,cyoC,cytochrome (ubi)quinol oxidase subunit III; Cytochrome bo(3) ubiquinol oxidase subunit 3,667.304347826087
+OG0000225,cyoD,cytochrome o ubiquinol oxidase subunit IV; hypothetical protein,626.7173913043479
+OG0000226,fabI; fabI_1; fabI_2,enoyl-ACP reductase FabI; Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,819
+OG0000227,fabB,beta-ketoacyl-ACP synthase I; 3-oxoacyl-[acyl-carrier-protein] synthase 1,1221
+OG0000228,fabA,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabA; 3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase,510.19565217391306
+OG0000229,,transcriptional repressor; hypothetical protein,545.804347826087
+OG0000230,,SH3 domain-containing protein; hypothetical protein,564.7173913043479
+OG0000231,,NlpC/P60 family protein; hypothetical protein,873.4565217391304
+OG0000232,pepA,leucyl aminopeptidase family protein; cytosol aminopeptidase; putative cytosol aminopeptidase,1369.0434782608695
+OG0000233,coaA,type I pantothenate kinase; Pantothenate kinase,991.9565217391304
+OG0000234,ansB; ansA; ansZ,asparaginase; L-asparaginase; putative L-asparaginase; L-asparaginase 2,991.5652173913044
+OG0000235,hslV,ATP-dependent protease subunit HslV,581.0869565217391
+OG0000236,hslU,ATP-dependent protease ATPase subunit HslU,1311
+OG0000237,pnp,polyribonucleotide nucleotidyltransferase; Polyribonucleotide nucleotidyltransferase,2198.9347826086955
+OG0000238,rpsO,30S ribosomal protein S15,270
+OG0000239,entS; entS_3; entS_2; entS_1,MFS transporter; Enterobactin exporter EntS,1629
+OG0000240,rbfA,30S ribosome-binding factor RbfA; Ribosome-binding factor A,406.7608695652174
+OG0000241,nusA,transcription termination factor NusA; Transcription termination/antitermination protein NusA,1623.5869565217392
+OG0000242,rimP,ribosome maturation factor RimP; Ribosome maturation factor RimP,621.6086956521739
+OG0000243,trmB,tRNA (guanine(46)-N(7))-methyltransferase TrmB; tRNA (guanine-N(7)-)-methyltransferase,720.8478260869565
+OG0000244,metK,methionine adenosyltransferase; S-adenosylmethionine synthase; methionine adenosyltransferase domain-containing protein,1255.4782608695652
+OG0000245,,helix-turn-helix domain-containing protein; hypothetical protein,414.1304347826087
+OG0000246,lnt,apolipoprotein N-acyltransferase; Apolipoprotein N-acyltransferase,1589.4130434782608
+OG0000247,corC; tlyC,hemolysin family protein; Magnesium and cobalt efflux protein CorC; Hemolysin C,1023.195652173913
+OG0000248,ybeY,rRNA maturation RNase YbeY; Endoribonuclease YbeY,483.9130434782609
+OG0000249,miaB,tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB; tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase,1376.5434782608695
+OG0000250,rimI; mshD,ribosomal protein S18-alanine N-acetyltransferase; [Ribosomal protein S18]-alanine N-acetyltransferase; Mycothiol acetyltransferase,489.5869565217391
+OG0000251,tsaB; OSGEPL1,"tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB; tRNA N6-adenosine threonylcarbamoyltransferase, mitochondrial",688.8913043478261
+OG0000252,ybaB,YbaB/EbfC family nucleoid-associated protein; Nucleoid-associated protein YbaB,323.9347826086956
+OG0000253,ruvB_1; ruvB_2,DNA polymerase III subunit gamma/tau; Holliday junction ATP-dependent DNA helicase RuvB; hypothetical protein,1936.5
+OG0000254,kdsB,3-deoxy-manno-octulosonate cytidylyltransferase,732
+OG0000255,,cytochrome c family protein; hypothetical protein; c-type cytochrome,563.4782608695652
+OG0000256,moeZ,molybdopterin-synthase adenylyltransferase MoeB; putative adenylyltransferase/sulfurtransferase MoeZ; ThiF family adenylyltransferase,770.0652173913044
+OG0000257,gshB,glutathione synthase; Glutathione synthetase,939.195652173913
+OG0000258,pstS,substrate-binding domain-containing protein; Phosphate-binding protein PstS,1046.804347826087
+OG0000259,pstC,phosphate ABC transporter permease subunit PstC; hypothetical protein,1466.9347826086957
+OG0000260,pstA,phosphate ABC transporter permease PstA; hypothetical protein,1291.5652173913043
+OG0000261,pstB,phosphate ABC transporter ATP-binding protein PstB; Phosphate import ATP-binding protein PstB,759
+OG0000262,,cell wall hydrolase; hypothetical protein,845.6739130434783
+OG0000263,rnd_1; rnd_2,ribonuclease D; Ribonuclease D,613.1739130434783
+OG0000264,ileS,isoleucine--tRNA ligase; Isoleucine--tRNA ligase,2916.4565217391305
+OG0000265,,hypothetical protein,485
+OG0000266,tadA,nucleoside deaminase; tRNA-specific adenosine deaminase,448.7608695652174
+OG0000267,rsmD,16S rRNA (guanine(966)-N(2))-methyltransferase RsmD; Ribosomal RNA small subunit methyltransferase D,563.3478260869565
+OG0000268,pmbA,TldD/PmbA family protein; Metalloprotease PmbA,1317.5
+OG0000269,cysQ; hisN,"3'(2'),5'-bisphosphate nucleotidase CysQ; Histidinol-phosphatase",776.9347826086956
+OG0000270,,DUF4170 domain-containing protein; hypothetical protein,243.3913043478261
+OG0000271,waaA,lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase; 3-deoxy-D-manno-octulosonic acid transferase,1321.891304347826
+OG0000272,lpxK,tetraacyldisaccharide 4'-kinase; Tetraacyldisaccharide 4'-kinase,1030.3695652173913
+OG0000273,,DUF2093 domain-containing protein; hypothetical protein,237.1304347826087
+OG0000274,mutL,DNA mismatch repair endonuclease MutL; DNA mismatch repair protein MutL,1845.9782608695652
+OG0000275,dcd,"2'-deoxycytidine 5'-triphosphate deaminase; dCTP deaminase, dUMP-forming",1089.195652173913
+OG0000276,lldD,FMN-dependent L-lactate dehydrogenase LldD; L-lactate dehydrogenase,1154.5434782608695
+OG0000277,serC,phosphoserine transaminase; Phosphoserine aminotransferase,1170.8478260869565
+OG0000278,purA,adenylosuccinate synthase; Adenylosuccinate synthetase,1290.0652173913043
+OG0000279,,hypothetical protein; membrane protein,1454.0217391304348
+OG0000280,rpoH; rpoH_1; rpoH_2,RNA polymerase sigma factor RpoH,886.1739130434783
+OG0000281,rluD,RluA family pseudouridine synthase; Ribosomal large subunit pseudouridine synthase D,1005.3260869565217
+OG0000282,ald,aldehyde dehydrogenase family protein; 3-succinoylsemialdehyde-pyridine dehydrogenase,1431
+OG0000283,,DNA translocase FtsK; hypothetical protein,2558.5434782608695
+OG0000284,mscL,large conductance mechanosensitive channel protein MscL; Large-conductance mechanosensitive channel,412.69565217391306
+OG0000285,puuA,glutamine synthetase family protein; Gamma-glutamylputrescine synthetase PuuA,1431.5217391304348
+OG0000286,puuB,FAD-binding oxidoreductase; Gamma-glutamylputrescine oxidoreductase,1284.0652173913043
+OG0000287,folD,bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD; Bifunctional protein FolD protein,900
+OG0000288,rsmE,16S rRNA (uracil(1498)-N(3))-methyltransferase; Ribosomal RNA small subunit methyltransferase E,743.5434782608696
+OG0000289,egtA,glutamate--cysteine ligase; Glutamate--cysteine ligase EgtA,1374
+OG0000290,rpsU,30S ribosomal protein S21,223.8913043478261
+OG0000291,bepF; mdtA,efflux RND transporter periplasmic adaptor subunit; Efflux pump periplasmic linker BepF; Multidrug resistance protein MdtA,1125.7608695652175
+OG0000292,mdtC; bepE,efflux RND transporter permease subunit; Multidrug resistance protein MdtC; Efflux pump membrane transporter BepE,3133.0434782608695
+OG0000293,pgi,glucose-6-phosphate isomerase; Glucose-6-phosphate isomerase,1664.9347826086957
+OG0000294,rplU,50S ribosomal protein L21; hypothetical protein,482.1521739130435
+OG0000295,rpmA,50S ribosomal protein L27,269.67391304347825
+OG0000296,rlmE,RlmE family RNA methyltransferase; Ribosomal RNA large subunit methyltransferase E,728.695652173913
+OG0000297,obgE; cgtA,GTPase ObgE; GTPase Obg/CgtA,1023.9782608695652
+OG0000298,proB,glutamate 5-kinase; Glutamate 5-kinase,1143.7826086956522
+OG0000299,proA,glutamate-5-semialdehyde dehydrogenase; Gamma-glutamyl phosphate reductase,1258.0434782608695
+OG0000300,nadD,nicotinate-nucleotide adenylyltransferase,593.9347826086956
+OG0000301,,peptidoglycan DD-metalloendopeptidase family protein; hypothetical protein,1241.608695652174
+OG0000302,,S41 family peptidase; putative CtpA-like serine protease; hypothetical protein,1311.391304347826
+OG0000303,rppH,RNA pyrophosphohydrolase,520.3695652173913
+OG0000304,,invasion associated locus B family protein; hypothetical protein,560.8695652173913
+OG0000305,,YggT family protein; hypothetical protein,293.8695652173913
+OG0000306,ppa,inorganic diphosphatase; Inorganic pyrophosphatase,531
+OG0000307,typA,translational GTPase TypA; GTP-binding protein TypA/BipA,1826.8695652173913
+OG0000308,mgtE,magnesium transporter; Magnesium transporter MgtE,1377.4565217391305
+OG0000309,dcp,M3 family metallopeptidase; Dipeptidyl carboxypeptidase; hypothetical protein,1986
+OG0000310,,lytic murein transglycosylase; hypothetical protein,1257.3260869565217
+OG0000311,galU; gtaB,UTP--glucose-1-phosphate uridylyltransferase GalU; UTP--glucose-1-phosphate uridylyltransferase,892.5
+OG0000312,kdsD,KpsF/GutQ family sugar-phosphate isomerase; Arabinose 5-phosphate isomerase KdsD,992.5434782608696
+OG0000313,,hypothetical protein,364.6304347826087
+OG0000314,zraR,sigma 54-interacting transcriptional regulator; Transcriptional regulatory protein ZraR,1385.804347826087
+OG0000315,clsC,phospholipase D family protein; Cardiolipin synthase C,1555.5652173913043
+OG0000316,guaB,IMP dehydrogenase; Inosine-5'-monophosphate dehydrogenase,1499.8695652173913
+OG0000317,rsmB_1; rsmB_2,RsmB/NOP family class I SAM-dependent RNA methyltransferase; Ribosomal RNA small subunit methyltransferase B,1287
+OG0000318,guaA,glutamine-hydrolyzing GMP synthase; GMP synthase [glutamine-hydrolyzing],1564.7608695652175
+OG0000319,ugpC,sn-glycerol-3-phosphate import ATP-binding protein UgpC; sn-glycerol-3-phosphate ABC transporter ATP-binding protein UgpC,1044.0217391304348
+OG0000320,ugpE; lacG; araQ,sn-glycerol-3-phosphate ABC transporter permease UgpE; hypothetical protein; Lactose transport system permease protein LacG; L-arabinose transport system permease protein AraQ,852
+OG0000321,ugpA,sn-glycerol-3-phosphate ABC transporter permease UgpA; sn-glycerol-3-phosphate transport system permease protein UgpA,885
+OG0000322,ugpB,sn-glycerol-3-phosphate ABC transporter substrate-binding protein UgpB; sn-glycerol-3-phosphate-binding periplasmic protein UgpB,1336.3695652173913
+OG0000323,,zinc ABC transporter substrate-binding protein; putative periplasmic iron-binding protein,927.0652173913044
+OG0000324,mntC; mntD,metal ABC transporter permease; Manganese transport system membrane protein MntC; Manganese transport system membrane protein MntD,883.2391304347826
+OG0000325,mntB_4; mntB_1; scaC,ABC transporter ATP-binding protein; Manganese transport system ATP-binding protein MntB; Manganese import ATP-binding protein ScaC,755.7391304347826
+OG0000326,nrdH,glutaredoxin-like protein NrdH; Glutaredoxin-like protein NrdH; glutaredoxin family protein,224.8695652173913
+OG0000327,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI; Protein NrdI,398.8695652173913
+OG0000328,nrdE; nrdE2,class 1b ribonucleoside-diphosphate reductase subunit alpha; Ribonucleoside-diphosphate reductase subunit alpha 2,2148.0652173913045
+OG0000329,nrdF; nrdF2,class 1b ribonucleoside-diphosphate reductase subunit beta; Ribonucleoside-diphosphate reductase subunit beta nrdF2,975
+OG0000330,prmC; prmC_2; prmC_1,peptide chain release factor N(5)-glutamine methyltransferase; Release factor glutamine methyltransferase,867.1304347826087
+OG0000331,prfA,peptide chain release factor 1; Peptide chain release factor RF1,1079.7391304347825
+OG0000332,fur,transcriptional repressor; Ferric uptake regulation protein; hypothetical protein,447.6521739130435
+OG0000333,secA,preprotein translocase subunit SecA; Protein translocase subunit SecA; SEC-C domain-containing protein,2681.913043478261
+OG0000334,prsA_1; prsA,peptidylprolyl isomerase; Foldase protein PrsA,947.304347826087
+OG0000335,argJ; oat2,bifunctional glutamate N-acetyltransferase/amino-acid acetyltransferase ArgJ; Glutamate N-acetyltransferase 2; Arginine biosynthesis bifunctional protein ArgJ,1233.7826086956522
+OG0000336,tcyP,cation:dicarboxylase symporter family transporter; L-cystine uptake protein TcyP,1340.1739130434783
+OG0000337,,ComF family protein; hypothetical protein,786.3913043478261
+OG0000338,grxC,glutaredoxin 3; Glutaredoxin 3,255.45652173913044
+OG0000339,ubiG,bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG; Ubiquinone biosynthesis O-methyltransferase; bifunctional 3-demethylubiquinone 3-O-methyltransferase/2-octaprenyl-6-hydroxy phenol methylase,745.1739130434783
+OG0000340,,aspartate kinase; Aspartate kinase,1257
+OG0000341,nhaA,Na+/H+ antiporter NhaA; Na(+)/H(+) antiporter NhaA,1359.5869565217392
+OG0000342,,SLC13 family permease; hypothetical protein,1773
+OG0000343,,tetratricopeptide repeat protein; hypothetical protein,672
+OG0000344,der,ribosome biogenesis GTPase Der; GTPase Der,1426.0434782608695
+OG0000345,,AtpZ/AtpI family protein; hypothetical protein,429.9782608695652
+OG0000346,atpB,F0F1 ATP synthase subunit A; ATP synthase subunit a,768.9782608695652
+OG0000347,atpE,F0F1 ATP synthase subunit C; ATP synthase subunit c,231
+OG0000348,atpF_2; atpF_1,F0F1 ATP synthase subunit B; ATP synthase subunit b,567.3260869565217
+OG0000349,atpF_1; atpF_2,F0F1 ATP synthase subunit B; ATP synthase subunit b,495
+OG0000350,glyQ,glycine--tRNA ligase subunit alpha; Glycine--tRNA ligase alpha subunit,943.7608695652174
+OG0000351,bepA_1; bepA_2; bepA_4,tetratricopeptide repeat protein; Beta-barrel assembly-enhancing protease,1695.6521739130435
+OG0000352,ispB,polyprenyl synthetase family protein; Octaprenyl diphosphate synthase,1038.9130434782608
+OG0000353,yfiC,methyltransferase; tRNA1(Val) (adenine(37)-N6)-methyltransferase,791.6086956521739
+OG0000354,rnhB,ribonuclease HII; Ribonuclease HII,649.2391304347826
+OG0000355,ywlC,L-threonylcarbamoyladenylate synthase; Threonylcarbamoyl-AMP synthase,963
+OG0000356,,DUF6101 family protein; hypothetical protein,526.8260869565217
+OG0000357,purD; purD_1,phosphoribosylamine--glycine ligase; Phosphoribosylamine--glycine ligase,1275.9130434782608
+OG0000358,ubiA,4-hydroxybenzoate octaprenyltransferase,1005.5869565217391
+OG0000359,pdxH,pyridoxamine 5'-phosphate oxidase; Pyridoxine/pyridoxamine 5'-phosphate oxidase,624
+OG0000360,cbpA,J domain-containing protein; Curved DNA-binding protein; molecular chaperone DnaJ; DnaJ domain-containing protein,898.9347826086956
+OG0000361,fabI; fabI_2; fabI_1,enoyl-ACP reductase FabI; Enoyl-[acyl-carrier-protein] reductase [NADH] FabI,819
+OG0000362,aroC,chorismate synthase; Chorismate synthase,1089.6521739130435
+OG0000363,ribB; ribBA,"3,4-dihydroxy-2-butanone-4-phosphate synthase; Riboflavin biosynthesis protein RibBA",1105.9565217391305
+OG0000364,xseB,exodeoxyribonuclease VII small subunit; Exodeoxyribonuclease 7 small subunit,254.93478260869566
+OG0000365,dxs; dxs_2; dxs_1,1-deoxy-D-xylulose-5-phosphate synthase,1915.304347826087
+OG0000366,tldD,metalloprotease TldD; Metalloprotease TldD,1420.2391304347825
+OG0000367,,invasion associated locus B family protein; invasion-associated locus B family protein; hypothetical protein,545.1521739130435
+OG0000368,cyoE; ctaB,heme o synthase; Protoheme IX farnesyltransferase,936.5869565217391
+OG0000369,ispH,4-hydroxy-3-methylbut-2-enyl diphosphate reductase,1052.3478260869565
+OG0000370,rnhA,ribonuclease HI; Ribonuclease HI,468
+OG0000371,,YqgE/AlgH family protein; hypothetical protein,585
+OG0000372,,EAL domain-containing protein; hypothetical protein; PAS domain-containing protein,2858.391304347826
+OG0000373,yieH,HAD family phosphatase; HAD family hydrolase; 6-phosphogluconate phosphatase; HAD-IA family hydrolase,696.195652173913
+OG0000374,mutY,A/G-specific adenine glycosylase; Adenine DNA glycosylase; NUDIX domain-containing protein,1070.1521739130435
+OG0000375,,DciA family protein; hypothetical protein,502.4347826086956
+OG0000376,bdbD,DsbA family protein; Disulfide bond formation protein D; hypothetical protein,639.9130434782609
+OG0000377,ppdK,"pyruvate, phosphate dikinase; Pyruvate, phosphate dikinase",2668.5
+OG0000378,sodB,superoxide dismutase; Superoxide dismutase [Mn],603
+OG0000379,dapb1,S9 family peptidase; Dipeptidyl aminopeptidase BI; prolyl oligopeptidase family serine peptidase,2069.7391304347825
+OG0000380,ros,MucR family transcriptional regulator; Transcriptional regulatory protein ros,438
+OG0000381,sufE,SufE family protein; Cysteine desulfuration protein SufE,410.9347826086956
+OG0000382,,DUF5330 domain-containing protein; hypothetical protein,374.0869565217391
+OG0000383,,peptidoglycan-binding protein; hypothetical protein,831.1521739130435
+OG0000384,,hypothetical protein,221.2826086956522
+OG0000385,phoP,response regulator transcription factor; Transcriptional regulatory protein PhoP,668.7391304347826
+OG0000386,sasA_3; sasA_4; sasA_6; sasA_1; sasA_2; sasA_5,sensor histidine kinase; ATP-binding protein; Adaptive-response sensory-kinase SasA; HAMP domain-containing histidine kinase; hypothetical protein,1417.4347826086957
+OG0000387,,cytochrome c-type biogenesis protein CycH; tetratricopeptide repeat protein; hypothetical protein,772.9565217391304
+OG0000388,ccmE,cytochrome c maturation protein CcmE; Cytochrome c-type biogenesis protein CcmE,480.1304347826087
+OG0000389,ccmF,heme lyase CcmF/NrfE family subunit; Cytochrome c-type biogenesis protein CcmF,1978.8260869565217
+OG0000390,degP_1; degP_2; degP_3,Do family serine endopeptidase; Periplasmic serine endoprotease DegP,1510.5869565217392
+OG0000391,cusR,response regulator transcription factor; Transcriptional regulatory protein CusR,687
+OG0000392,sasA_4; sasA_3; sasA_5; sasA_2; sasA_1; mprB,HAMP domain-containing histidine kinase; Adaptive-response sensory-kinase SasA; Signal transduction histidine-protein kinase/phosphatase MprB,1369.695652173913
+OG0000393,pepN,aminopeptidase N; Aminopeptidase N,2618.7608695652175
+OG0000394,,uracil-DNA glycosylase; hypothetical protein,833.2826086956521
+OG0000395,thiD_2; thiD_1,hydroxymethylpyrimidine/phosphomethylpyrimidine kinase; Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,760.2391304347826
+OG0000396,thiE_1; thiE_2,thiamine phosphate synthase; Thiamine-phosphate synthase,606
+OG0000397,thiS,sulfur carrier protein ThiS; hypothetical protein,198
+OG0000398,thiO; mnmC,FAD-dependent oxidoreductase; glycine oxidase ThiO; tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC; hypothetical protein,951
+OG0000399,thiC,phosphomethylpyrimidine synthase ThiC; Phosphomethylpyrimidine synthase,1805.804347826087
+OG0000400,omp2b,porin; Porin Omp2b,1209.5869565217392
+OG0000401,hmuV,heme ABC transporter ATP-binding protein; Hemin import ATP-binding protein HmuV; ATP-binding cassette domain-containing protein,794.1739130434783
+OG0000402,hmuU,iron ABC transporter permease; Hemin transport system permease protein HmuU,1089.7173913043478
+OG0000403,hmuT,ABC transporter substrate-binding protein; Hemin-binding periplasmic protein HmuT,904.5
+OG0000404,hxuC; btuB,TonB-dependent hemoglobin/transferrin/lactoferrin family receptor; Heme/hemopexin utilization protein C; Vitamin B12 transporter BtuB,2194.4347826086955
+OG0000405,,TonB family protein; hypothetical protein,788.804347826087
+OG0000406,,lytic transglycosylase domain-containing protein; hypothetical protein,2093.1521739130435
+OG0000407,dapA,4-hydroxy-tetrahydrodipicolinate synthase,884.7391304347826
+OG0000408,udgb,uracil-DNA glycosylase; Type-5 uracil-DNA glycosylase,680.7391304347826
+OG0000409,rpoZ,DNA-directed RNA polymerase subunit omega,398.9347826086956
+OG0000410,rsh,"bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase; GTP pyrophosphokinase rsh",2225.021739130435
+OG0000411,pyrE,orotate phosphoribosyltransferase; Orotate phosphoribosyltransferase,581.4782608695652
+OG0000412,,DUF2062 domain-containing protein; hypothetical protein,592.7608695652174
+OG0000413,acpS,holo-ACP synthase; Holo-[acyl-carrier-protein] synthase,402
+OG0000414,lepB,signal peptidase I; hypothetical protein; Signal peptidase I,815.1521739130435
+OG0000415,rnc,ribonuclease III; Ribonuclease 3,708
+OG0000416,era,GTPase Era,905.9347826086956
+OG0000417,recO,DNA repair protein RecO,747.1304347826087
+OG0000418,panC,pantoate--beta-alanine ligase; Pantothenate synthetase,860.0217391304348
+OG0000419,,HD family hydrolase; hypothetical protein,618.3260869565217
+OG0000420,pyrC_1; pyrC_2,dihydroorotase; Dihydroorotase,1329
+OG0000421,cysS,cysteine--tRNA ligase; Cysteine--tRNA ligase,1508.3478260869565
+OG0000422,psd,phosphatidylserine decarboxylase; Phosphatidylserine decarboxylase proenzyme,699.0652173913044
+OG0000423,pssA,phosphatidylcholine/phosphatidylserine synthase; CDP-diacylglycerol--serine O-phosphatidyltransferase; hypothetical protein,841.2391304347826
+OG0000424,yciK,SDR family NAD(P)-dependent oxidoreductase; putative oxidoreductase YciK,750.195652173913
+OG0000425,purF,amidophosphoribosyltransferase; Amidophosphoribosyltransferase,1490.4130434782608
+OG0000426,,CvpA family protein; hypothetical protein,580.0434782608696
+OG0000427,radA; radA_2,DNA repair protein RadA,1393.3695652173913
+OG0000428,rplI,50S ribosomal protein L9,596.804347826087
+OG0000429,,hypothetical protein,980.8695652173913
+OG0000430,rpsR,30S ribosomal protein S18,250.04347826086956
+OG0000431,rpsF,30S ribosomal protein S6; hypothetical protein,407.4782608695652
+OG0000432,ybjG,undecaprenyl-diphosphatase; Putative undecaprenyl-diphosphatase YbjG,588.3260869565217
+OG0000433,fabD,ACP S-malonyltransferase; Malonyl CoA-acyl carrier protein transacylase,945
+OG0000434,fabG,3-oxoacyl-[acyl-carrier-protein] reductase; 3-oxoacyl-[acyl-carrier-protein] reductase FabG,738
+OG0000435,acpP,acyl carrier protein; Acyl carrier protein AcpP,237
+OG0000436,mltG,endolytic transglycosylase MltG; Endolytic murein transglycosylase,1065.1304347826087
+OG0000437,gmk,guanylate kinase; Guanylate kinase,680.6739130434783
+OG0000438,rsmA,16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))- dimethyltransferase RsmA; Ribosomal RNA small subunit methyltransferase A,831.5869565217391
+OG0000439,pdxA,4-hydroxythreonine-4-phosphate dehydrogenase PdxA; 4-hydroxythreonine-4-phosphate dehydrogenase,1014.6521739130435
+OG0000440,surA,peptidylprolyl isomerase; Chaperone SurA,967.4347826086956
+OG0000441,lptG,LPS export ABC transporter permease LptG; hypothetical protein,1093.304347826087
+OG0000442,lptF,LPS export ABC transporter permease LptF; hypothetical protein,1190.804347826087
+OG0000443,,DNA polymerase III subunit chi; hypothetical protein,447
+OG0000444,yhjE,MHS family MFS transporter; Inner membrane metabolite transport protein YhjE,1290
+OG0000445,ndk,nucleoside-diphosphate kinase; Nucleoside diphosphate kinase,423
+OG0000446,pgsA,CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,592.7608695652174
+OG0000447,uvrC,excinuclease ABC subunit UvrC; UvrABC system protein C,1986.9782608695652
+OG0000448,rlmJ,23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ; Ribosomal RNA large subunit methyltransferase J,861.5217391304348
+OG0000449,tatA,twin-arginine translocase TatA/TatE family subunit; Sec-independent protein translocase protein TatA,310.7608695652174
+OG0000450,serS,serine--tRNA ligase; Serine--tRNA ligase,1275.304347826087
+OG0000451,pcm_2; pcm_1,protein-L-isoaspartate(D-aspartate) O-methyltransferase; Protein-L-isoaspartate O-methyltransferase,662.2826086956521
+OG0000452,,M23 family metallopeptidase; hypothetical protein; peptidoglycan DD-metalloendopeptidase family protein,1176.2608695652175
+OG0000453,yajC,preprotein translocase subunit YajC; hypothetical protein,453.5217391304348
+OG0000454,,MTH938/NDUFAF3 family protein; hypothetical protein,387
+OG0000455,,phytoene/squalene synthase family protein; hypothetical protein; squalene/phytoene synthase family protein,861.3913043478261
+OG0000456,prsA_2; ppiD,peptidyl-prolyl cis-trans isomerase; Foldase protein PrsA; hypothetical protein; Peptidyl-prolyl cis-trans isomerase D,1890.8478260869565
+OG0000457,tpiA,triose-phosphate isomerase; Triosephosphate isomerase,765
+OG0000458,secG,preprotein translocase subunit SecG; hypothetical protein,453.2608695652174
+OG0000459,pyrG,CTP synthase,1617.6739130434783
+OG0000460,kdsA,3-deoxy-8-phosphooctulonate synthase; 2-dehydro-3-deoxyphosphooctonate aldolase,842.9347826086956
+OG0000461,eno,phosphopyruvate hydratase; Enolase; enolase,1261.9782608695652
+OG0000462,,septum formation initiator family protein; hypothetical protein,314.54347826086956
+OG0000463,pdhA; acoA,"pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha; Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha",1041
+OG0000464,dxs_1; dxs_2; dxs_3,pyruvate dehydrogenase complex E1 component subunit beta; 1-deoxy-D-xylulose-5-phosphate synthase,1365.1304347826087
+OG0000465,pdhC,pyruvate dehydrogenase complex dihydrolipoamide acetyltransferase; Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex,1336.304347826087
+OG0000466,lpdA; lpd,dihydrolipoyl dehydrogenase; Dihydrolipoyl dehydrogenase,1476.2608695652175
+OG0000467,lipA,lipoyl synthase; Lipoyl synthase,962.804347826087
+OG0000468,pasT; ratA,type II toxin-antitoxin system RatA family toxin; Persistence and stress-resistance toxin PasT; Ribosome association toxin RatA,462
+OG0000469,ispDF,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase; Bifunctional enzyme IspD/IspF",1097.6739130434783
+OG0000470,rirA; nsrR,iron-responsive transcriptional regulator RirA; HTH-type transcriptional repressor NsrR; Putative HTH-type transcriptional regulator,439.54347826086956
+OG0000471,glnG,sigma-54 dependent transcriptional regulator; DNA-binding transcriptional regulator NtrC,1358.8695652173913
+OG0000472,clpP,ATP-dependent Clp endopeptidase proteolytic subunit ClpP; ATP-dependent Clp protease proteolytic subunit,632.6739130434783
+OG0000473,clpX,ATP-dependent Clp protease ATP-binding subunit ClpX,1275
+OG0000474,lon; lon_1,endopeptidase La; Lon protease,2403.9565217391305
+OG0000475,hupB,HU family DNA-binding protein; DNA-binding protein HRL53; DNA-binding protein HRm,278.9347826086956
+OG0000476,tig,trigger factor; Trigger factor,1433.2826086956522
+OG0000477,gatB,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatB; Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B,1497.608695652174
+OG0000478,,NADH:ubiquinone oxidoreductase subunit NDUFA12; hypothetical protein,398.9347826086956
+OG0000479,,DUF2155 domain-containing protein; hypothetical protein,417.5217391304348
+OG0000480,,rhomboid family intramembrane serine protease; hypothetical protein,736.7608695652174
+OG0000481,rlmB_2; rlmB_1; rlmB,RNA methyltransferase; 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB; 23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB,833.2173913043479
+OG0000482,secE,preprotein translocase subunit SecE; Protein translocase subunit SecE,215.2826086956522
+OG0000483,nusG,transcription termination/antitermination protein NusG; Transcription termination/antitermination protein NusG,531.3913043478261
+OG0000484,rplK,50S ribosomal protein L11,429
+OG0000485,rplA,50S ribosomal protein L1,702
+OG0000486,rplJ,50S ribosomal protein L10,527.0217391304348
+OG0000487,rpoB,DNA-directed RNA polymerase subunit beta,4124.913043478261
+OG0000488,rpoC,DNA-directed RNA polymerase subunit beta',4211.869565217391
+OG0000489,nbzA,nitroreductase; Nitrobenzene nitroreductase,689.9347826086956
+OG0000490,sdaB; tdcG,L-serine ammonia-lyase; L-serine dehydratase 2; L-serine dehydratase TdcG,1416.1304347826087
+OG0000491,,hypothetical protein,279.2608695652174
+OG0000492,,SPOR domain-containing protein; D-alanyl-D-alanine carboxypeptidase; hypothetical protein,1349.3478260869565
+OG0000493,clpS,ATP-dependent Clp protease adapter ClpS; ATP-dependent Clp protease adapter protein ClpS,402.8478260869565
+OG0000494,,HIT family protein; hypothetical protein,423
+OG0000495,,RidA family protein; hypothetical protein,462
+OG0000496,,cell envelope integrity EipB family protein; hypothetical protein,831.3260869565217
+OG0000497,rpsB,30S ribosomal protein S2,778.5652173913044
+OG0000498,tsf,translation elongation factor Ts; Elongation factor Ts,924
+OG0000499,pyrH,UMP kinase; Uridylate kinase,720
+OG0000500,frr,ribosome recycling factor; Ribosome-recycling factor,561
+OG0000501,rseP; mmpA,RIP metalloprotease RseP; RIP metalloprotease; Metalloprotease MmpA,1141.1739130434783
+OG0000502,bamA; bamA_2; bamA_1,outer membrane protein assembly factor BamA; Outer membrane protein assembly factor BamA,2397.195652173913
+OG0000503,lpxD; lpxD_1; lpxD_3; lpxD_2,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase; UDP-3-O-acylglucosamine N-acyltransferase,1047
+OG0000504,fabZ,3-hydroxyacyl-ACP dehydratase FabZ; 3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ,468.2608695652174
+OG0000505,lpxA,acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase; Acyl-[acyl-carrier-protein]--UDP-N- acetylglucosamine O-acyltransferase,822.5217391304348
+OG0000506,lpxI,"UDP-2,3-diacylglucosamine diphosphatase LpxI; UDP-2,3-diacylglucosamine pyrophosphatase LpxI",873.0652173913044
+OG0000507,lpxB,lipid-A-disaccharide synthase; Lipid-A-disaccharide synthase,1194.7826086956522
+OG0000508,glnQ_2; glnQ_1,amino acid ABC transporter ATP-binding protein; Glutamine transport ATP-binding protein GlnQ,771.0652173913044
+OG0000509,occM,ABC transporter permease subunit; Octopine transport system permease protein OccM,708
+OG0000510,hisQ; artQ,ABC transporter permease subunit; Histidine transport system permease protein HisQ; Arginine ABC transporter permease protein ArtQ,721.304347826087
+OG0000511,gltA,citrate synthase; Citrate synthase,1296.3260869565217
+OG0000512,gltX; gltX_2; gltX_1,glutamate--tRNA ligase; Glutamate--tRNA ligase,1420.5434782608695
+OG0000513,rpiA,ribose-5-phosphate isomerase RpiA; Ribose-5-phosphate isomerase A,706.0434782608696
+OG0000514,,DUF2059 domain-containing protein; hypothetical protein,560.4130434782609
+OG0000515,gor; garB,glutathione-disulfide reductase; Glutathione amide reductase,1394.6739130434783
+OG0000516,aroH,3-deoxy-7-phosphoheptulonate synthase class II; Phospho-2-dehydro-3-deoxyheptonate aldolase,1378.5652173913043
+OG0000517,nadE,NAD+ synthase; Glutamine-dependent NAD(+) synthetase,1667.9347826086957
+OG0000518,gltX; gltX_1; gltX_2,glutamate--tRNA ligase; Glutamate--tRNA ligase,1376.7391304347825
+OG0000519,rhlE_2; rhlE_1,DEAD/DEAH box helicase; ATP-dependent RNA helicase RhlE,1404.7173913043478
+OG0000520,proY,amino acid permease; Proline-specific permease ProY,1385.8695652173913
+OG0000521,cpdR,response regulator; Response regulator receiver protein CpdR,358.6304347826087
+OG0000522,ibpA_2; ibpA_1,Hsp20 family protein; Small heat shock protein IbpA,468.5869565217391
+OG0000523,iscA; hesB2,"iron-sulfur cluster assembly accessory protein; Iron-binding protein IscA; Protein HesB, vegetative",375.9782608695652
+OG0000524,acpXL,acyl carrier protein; Acyl carrier protein AcpXL,285.19565217391306
+OG0000525,,hypothetical protein,4561.782608695652
+OG0000526,ctaA,COX15/CtaA family protein; Heme A synthase,1089.5869565217392
+OG0000527,glyA,serine hydroxymethyltransferase; Serine hydroxymethyltransferase,1310.4130434782608
+OG0000528,nrdR,transcriptional regulator NrdR; Transcriptional repressor NrdR,483
+OG0000529,ribD,bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD; Riboflavin biosynthesis protein RibD,1127.9347826086957
+OG0000530,ribE,riboflavin synthase; Riboflavin synthase,618.1304347826087
+OG0000531,ribH1; ribH,"6,7-dimethyl-8-ribityllumazine synthase; 6,7-dimethyl-8-ribityllumazine synthase 1",456.39130434782606
+OG0000532,bamE,outer membrane protein assembly factor BamE; Outer membrane protein assembly factor BamE,479.8695652173913
+OG0000533,,DUF177 domain-containing protein; hypothetical protein; YceD family protein,585.5869565217391
+OG0000534,plsX,phosphate acyltransferase PlsX; Phosphate acyltransferase,1074.0652173913043
+OG0000535,fabH,ketoacyl-ACP synthase III; 3-oxoacyl-[acyl-carrier-protein] synthase 3,975
+OG0000536,ihfA,integration host factor subunit alpha; Integration host factor subunit alpha,322.2391304347826
+OG0000537,,MerR family transcriptional regulator; hypothetical protein,504.32608695652175
+OG0000538,thrS,threonine--tRNA ligase; Threonine--tRNA ligase,1984.4347826086957
+OG0000539,folE,GTP cyclohydrolase I FolE; GTP cyclohydrolase 1,622.7608695652174
+OG0000540,accC,acetyl-CoA carboxylase biotin carboxylase subunit; Biotin carboxylase,1358.5434782608695
+OG0000541,accB,acetyl-CoA carboxylase biotin carboxyl carrier protein; Biotin carboxyl carrier protein of acetyl-CoA carboxylase,494.9347826086956
+OG0000542,dusA,tRNA dihydrouridine(20/20a) synthase DusA; tRNA-dihydrouridine(20/20a) synthase,982.3695652173913
+OG0000543,,uracil-DNA glycosylase family protein; hypothetical protein,633.1304347826087
+OG0000544,,thermonuclease family protein; hypothetical protein,555.5217391304348
+OG0000545,rpmG,50S ribosomal protein L33,167.7608695652174
+OG0000546,rnr,ribonuclease R; Ribonuclease R,2275.1739130434785
+OG0000547,dprA,DNA-processing protein DprA; hypothetical protein,1223.9347826086957
+OG0000548,pyrC_2; pyrC_1,dihydroorotase; Dihydroorotase,1301.2826086956522
+OG0000549,pyrB,aspartate carbamoyltransferase catalytic subunit; Aspartate carbamoyltransferase,961.6304347826087
+OG0000550,aidB,acyl-CoA dehydrogenase; Putative acyl-CoA dehydrogenase AidB; hypothetical protein,1614.7391304347825
+OG0000551,ruvX; yrrK,Holliday junction resolvase RuvX; Putative pre-16S rRNA nuclease,479.80434782608694
+OG0000552,gatC,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatC; Glutamyl-tRNA(Gln) amidotransferase subunit C,288
+OG0000553,gatA,Asp-tRNA(Asn)/Glu-tRNA(Gln) amidotransferase subunit GatA; Glutamyl-tRNA(Gln) amidotransferase subunit A; amidase family protein,1466.5652173913043
+OG0000554,lptB_2; lptB_1,ABC transporter ATP-binding protein; Lipopolysaccharide export system ATP-binding protein LptB,783
+OG0000555,,branched-chain amino acid ABC transporter permease; hypothetical protein,1058.608695652174
+OG0000556,livH,branched-chain amino acid ABC transporter permease; High-affinity branched-chain amino acid transport system permease protein LivH,1076.8695652173913
+OG0000557,braC,"ABC transporter substrate-binding protein; Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein; Leu/Ile/Val-binding protein",1129.5434782608695
+OG0000558,,CspA family cold shock protein; hypothetical protein; cold shock domain-containing protein,586.304347826087
+OG0000559,bpoC; menH_2; menH,"alpha/beta hydrolase; Putative non-heme bromoperoxidase BpoC; 2-succinyl-6-hydroxy-2, 4-cyclohexadiene-1-carboxylate synthase",778.4347826086956
+OG0000560,,DUF3126 family protein; hypothetical protein,213.06521739130434
+OG0000561,radC,DNA repair protein RadC; hypothetical protein,794.7391304347826
+OG0000562,map,type I methionyl aminopeptidase; Methionine aminopeptidase,831
+OG0000563,sfsA,DNA/RNA nuclease SfsA; Sugar fermentation stimulation protein A,716.9347826086956
+OG0000564,trmJ,RNA methyltransferase; tRNA (cytidine/uridine/adenosine-2'-O-)-methyltransferase TrmJ; tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ,834.3260869565217
+OG0000565,murI,glutamate racemase; Glutamate racemase,819
+OG0000566,rpsD,30S ribosomal protein S4,635.4130434782609
+OG0000567,rlpA,septal ring lytic transglycosylase RlpA family protein; Endolytic peptidoglycan transglycosylase RlpA,887.9347826086956
+OG0000568,tmk; tmk_2; tmk_1,dTMP kinase; Thymidylate kinase,645.8478260869565
+OG0000569,metG,methionine--tRNA ligase; Methionine--tRNA ligase,1559.9347826086957
+OG0000570,ycfH,TatD family hydrolase; putative metal-dependent hydrolase YcfH,774
+OG0000571,rbn,MBL fold metallo-hydrolase; Ribonuclease BN,810.2608695652174
+OG0000572,divK; rcsC_3; rcsC_2; rcsC_1,response regulator; Polar-differentiation response regulator DivK; Sensor histidine kinase RcsC,374.4130434782609
+OG0000573,rpsI,30S ribosomal protein S9,486
+OG0000574,rplM,50S ribosomal protein L13,465
+OG0000575,recJ,single-stranded-DNA-specific exonuclease RecJ; Single-stranded-DNA-specific exonuclease RecJ,1784.9347826086957
+OG0000576,parE; gyrB_2; gyrB_1,DNA topoisomerase IV subunit B; DNA gyrase subunit B,2065.5
+OG0000577,lipB,lipoyl(octanoyl) transferase LipB; Octanoyltransferase,738.1304347826087
+OG0000578,,porin family protein; hypothetical protein,858.9782608695652
+OG0000579,nuoB,NADH-quinone oxidoreductase subunit B,582
+OG0000580,nuoD,NADH-quinone oxidoreductase subunit D,1191
+OG0000581,nuoE; nqo2,NADH-quinone oxidoreductase subunit NuoE; NADH-quinone oxidoreductase chain 2,668.4782608695652
+OG0000582,nuoF; nqo1,NADH-quinone oxidoreductase subunit NuoF; NADH-quinone oxidoreductase chain 1,1308
+OG0000583,nuoG; nqo3,NADH-quinone oxidoreductase subunit NuoG; NADH-quinone oxidoreductase chain 3,2070
+OG0000584,nuoH,NADH-quinone oxidoreductase subunit NuoH; NADH-quinone oxidoreductase subunit H,1047.9130434782608
+OG0000585,nuoI,NADH-quinone oxidoreductase subunit NuoI; NADH-quinone oxidoreductase subunit I,492
+OG0000586,nuoJ,NADH-quinone oxidoreductase subunit J,621
+OG0000587,nuoK,NADH-quinone oxidoreductase subunit NuoK; NADH-quinone oxidoreductase subunit K,309.1304347826087
+OG0000588,nuoL,NADH-quinone oxidoreductase subunit L,1965.1304347826087
+OG0000589,nuoM,NADH-quinone oxidoreductase subunit M,1491.1304347826087
+OG0000590,nuoN,NADH-quinone oxidoreductase subunit NuoN; NADH-quinone oxidoreductase subunit N,1455
+OG0000591,birA,biotin--[acetyl-CoA-carboxylase] ligase; Bifunctional ligase/repressor BirA,807.4565217391304
+OG0000592,rnj; rnaJ,ribonuclease J; Ribonuclease J,1677
+OG0000593,proS,proline--tRNA ligase; Proline--tRNA ligase,1327.0434782608695
+OG0000594,lolE,lipoprotein-releasing ABC transporter permease subunit; Lipoprotein-releasing system transmembrane protein LolE,1269
+OG0000595,lolD,ABC transporter ATP-binding protein; Lipoprotein-releasing system ATP-binding protein LolD,681
+OG0000596,,succinate dehydrogenase assembly factor 2; hypothetical protein,289.4347826086956
+OG0000597,mfd,transcription-repair coupling factor; Transcription-repair-coupling factor,3500.804347826087
+OG0000598,,invasion associated locus B family protein; hypothetical protein,612
+OG0000599,rne,ribonuclease E/G; Rne/Rng family ribonuclease; Ribonuclease E,2568.8695652173915
+OG0000600,amiC,N-acetylmuramoyl-L-alanine amidase; N-acetylmuramoyl-L-alanine amidase AmiC,1228.391304347826
+OG0000601,mrcA,penicillin-binding protein 1A; Penicillin-binding protein 1A,2454.195652173913
+OG0000602,prfB,peptide chain release factor 2; Peptide chain release factor RF2,994.5652173913044
+OG0000603,bcp,peroxiredoxin; thioredoxin-dependent thiol peroxidase; Putative peroxiredoxin bcp,477.8478260869565
+OG0000604,tyrS,tyrosine--tRNA ligase; Tyrosine--tRNA ligase,1236.608695652174
+OG0000605,,alpha/beta hydrolase; hypothetical protein,681
+OG0000606,iscS,cysteine desulfurase; Cysteine desulfurase IscS,1146.3260869565217
+OG0000607,sufB,Fe-S cluster assembly protein SufB; FeS cluster assembly protein SufB; SufD family Fe-S cluster assembly protein,1493.304347826087
+OG0000608,sufC,Fe-S cluster assembly ATPase SufC; putative ATP-dependent transporter SufC,756.195652173913
+OG0000609,sufD,Fe-S cluster assembly protein SufD; FeS cluster assembly protein SufD,1278.4565217391305
+OG0000610,csd; sufS,cysteine desulfurase; putative cysteine desulfurase; Cysteine desulfurase SufS,1246.1739130434783
+OG0000611,,SUF system Fe-S cluster assembly protein; hypothetical protein,402.0652173913044
+OG0000612,,hypothetical protein; membrane protein,335.0217391304348
+OG0000613,,hypothetical protein,335.1521739130435
+OG0000614,ubiL_1; ubiL_2,UbiH/UbiF family hydroxylase; Ubiquinone hydroxylase UbiL,1221.1304347826087
+OG0000615,pcs,phosphatidylcholine/phosphatidylserine synthase; Phosphatidylcholine synthase,805.695652173913
+OG0000616,,ETC complex I subunit; hypothetical protein,306.1304347826087
+OG0000617,hdaA; dnaA_2; dnaA_1; hda,DnaA regulatory inactivator HdaA; Chromosomal replication initiator protein DnaA; DnaA regulatory inactivator Hda,688.8260869565217
+OG0000618,yhhT,AI-2E family transporter; hypothetical protein; Putative transport protein YhhT; Putative transport protein,1203.804347826087
+OG0000619,purM,phosphoribosylformylglycinamidine cyclo-ligase; Phosphoribosylformylglycinamidine cyclo-ligase,1084.5
+OG0000620,purN,phosphoribosylglycinamide formyltransferase; Phosphoribosylglycinamide formyltransferase,611.0217391304348
+OG0000621,cckA,response regulator; Sensor kinase CckA; PAS domain-containing hybrid sensor histidine kinase/response regulator,2514.1304347826085
+OG0000622,,flagellar biosynthetic protein FliO; hypothetical protein,500.1521739130435
+OG0000623,dksA,RNA polymerase-binding protein DksA; RNA polymerase-binding transcription factor DksA,420.5869565217391
+OG0000624,rutF,flavin reductase family protein; flavin reductase; FMN reductase (NADH) RutF,530.7173913043479
+OG0000625,rpe,ribulose-phosphate 3-epimerase; Ribulose-phosphate 3-epimerase,675.9782608695652
+OG0000626,purB,adenylosuccinate lyase; Adenylosuccinate lyase,1306.695652173913
+OG0000627,,alpha/beta hydrolase; hypothetical protein,549
+OG0000628,purC,phosphoribosylaminoimidazolesuccinocarboxamide synthase; Phosphoribosylaminoimidazole-succinocarboxamide synthase,765
+OG0000629,purS,phosphoribosylformylglycinamidine synthase subunit PurS; Phosphoribosylformylglycinamidine synthase subunit PurS,240
+OG0000630,purQ,phosphoribosylformylglycinamidine synthase subunit PurQ; Phosphoribosylformylglycinamidine synthase subunit PurQ,672.195652173913
+OG0000631,,BolA family transcriptional regulator; putative protein RP812,234
+OG0000632,grxD,Grx4 family monothiol glutaredoxin; Glutaredoxin 4,332.9347826086956
+OG0000633,bcr,multidrug effflux MFS transporter; Bicyclomycin resistance protein,1249.7826086956522
+OG0000634,parC,DNA topoisomerase IV subunit A; DNA topoisomerase 4 subunit A,2250
+OG0000635,aspS,aspartate--tRNA ligase; Aspartate--tRNA ligase; Aspartate--tRNA(Asp/Asn) ligase,1793.804347826087
+OG0000636,rnd; rnd_2; rnd_1,ribonuclease D; Ribonuclease D,1153.695652173913
+OG0000637,ppx; gppA_2; gppA_1,"exopolyphosphatase; Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase; Exopolyphosphatase",1514.8695652173913
+OG0000638,ppk,RNA degradosome polyphosphate kinase; Polyphosphate kinase,2164.021739130435
+OG0000639,,zinc-finger domain-containing protein; hypothetical protein,248.47826086956522
+OG0000640,mhbM,FAD-binding protein; 3-hydroxybenzoate 6-hydroxylase,1249.804347826087
+OG0000641,dnaE; dnaE1,DNA polymerase III subunit alpha,3489.391304347826
+OG0000642,recG,ATP-dependent DNA helicase RecG,2109
+OG0000643,glmS; nodM,glutamine--fructose-6-phosphate transaminase (isomerizing); Glutamine--fructose-6-phosphate aminotransferase [isomerizing],1824
+OG0000644,glmU,bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU; Bifunctional protein GlmU; NTP transferase domain-containing protein,1337.0434782608695
+OG0000645,,cytochrome c biogenesis CcdA family protein; hypothetical protein; cytochrome c biogenesis protein CcdA; cytochrome C biogenesis protein CcdA,794.8695652173913
+OG0000646,sufA; erpA,iron-sulfur cluster assembly accessory protein; Protein SufA; iron-sulfur cluster insertion protein ErpA,324
+OG0000647,,deoxyguanosinetriphosphate triphosphohydrolase; Deoxyguanosinetriphosphate triphosphohydrolase-like protein,1202.5434782608695
+OG0000648,argS,arginine--tRNA ligase; Arginine--tRNA ligase,1758
+OG0000649,,SPOR domain-containing protein; hypothetical protein,2505.1304347826085
+OG0000650,ilvE,branched-chain amino acid aminotransferase; Branched-chain-amino-acid aminotransferase,1107.0652173913043
+OG0000651,glpX,"class II fructose-bisphosphatase; Fructose-1,6-bisphosphatase class 2",987.0652173913044
+OG0000652,icd,NADP-dependent isocitrate dehydrogenase; Isocitrate dehydrogenase [NADP],1214.1304347826087
+OG0000653,coaD,pantetheine-phosphate adenylyltransferase; Phosphopantetheine adenylyltransferase,518.8695652173913
+OG0000654,gyrA,DNA gyrase subunit A,2785.9565217391305
+OG0000655,ssb; ssb_4; ssb_3; ssb_2,single-stranded DNA-binding protein; Single-stranded DNA-binding protein,511.95652173913044
+OG0000656,glnA,type I glutamate--ammonia ligase; Glutamine synthetase,1410
+OG0000657,,hypothetical protein,546.695652173913
+OG0000658,,hypothetical protein; ATPase,783.7173913043479
+OG0000659,rluC,RluA family pseudouridine synthase; Ribosomal large subunit pseudouridine synthase C,983.0869565217391
+OG0000660,ndvA,glucan ABC transporter ATP-binding protein/ permease; Beta-(1-->2)glucan export ATP-binding/permease protein NdvA,1784.5434782608695
+OG0000661,alaS,alanine--tRNA ligase; Alanine--tRNA ligase,2668.3695652173915
+OG0000662,recA,recombinase RecA; Protein RecA,1044
+OG0000663,rarA,replication-associated recombination protein A; Replication-associated recombination protein A,1319.8695652173913
+OG0000664,degP_2; degP_1; degP_3,DegQ family serine endoprotease; Periplasmic serine endoprotease DegP,1394.9347826086957
+OG0000665,rplQ,50S ribosomal protein L17,429.0652173913044
+OG0000666,rpoA,DNA-directed RNA polymerase subunit alpha,1033.2826086956522
+OG0000667,rpsK,30S ribosomal protein S11,390
+OG0000668,rpsM,30S ribosomal protein S13,369
+OG0000669,adk,adenylate kinase; Adenylate kinase,578.9347826086956
+OG0000670,secY,preprotein translocase subunit SecY; Protein translocase subunit SecY,1347
+OG0000671,rplO,50S ribosomal protein L15,467.8695652173913
+OG0000672,rpmD,50S ribosomal protein L30,207
+OG0000673,rpsE,30S ribosomal protein S5,549.2608695652174
+OG0000674,rplR,50S ribosomal protein L18,361.69565217391306
+OG0000675,rplF,50S ribosomal protein L6,534
+OG0000676,rpsH,30S ribosomal protein S8,399
+OG0000677,rpsN,30S ribosomal protein S14,306
+OG0000678,rplE,50S ribosomal protein L5,558
+OG0000679,rplX,50S ribosomal protein L24,315
+OG0000680,rplN,50S ribosomal protein L14,369
+OG0000681,rpsQ,30S ribosomal protein S17,240.19565217391303
+OG0000682,rpmC,50S ribosomal protein L29,201
+OG0000683,rplP,50S ribosomal protein L16,414
+OG0000684,rpsC,30S ribosomal protein S3,711
+OG0000685,rplV,50S ribosomal protein L22,390
+OG0000686,rpsS,30S ribosomal protein S19,279
+OG0000687,rplB,50S ribosomal protein L2,834
+OG0000688,rplW,50S ribosomal protein L23,294
+OG0000689,rplD,50S ribosomal protein L4,621
+OG0000690,rplC,50S ribosomal protein L3,739.5652173913044
+OG0000691,rpsJ,30S ribosomal protein S10,309
+OG0000692,rpsG,30S ribosomal protein S7,471
+OG0000693,rpsL,30S ribosomal protein S12,372
+OG0000694,xth; xthA_1; xthA_2,exodeoxyribonuclease III; Exodeoxyribonuclease III,790.5
+OG0000695,gltI,transporter substrate-binding domain-containing protein; Glutamate/aspartate import solute-binding protein,906.3260869565217
+OG0000696,gltJ,amino acid ABC transporter permease; Glutamate/aspartate import permease protein GltJ,747.7826086956521
+OG0000697,gltK,amino acid ABC transporter permease; Glutamate/aspartate import permease protein GltK; ABC transporter permease subunit,717
+OG0000698,glnQ_1; glnQ_2,amino acid ABC transporter ATP-binding protein; Glutamine transport ATP-binding protein GlnQ,744.9130434782609
+OG0000699,valS,valine--tRNA ligase; Valine--tRNA ligase,2726.478260869565
+OG0000700,,DUF2497 domain-containing protein; hypothetical protein,560.5434782608696
+OG0000701,bepC,TolC family outer membrane protein; Outer membrane efflux protein BepC,1263.2608695652175
+OG0000702,pcm_1; pcm_2,protein-L-isoaspartate O-methyltransferase; Protein-L-isoaspartate O-methyltransferase,675
+OG0000703,,mechanosensitive ion channel; hypothetical protein,2366.6739130434785
+OG0000704,secD; secDF,protein translocase subunit SecD; Protein translocase subunit SecDF,2514.717391304348
+OG0000705,ybhN,lysylphosphatidylglycerol synthase domain-containing protein; Inner membrane protein YbhN; hypothetical protein,950.0217391304348
+OG0000706,,TerC family protein; hypothetical protein,1562.8695652173913
+OG0000707,cycA; cycA_1; cycA_2,amino acid permease; D-serine/D-alanine/glycine transporter,1401.4565217391305
+OG0000708,ilvC,ketol-acid reductoisomerase; Ketol-acid reductoisomerase (NADP(+)),1020
+OG0000709,pdxJ,pyridoxine 5'-phosphate synthase; Pyridoxine 5'-phosphate synthase,735
+OG0000710,recD2,ATP-dependent RecD-like DNA helicase,1121.3478260869565
+OG0000711,miaA,tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA; tRNA dimethylallyltransferase,873.2608695652174
+OG0000712,degQ; degP_2; degP_3; degP_1,Do family serine endopeptidase; Periplasmic pH-dependent serine endoprotease DegQ; Periplasmic serine endoprotease DegP,1520.3478260869565
+OG0000713,hflC,protease modulator HflC; Modulator of FtsH protease HflC,937.0434782608696
+OG0000714,hflK,FtsH protease activity modulator HflK; hypothetical protein; Modulator of FtsH protease HflK,1146.195652173913
+OG0000715,,dihydrofolate reductase; IS1595 family transposase ISSsu9,510.2608695652174
+OG0000716,thyA,thymidylate synthase; Thymidylate synthase,795
+OG0000717,,ClpXP protease specificity-enhancing factor SspB; hypothetical protein,544.9565217391304
+OG0000718,,DUF4169 family protein; hypothetical protein,183.84782608695653
+OG0000719,uvrD,UvrD-helicase domain-containing protein; DNA helicase II,2337.521739130435
+OG0000720,,SCO family protein; hypothetical protein,581.8695652173913
+OG0000721,prmC_1; prmA; prmC_2,50S ribosomal protein L11 methyltransferase; Release factor glutamine methyltransferase; Ribosomal protein L11 methyltransferase,868.804347826087
+OG0000722,ligA,NAD-dependent DNA ligase LigA; DNA ligase,2156.478260869565
+OG0000723,recN,DNA repair protein RecN,1662.1304347826087
+OG0000724,bamD,outer membrane protein assembly factor BamD; Outer membrane protein assembly factor BamD,889.9565217391304
+OG0000725,lpxC,UDP-3-O-acyl-N-acetylglucosamine deacetylase,874.695652173913
+OG0000726,ftsZ,cell division protein FtsZ; Cell division protein FtsZ,1771.2391304347825
+OG0000727,ftsA,cell division protein FtsA; Cell division protein FtsA,1300.8260869565217
+OG0000728,ftsQ,FtsQ-type POTRA domain-containing protein; Cell division protein FtsQ; cell division protein FtsQ/DivIB,912.0652173913044
+OG0000729,ddlB,D-alanine--D-alanine ligase; D-alanine--D-alanine ligase B,921
+OG0000730,murB,UDP-N-acetylmuramate dehydrogenase; UDP-N-acetylenolpyruvoylglucosamine reductase,980.2826086956521
+OG0000731,murC,UDP-N-acetylmuramate--L-alanine ligase,1426.4347826086957
+OG0000732,murG,undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase; UDP-N-acetylglucosamine--N-acetylmuramyl- (pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase,1137.0652173913043
+OG0000733,ftsW,putative lipid II flippase FtsW; putative peptidoglycan glycosyltransferase FtsW,1152.2608695652175
+OG0000734,murD,UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase; UDP-N-acetylmuramoylalanine--D-glutamate ligase,1429.1739130434783
+OG0000735,mraY,phospho-N-acetylmuramoyl-pentapeptide- transferase; Phospho-N-acetylmuramoyl-pentapeptide- transferase,1071
+OG0000736,murF,"UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase; UDP-N-acetylmuramoylalanyl-D-glutamyl-2, 6-diaminopimelate--D-alanyl-D-alanine ligase",1424.5434782608695
+OG0000737,murE,"UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2, 6-diaminopimelate ligase; UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--LD- lysine ligase",1452
+OG0000738,,hypothetical protein,406.3695652173913
+OG0000739,rsmH,16S rRNA (cytosine(1402)-N(4))-methyltransferase RsmH; Ribosomal RNA small subunit methyltransferase H,1002.2608695652174
+OG0000740,,helix-turn-helix domain-containing protein; hypothetical protein,539.9347826086956
+OG0000741,,SIMPL domain-containing protein; 26 kDa periplasmic immunogenic protein,735.2608695652174
+OG0000742,rpoD,RNA polymerase sigma factor RpoD,2014.8260869565217
+OG0000743,dnaG,DNA primase,1937.0217391304348
+OG0000744,ybdG,mechanosensitive ion channel family protein; Miniconductance mechanosensitive channel YbdG; hypothetical protein,1217.804347826087
+OG0000745,,GlsB/YeaQ/YmgE family stress response membrane protein; hypothetical protein,251.80434782608697
+OG0000746,ubiC,chorismate lyase; Chorismate pyruvate-lyase,519.195652173913
+OG0000747,carB,carbamoyl-phosphate synthase large subunit; Carbamoyl-phosphate synthase large chain,3452.304347826087
+OG0000748,cspA,cold-shock protein; Cold shock protein CspA,210
+OG0000749,trxB,thioredoxin-disulfide reductase; Thioredoxin reductase; Glucosaminate ammonia-lyase,955.5652173913044
+OG0000750,greA,transcription elongation factor GreA; Transcription elongation factor GreA,526.1739130434783
+OG0000751,gloC,MBL fold metallo-hydrolase; Hydroxyacylglutathione hydrolase GloC,650.9347826086956
+OG0000752,ompR,response regulator; Transcriptional regulatory protein OmpR; response regulator transcription factor,708.4565217391304
+OG0000753,,YbjN domain-containing protein; hypothetical protein,501
+OG0000754,ubiK,accessory factor UbiK family protein; hypothetical protein; Ubiquinone biosynthesis accessory factor UbiK,269.0869565217391
+OG0000755,lgt,prolipoprotein diacylglyceryl transferase; Phosphatidylglycerol--prolipoprotein diacylglyceryl transferase,870.1086956521739
+OG0000756,,SAM-dependent methyltransferase; class I SAM-dependent methyltransferase; hypothetical protein,1081.7608695652175
+OG0000757,pgeF; rl5,peptidoglycan editing factor PgeF; Polyphenol oxidase; laccase domain-containing protein,773.8478260869565
+OG0000758,prs,ribose-phosphate pyrophosphokinase; Ribose-phosphate pyrophosphokinase,933
+OG0000759,rplY,50S ribosomal protein L25/general stress protein Ctc; 50S ribosomal protein L25,627.6521739130435
+OG0000760,pth,aminoacyl-tRNA hydrolase; Peptidyl-tRNA hydrolase,581.7391304347826
+OG0000761,ybiS,"L,D-transpeptidase; putative L,D-transpeptidase YbiS; hypothetical protein",743.6739130434783
+OG0000762,ychF,redox-regulated ATPase YchF; Ribosome-binding ATPase YchF,1104
+OG0000763,,PRC-barrel domain-containing protein; hypothetical protein,440.9347826086956
+OG0000764,trmL,tRNA (cytidine(34)-2'-O)-methyltransferase,475.2391304347826
+OG0000765,cca,CCA tRNA nucleotidyltransferase; CCA-adding enzyme,1247.6739130434783
+OG0000766,ravA,MoxR family ATPase; ATPase RavA; hypothetical protein,1032
+OG0000767,,DUF58 domain-containing protein; hypothetical protein,912
+OG0000768,,DUF4159 domain-containing protein; hypothetical protein,2803.4347826086955
+OG0000769,,glutamine amidotransferase; hypothetical protein,2097
+OG0000770,,N-acetyltransferase; hypothetical protein,582.0652173913044
+OG0000771,cpdA_1; cpdA,"metallophosphoesterase; 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",894.9130434782609
+OG0000772,fieF,cation diffusion facilitator family transporter; Ferrous-iron efflux pump FieF,909.6521739130435
+OG0000773,mnmA,tRNA 2-thiouridine(34) synthase MnmA; tRNA-specific 2-thiouridylase MnmA,1226.804347826087
+OG0000774,,DUF1153 domain-containing protein; hypothetical protein,276
+OG0000775,,hypothetical protein; flagellar export protein FliJ,386.54347826086956
+OG0000776,chpT,histidine phosphotransferase family protein; Protein phosphotransferase ChpT,639
+OG0000777,,EipA family protein; hypothetical protein,596.804347826087
+OG0000778,wbpE,DegT/DnrJ/EryC1/StrS aminotransferase family protein; UDP-2-acetamido-2-deoxy-3-oxo-D-glucuronate aminotransferase,1119
+OG0000779,iolX; iolG,Gfo/Idh/MocA family oxidoreductase; scyllo-inositol 2-dehydrogenase (NAD(+)); Myo-inositol 2-dehydrogenase,954.3913043478261
+OG0000780,oppF,ABC transporter ATP-binding protein; Oligopeptide transport ATP-binding protein OppF,783.0652173913044
+OG0000781,oppD,ABC transporter ATP-binding protein; Oligopeptide transport ATP-binding protein OppD,879.9782608695652
+OG0000782,ddpC,"ABC transporter permease; putative D,D-dipeptide transport system permease protein DdpC",930.1304347826087
+OG0000783,dppB,ABC transporter permease; Dipeptide transport system permease protein DppB,1073.8695652173913
+OG0000784,ddpA_5; ddpA_1; ddpA_2; ddpA_3; ddpA_4,"ABC transporter substrate-binding protein; putative D,D-dipeptide-binding periplasmic protein DdpA",1597.8695652173913
+OG0000785,tag,DNA-3-methyladenine glycosylase I; DNA-3-methyladenine glycosylase 1,617.0869565217391
+OG0000786,xseA,exodeoxyribonuclease VII large subunit; Exodeoxyribonuclease 7 large subunit,1430.5434782608695
+OG0000787,etfB,electron transfer flavoprotein subunit beta/FixA family protein; Electron transfer flavoprotein subunit beta,747
+OG0000788,etfA,electron transfer flavoprotein subunit alpha/FixB family protein; Electron transfer flavoprotein subunit alpha; FAD-binding protein,921.3913043478261
+OG0000789,,electron transfer flavoprotein-ubiquinone oxidoreductase; Electron transfer flavoprotein-ubiquinone oxidoreductase,1651.304347826087
+OG0000790,apbC,Mrp/NBP35 family ATP-binding protein; Iron-sulfur cluster carrier protein,1079.0217391304348
+OG0000791,rsmI,16S rRNA (cytidine(1402)-2'-O)-methyltransferase; Ribosomal RNA small subunit methyltransferase I,889.4347826086956
+OG0000792,,YraN family protein; hypothetical protein,378.7826086956522
+OG0000793,proC,pyrroline-5-carboxylate reductase; Pyrroline-5-carboxylate reductase,792.1304347826087
+OG0000794,rnpA,ribonuclease P protein component; Ribonuclease P protein component,409.89130434782606
+OG0000795,yidC,membrane protein insertase YidC; Membrane protein insertase YidC,1847.0869565217392
+OG0000796,yihA; engB,ribosome biogenesis GTP-binding protein YihA/YsxC; putative GTP-binding protein EngB; GTP-binding protein EngB,646.3695652173913
+OG0000797,fzlA,glutathione S-transferase family protein; FtsZ-localized protein A,693
+OG0000798,dapB,4-hydroxy-tetrahydrodipicolinate reductase,808.7391304347826
+OG0000799,gpmA,"2,3-bisphosphoglycerate-dependent phosphoglycerate mutase",621.0652173913044
+OG0000800,emrA_1; emrA_2,HlyD family secretion protein; Colistin resistance protein EmrA,1084.4347826086957
+OG0000801,ldc,type III PLP-dependent enzyme; Lysine/ornithine decarboxylase,1134
+OG0000802,alr; alr-1,"alanine racemase; Alanine racemase; Alanine racemase, biosynthetic",1116.391304347826
+OG0000803,gcvP,aminomethyl-transferring glycine dehydrogenase; Glycine dehydrogenase (decarboxylating),2802.3695652173915
+OG0000804,gcvH,glycine cleavage system protein GcvH; Glycine cleavage system H protein,369
+OG0000805,gcvT,glycine cleavage system aminomethyltransferase GcvT; Aminomethyltransferase,1116
+OG0000806,,Trm112 family protein; hypothetical protein,206.67391304347825
+OG0000807,asd2,aspartate-semialdehyde dehydrogenase; Aspartate-semialdehyde dehydrogenase 2,1031.6739130434783
+OG0000808,,MaoC family dehydratase; putative enoyl-CoA hydratase 1,479.9347826086956
+OG0000809,,homoserine dehydrogenase; hypothetical protein,1332.9782608695652
+OG0000810,amiD,N-acetylmuramoyl-L-alanine amidase; N-acetylmuramoyl-L-alanine amidase AmiD; hypothetical protein,864.9782608695652
+OG0000811,pheP; aroP,amino acid permease; Phenylalanine-specific permease; Aromatic amino acid transport protein AroP,1428.5869565217392
+OG0000812,bioM,ATP-binding cassette domain-containing protein; Biotin transport ATP-binding protein BioM,679.3695652173913
+OG0000813,,flagellar protein FlgN; hypothetical protein,417.7173913043478
+OG0000814,,TIGR01459 family HAD-type hydrolase; hypothetical protein,846
+OG0000815,murJ,murein biosynthesis integral membrane protein MurJ; putative lipid II flippase MurJ,1558.108695652174
+OG0000816,trpS,tryptophan--tRNA ligase; Tryptophan--tRNA ligase,1071.5217391304348
+OG0000817,groES; groS1,co-chaperone GroES; 10 kDa chaperonin 1,297
+OG0000818,pgm,alpha-D-glucose phosphate-specific phosphoglucomutase; Phosphoglucomutase,1628.0869565217392
+OG0000819,,peroxiredoxin; Peroxiredoxin,520.5652173913044
+OG0000820,gpsA,NAD(P)H-dependent glycerol-3-phosphate dehydrogenase; Glycerol-3-phosphate dehydrogenase [NAD(P)+],1010.6086956521739
+OG0000821,,M23 family metallopeptidase; hypothetical protein,1988.5434782608695
+OG0000822,,sensor histidine kinase; ATP-binding protein; hypothetical protein,1424.804347826087
+OG0000823,,hypothetical protein,204.19565217391303
+OG0000824,phyR,response regulator; Phyllosphere-induced regulator PhyR,795.0652173913044
+OG0000825,,sensor histidine kinase; hypothetical protein; PAS domain-containing sensor histidine kinase; Blue-light-activated histidine kinase,1014.8478260869565
+OG0000826,,hypothetical protein,440.4130434782609
+OG0000827,,tail fiber domain-containing protein; hypothetical protein,1137.391304347826
+OG0000828,,hypothetical protein,509.2826086956522
+OG0000829,,hypothetical protein,696.9782608695652
+OG0000830,,hypothetical protein,786.7826086956521
+OG0000831,clpB,ATP-dependent chaperone ClpB; Chaperone protein ClpB,2588.413043478261
+OG0000832,yhdE,Maf family protein; Maf family nucleotide pyrophosphatase; dTTP/UTP pyrophosphatase,738.3913043478261
+OG0000833,infA,translation initiation factor IF-1; Translation initiation factor IF-1,219
+OG0000834,purE,5-(carboxyamino)imidazole ribonucleotide mutase; N5-carboxyaminoimidazole ribonucleotide mutase,497.2173913043478
+OG0000835,purK,5-(carboxyamino)imidazole ribonucleotide synthase; N5-carboxyaminoimidazole ribonucleotide synthase,1231.6304347826087
+OG0000836,ymdB,"TIGR00282 family metallophosphoesterase; 2',3'-cyclic-nucleotide 2'-phosphodiesterase",828.8478260869565
+OG0000837,,hypothetical protein,390
+OG0000838,,transcriptional regulator; hypothetical protein; helix-turn-helix transcriptional regulator; helix-turn-helix domain-containing protein,326.1521739130435
+OG0000839,,hypothetical protein,584.6086956521739
+OG0000840,,alpha/beta hydrolase; hypothetical protein; alpha/beta fold hydrolase,1197.9782608695652
+OG0000841,,DedA family protein; hypothetical protein,620.8695652173913
+OG0000842,,putative membrane protein; hypothetical protein; membrane protein,815.6086956521739
+OG0000843,exbB,tonB-system energizer ExbB; MotA/TolQ/ExbB proton channel family protein; Biopolymer transport protein ExbB,880.0434782608696
+OG0000844,,DUF883 family protein; DUF883 C-terminal domain-containing protein; hypothetical protein,335.1521739130435
+OG0000845,,hypothetical protein; phage holin family protein; membrane protein,447.5217391304348
+OG0000846,ftsH,ATP-dependent zinc metalloprotease FtsH,2181.521739130435
+OG0000847,tilS,tRNA lysidine(34) synthetase TilS; tRNA(Ile)-lysidine synthase; hypothetical protein,1558.3478260869565
+OG0000848,cpoB,hypothetical protein; tol-pal system protein; Cell division coordinator CpoB; Tol-Pal system protein YbgF; tetratricopeptide repeat protein,1622.4782608695652
+OG0000849,pal,peptidoglycan-associated lipoprotein Pal; Peptidoglycan-associated lipoprotein,515.9347826086956
+OG0000850,,DUF1013 domain-containing protein; hypothetical protein,695.6739130434783
+OG0000851,pmpR; yebC,YebC/PmpR family DNA-binding transcriptional regulator; Transcriptional regulatory protein PmpR; transcriptional regulatory protein YebC; putative transcriptional regulatory protein,759.3260869565217
+OG0000852,rpmE,50S ribosomal protein L31,222
+OG0000853,efp,elongation factor P; Elongation factor P,575.4130434782609
+OG0000854,,sel1 repeat family protein; hypothetical protein; SEL1-like repeat protein,885.9782608695652
+OG0000855,thiE_2; thiE_1,thiamine phosphate synthase; Thiamine-phosphate synthase,660.5869565217391
+OG0000856,ruvA,Holliday junction branch migration protein RuvA; Holliday junction ATP-dependent DNA helicase RuvA,617.1521739130435
+OG0000857,ruvB; ruvB_2; ruvB_1,Holliday junction branch migration DNA helicase RuvB; Holliday junction ATP-dependent DNA helicase RuvB,1096.4347826086957
+OG0000858,tolQ,protein TolQ; Tol-Pal system protein TolQ,713.804347826087
+OG0000859,tolR; exbD,protein TolR; Biopolymer transport protein ExbD,453
+OG0000860,pgk,phosphoglycerate kinase; Phosphoglycerate kinase,1196.2173913043478
+OG0000861,gap,type I glyceraldehyde-3-phosphate dehydrogenase; Glyceraldehyde-3-phosphate dehydrogenase,1008.3260869565217
+OG0000862,tkt; tktA,transketolase; Transketolase 1,2007
+OG0000863,,DUF4164 domain-containing protein; hypothetical protein,289.95652173913044
+OG0000864,zapA,cell division protein ZapA; hypothetical protein,378.1304347826087
+OG0000865,,DUF1036 domain-containing protein; hypothetical protein,524.2826086956521
+OG0000866,,DUF2312 domain-containing protein; hypothetical protein,259.5
+OG0000867,uup,ABC-F family ATP-binding cassette domain-containing protein; ABC transporter ATP-binding protein uup,1864.5652173913043
+OG0000868,thiN,thiamine diphosphokinase; hypothetical protein; Thiamine pyrophosphokinase,649.5652173913044
+OG0000869,bepA_4; bepA_5; bepA_1; bepA_2; bepA_6,M48 family metalloprotease; Beta-barrel assembly-enhancing protease,1483.891304347826
+OG0000870,rpoH_2; rpoH_1,RNA polymerase factor sigma-32; RNA polymerase sigma factor RpoH,912
+OG0000871,,hypothetical protein,1599.5217391304348
+OG0000872,fdxA,ferredoxin family protein; Ferredoxin-2,335.2826086956522
+OG0000873,carD,CarD family transcriptional regulator; RNA polymerase-binding transcription factor CarD,585
+OG0000874,,polyprenyl synthetase family protein; Farnesyl diphosphate synthase; hypothetical protein,903.1304347826087
+OG0000875,ispG,flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase; 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin),1244.2826086956522
+OG0000876,,hypothetical protein,286.82608695652175
+OG0000877,emrA_2; emrA_1,HlyD family secretion protein; Colistin resistance protein EmrA; Multidrug export protein EmrA,1005.7173913043479
+OG0000878,,MFS transporter; hypothetical protein,1648.108695652174
+OG0000879,atpG,F0F1 ATP synthase subunit gamma; ATP synthase gamma chain,918
+OG0000880,atpA,F0F1 ATP synthase subunit alpha; ATP synthase subunit alpha,1536
+OG0000881,atpH,ATP synthase F1 subunit delta; ATP synthase subunit delta,585.195652173913
+OG0000882,lptE,LPS assembly lipoprotein LptE; hypothetical protein,604.304347826087
+OG0000883,leuS,leucine--tRNA ligase; Leucine--tRNA ligase,2647.8260869565215
+OG0000884,,YggS family pyridoxal phosphate-dependent enzyme; Pyridoxal phosphate homeostasis protein,699.1304347826087
+OG0000885,ftsE,cell division ATP-binding protein FtsE; Cell division ATP-binding protein FtsE,660
+OG0000886,,ABC transporter permease; hypothetical protein; cell division protein FtsX,954.3913043478261
+OG0000887,,YdcF family protein; hypothetical protein,668.5434782608696
+OG0000888,macB,MacB family efflux pump subunit; Macrolide export ATP-binding/permease protein MacB,1983.5869565217392
+OG0000889,macA,efflux RND transporter periplasmic adaptor subunit; Macrolide export protein MacA,1222.8260869565217
+OG0000890,cusC,efflux transporter outer membrane subunit; Cation efflux system protein CusC,1487.4782608695652
+OG0000891,xthA_2; xthA_1,exodeoxyribonuclease III; Exodeoxyribonuclease III,812.4782608695652
+OG0000892,lolA,outer membrane lipoprotein carrier protein LolA; hypothetical protein; outer-membrane lipoprotein carrier protein LolA; Outer-membrane lipoprotein carrier protein,614.0869565217391
+OG0000893,ubiL_2; ubiL_1,ubiquinone biosynthesis hydroxylase; Ubiquinone hydroxylase UbiL,1277.7391304347825
+OG0000894,sdhA,succinate dehydrogenase flavoprotein subunit; Succinate dehydrogenase flavoprotein subunit,1844.804347826087
+OG0000895,sdhD,"succinate dehydrogenase, hydrophobic membrane anchor protein; hypothetical protein",387
+OG0000896,sdhC,"succinate dehydrogenase, cytochrome b556 subunit; hypothetical protein",402
+OG0000897,rplS,50S ribosomal protein L19,440.9347826086956
+OG0000898,trmD,tRNA (guanosine(37)-N1)-methyltransferase TrmD; tRNA (guanine-N(1)-)-methyltransferase,699
+OG0000899,rimM,ribosome maturation factor RimM; Ribosome maturation factor RimM,544.1086956521739
+OG0000900,,SapC family protein; hypothetical protein,819.195652173913
+OG0000901,xerD_1; xerD_2,tyrosine recombinase XerC; Tyrosine recombinase XerD,969.9130434782609
+OG0000902,bolA,BolA family transcriptional regulator; DNA-binding transcriptional regulator BolA,276.1304347826087
+OG0000903,cobS,cobaltochelatase subunit CobS; Aerobic cobaltochelatase subunit CobS,983.6086956521739
+OG0000904,cobT,cobaltochelatase subunit CobT; Aerobic cobaltochelatase subunit CobT,1897.2391304347825
+OG0000905,rpmB,50S ribosomal protein L28,310.69565217391306
+OG0000906,,SURF1 family protein; hypothetical protein,784.8260869565217
+OG0000907,fzlC,heparinase II/III family protein; FtsZ-localized protein C,1718.4130434782608
+OG0000908,rsmB_2; rsmB_1,RsmB/NOP family class I SAM-dependent RNA methyltransferase; Ribosomal RNA small subunit methyltransferase B,1358.608695652174
+OG0000909,htpX,zinc metalloprotease HtpX; Protease HtpX,1044.2608695652175
+OG0000910,,DUF1674 domain-containing protein; hypothetical protein,216.2608695652174
+OG0000911,rpsP,30S ribosomal protein S16; hypothetical protein,370.04347826086956
+OG0000912,,chorismate mutase; hypothetical protein,320.1521739130435
+OG0000913,ffh,signal recognition particle protein; Signal recognition particle protein,1567.304347826087
+OG0000914,gdh,NAD-glutamate dehydrogenase; NAD-specific glutamate dehydrogenase,4702.5
+OG0000915,,hypothetical protein; tetratricopeptide repeat protein; DNA-binding protein,1531.0434782608695
+OG0000916,tsaD,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex transferase subunit TsaD; tRNA N6-adenosine threonylcarbamoyltransferase,1087.4130434782608
+OG0000917,,EVE domain-containing protein; hypothetical protein,429.5869565217391
+OG0000918,sphR; walR; regX3,response regulator transcription factor; Alkaline phosphatase synthesis transcriptional regulatory protein SphR; Transcriptional regulatory protein WalR; Sensory transduction protein regX3,682.3695652173913
+OG0000919,,class I SAM-dependent methyltransferase; hypothetical protein; methyltransferase domain-containing protein,751.5652173913044
+OG0000920,,TIGR02302 family protein; hypothetical protein,2433.782608695652
+OG0000921,lysA; lysA_1; lysA_2,diaminopimelate decarboxylase; Diaminopimelate decarboxylase,1274.804347826087
+OG0000922,,lipoprotein; hypothetical protein,180.2608695652174
+OG0000923,resA_2; tlpA; resA_1; resA,TlpA family protein disulfide reductase; Thiol-disulfide oxidoreductase ResA; Thiol:disulfide interchange protein TlpA,698.6739130434783
+OG0000924,,YihY/virulence factor BrkB family protein; hypothetical protein,849.6521739130435
+OG0000925,holA,DNA polymerase III subunit delta; hypothetical protein,1041.8478260869565
+OG0000926,,1-acyl-sn-glycerol-3-phosphate acyltransferase; hypothetical protein,799.8260869565217
+OG0000927,dacD; dacD_2; dacD_1,D-alanyl-D-alanine carboxypeptidase; D-alanyl-D-alanine carboxypeptidase DacD; hypothetical protein,1099.2391304347825
+OG0000928,accA,acetyl-CoA carboxylase carboxyltransferase subunit alpha; Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha,964.6304347826087
+OG0000929,xerD_2; xerD_1,site-specific tyrosine recombinase XerD; tyrosine recombinase; Tyrosine recombinase XerD,938.1521739130435
+OG0000930,aroB,3-dehydroquinate synthase,1134
+OG0000931,mliC_1; mliC,MliC family protein; Membrane-bound lysozyme inhibitor of C-type lysozyme; hypothetical protein,390.7173913043478
+OG0000932,mnhG,monovalent cation/H(+) antiporter subunit G; hypothetical protein,410.9347826086956
+OG0000933,,K+/H+ antiporter subunit F; hypothetical protein,282
+OG0000934,mrpE; mnhE1,Na+/H+ antiporter subunit E; Na(+)/H(+) antiporter subunit E; Na(+)/H(+) antiporter subunit E1; hypothetical protein,484.5652173913044
+OG0000935,mrpD,monovalent cation/H+ antiporter subunit D; Na(+)/H(+) antiporter subunit D,1622.7391304347825
+OG0000936,mnhC1,Na+/H+ antiporter subunit C; Na(+)/H(+) antiporter subunit C1,342
+OG0000937,mrpA,monovalent cation/H+ antiporter subunit A; Na(+)/H(+) antiporter subunit A,2922.1304347826085
+OG0000938,nspC,carboxynorspermidine decarboxylase; Carboxynorspermidine/carboxyspermidine decarboxylase,1098.0652173913043
+OG0000939,lpdA; lpd3,dihydrolipoyl dehydrogenase; Dihydrolipoyl dehydrogenase; Dihydrolipoyl dehydrogenase 3,1407
+OG0000940,odhB; sucB,2-oxoglutarate dehydrogenase complex dihydrolipoyllysine-residue succinyltransferase; Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex,1214.2826086956522
+OG0000941,sucA,2-oxoglutarate dehydrogenase E1 component,3000.391304347826
+OG0000942,sucD,succinate--CoA ligase subunit alpha; Succinate--CoA ligase [ADP-forming] subunit alpha,903
+OG0000943,sucC,ADP-forming succinate--CoA ligase subunit beta; Succinate--CoA ligase [ADP-forming] subunit beta,1197
+OG0000944,mdh,malate dehydrogenase; Malate dehydrogenase,963.0652173913044
+OG0000945,zapE,cell division protein ZapE; Cell division protein ZapE,1187.1521739130435
+OG0000946,,protease inhibitor Inh/omp19 family protein; AprI/Inh family metalloprotease inhibitor; hypothetical protein,557.4130434782609
+OG0000947,dapF,diaminopimelate epimerase; Diaminopimelate epimerase,852.2608695652174
+OG0000948,ftsY,signal recognition particle-docking protein FtsY; Signal recognition particle receptor FtsY,1238.608695652174
+OG0000949,yciB,septation protein A; Intracellular septation protein; intracellular septation protein A,688.5
+OG0000950,parB,ParB/RepB/Spo0J family partition protein; Chromosome-partitioning protein ParB,902.1521739130435
+OG0000951,parA,ParA family protein; Chromosome partitioning protein ParA,798
+OG0000952,rsmG,16S rRNA (guanine(527)-N(7))-methyltransferase RsmG; Ribosomal RNA small subunit methyltransferase G,647.8695652173913
+OG0000953,mnmG,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis enzyme MnmG; tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG,1869
+OG0000954,mnmE,tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE; tRNA modification GTPase MnmE,1308.0652173913043
+OG0000955,rho,transcription termination factor Rho; Transcription termination factor Rho,1261.2173913043478
+OG0000956,dinJ; dinJ_1,type II toxin-antitoxin system RelB/DinJ family antitoxin; Antitoxin DinJ; hypothetical protein,264.32608695652175
+OG0000957,,hypothetical protein,451.89130434782606
+OG0000958,pgl; nagB,6-phosphogluconolactonase; Glucosamine-6-phosphate deaminase,732.2826086956521
+OG0000959,,phage tail protein; hypothetical protein; tail fiber protein,1122.804347826087
+OG0000960,,hypothetical protein; alanine-zipper protein,2333.478260869565
+OG0000961,,hypothetical protein,2058.391304347826
+OG0000962,bepA_3; bepA_4; bepA_2; bepC; bepA_5; bepA_9,BID domain-containing T4SS effector; Protein adenylyltransferase; T4SS effector Fic domain-containing protein BepC,1553.2173913043478
+OG0000963,pyrF,orotidine-5'-phosphate decarboxylase; Orotidine 5'-phosphate decarboxylase,846
+OG0000964,dsbB_2; dsbB_1; dsbB,disulfide bond formation protein B; Disulfide bond formation protein B,581.7391304347826
+OG0000965,,DUF5993 family protein; hypothetical protein,152.8695652173913
+OG0000966,polA,DNA polymerase I,2907.133333333333
+OG0000967,rlmL,class I SAM-dependent methyltransferase; Ribosomal RNA large subunit methyltransferase K/L,933.0666666666667
+OG0000968,,lipopolysaccharide assembly protein LapA domain-containing protein; hypothetical protein; LapA family protein,297.4
+OG0000969,rhtB; leuE,LysE family translocator; Homoserine/homoserine lactone efflux protein; hypothetical protein; Leucine efflux protein,640.7333333333333
+OG0000970,lysS,lysine--tRNA ligase; Lysine--tRNA ligase,1661.6666666666667
+OG0000971,addA,double-strand break repair helicase AddA; ATP-dependent helicase/nuclease subunit A,3474.266666666667
+OG0000972,tsaE,tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE; hypothetical protein; bifunctional alanine racemase/tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE; tRNA threonylcarbamoyladenosine biosynthesis protein TsaE,927.6666666666666
+OG0000973,cysZ,sulfate transporter family protein; hypothetical protein; Sulfate transporter CysZ,720.9333333333333
+OG0000974,ubiB,2-polyprenylphenol 6-hydroxylase; putative protein kinase UbiB,1587
+OG0000975,gyrB; gyrB_1; gyrB_2,DNA topoisomerase (ATP-hydrolyzing) subunit B; DNA gyrase subunit B,2440.133333333333
+OG0000976,thpR,"RNA 2',3'-cyclic phosphodiesterase",540
+OG0000977,ndvB,"cyclic beta 1-2 glucan synthetase; protein ndvB; Cyclic beta-(1,2)-glucan synthase NdvB",8576.6
+OG0000978,ilvD,dihydroxy-acid dehydratase; Dihydroxy-acid dehydratase,1839
+OG0000979,mutS,DNA mismatch repair protein MutS,2741.0666666666666
+OG0000980,,FxsA family protein; hypothetical protein,517.9333333333333
+OG0000981,mutS2,Smr/MutS family protein; Endonuclease MutS2,594.8
+OG0000982,resA_1; resA; resA_2; cycY,DsbE family thiol:disulfide interchange protein; Thiol-disulfide oxidoreductase ResA; Thiol:disulfide interchange protein CycY,621.1333333333333
+OG0000983,truB,tRNA pseudouridine(55) synthase TruB; tRNA pseudouridine synthase B,961.1333333333333
+OG0000984,infB,translation initiation factor IF-2; Translation initiation factor IF-2,2531.4
+OG0000985,,RNA-binding protein; hypothetical protein,636
+OG0000986,ybeZ,PhoH family protein; PhoH-like protein; hypothetical protein,1129.3333333333333
+OG0000987,recR,recombination mediator RecR; Recombination protein RecR,612.8
+OG0000988,phoU,phosphate signaling complex protein PhoU; Phosphate-specific transport system accessory protein PhoU,723
+OG0000989,sasA_6; sasA_2; sasA_5; sasA_4; pdhS; rcsC_3; rcsC_1; rcsC_2; rcsC_4; sasA_1,PAS domain-containing sensor histidine kinase; Adaptive-response sensory-kinase SasA; ATP-binding protein; HAMP domain-containing histidine kinase; Cell-division control histidine kinase PdhS; Sensor histidine kinase RcsC,1904.1333333333334
+OG0000990,pyrD,quinone-dependent dihydroorotate dehydrogenase; Dihydroorotate dehydrogenase (quinone),1087.7333333333333
+OG0000991,,AsmA family protein; hypothetical protein,1881.4
+OG0000992,,hypothetical protein,145.8
+OG0000993,rsfS,ribosome silencing factor; Ribosomal silencing factor RsfS,424.93333333333334
+OG0000994,rlmH,23S rRNA (pseudouridine(1915)-N(3))-methyltransferase RlmH; Ribosomal RNA large subunit methyltransferase H,483
+OG0000995,,DUF167 family protein; DUF167 domain-containing protein; hypothetical protein,317.06666666666666
+OG0000996,ugpQ,"glycerophosphoryl diester phosphodiesterase; hypothetical protein; Glycerophosphodiester phosphodiesterase, cytoplasmic; glycerophosphodiester phosphodiesterase",737.4
+OG0000997,mutT; nudG,8-oxo-dGTP diphosphatase MutT; 8-oxo-dGTP diphosphatase; CTP pyrophosphohydrolase,414
+OG0000998,,methyltransferase domain-containing protein; hypothetical protein,882.1333333333333
+OG0000999,,hypothetical protein,1699.5333333333333
+OG0001000,glyS,glycine--tRNA ligase subunit beta; Glycine--tRNA ligase beta subunit,2220.266666666667
+OG0001001,sppA; sppA_1,S49 family peptidase; Putative signal peptide peptidase SppA; hypothetical protein,849.0666666666667
+OG0001002,,FAD-binding oxidoreductase; putative FAD-linked oxidoreductase,1411.8666666666666
+OG0001003,thrB,homoserine kinase; Homoserine kinase,960.1333333333333
+OG0001004,,hypothetical protein,866.0222222222222
+OG0001005,,insulinase family protein; putative zinc protease,1276.4666666666667
+OG0001006,thrC,threonine synthase; Threonine synthase; pyridoxal-phosphate dependent enzyme,1381.3555555555556
+OG0001007,rcsC_2; rcsC_1; rcsC_3; rcsC_4,PAS domain-containing sensor histidine kinase; Sensor histidine kinase RcsC; ATP-binding protein,2323.266666666667
+OG0001008,thiG,thiazole synthase; Thiazole synthase,772.6666666666666
+OG0001009,hemS,hemin-degrading factor; Hemin transport protein HemS; hemin degrading protein,1043.6
+OG0001010,smpB,SsrA-binding protein SmpB; SsrA-binding protein,484
+OG0001011,ygfZ,folate-binding protein YgfZ; tRNA-modifying protein YgfZ,869.1333333333333
+OG0001012,,DUF421 domain-containing protein; hypothetical protein,672.0666666666667
+OG0001013,atm1,ABC transporter ATP-binding protein/permease; ATM1-type heavy metal exporter,1884.0666666666666
+OG0001014,fabF; fabF_1; fabF_2,beta-ketoacyl-ACP synthase II; 3-oxoacyl-[acyl-carrier-protein] synthase 2,1263.2
+OG0001015,lptD,LPS-assembly protein LptD,2365.133333333333
+OG0001016,,hypothetical protein,276
+OG0001017,trkA,Trk system potassium transporter TrkA; Trk system potassium uptake protein TrkA,1377
+OG0001018,trmFO,methylenetetrahydrofolate--tRNA-(uracil(54)- C(5))-methyltransferase (FADH(2)-oxidizing) TrmFO; Methylenetetrahydrofolate--tRNA-(uracil-5-)- methyltransferase TrmFO; FAD-dependent oxidoreductase,1379.4
+OG0001019,tuf; tufA; tufA_1; tufA_2,elongation factor Tu; Elongation factor Tu,1129.8666666666666
+OG0001020,rplL,50S ribosomal protein L7/L12,372
+OG0001021,clpA,ATP-dependent Clp protease ATP-binding subunit ClpA,2352.2
+OG0001022,,ComEC/Rec2 family competence protein; hypothetical protein; competence protein ComEC family protein,2279.733333333333
+OG0001023,nadK,NAD kinase,774
+OG0001024,adh; tdh,zinc-binding dehydrogenase; Alcohol dehydrogenase; L-threonine 3-dehydrogenase,1029
+OG0001025,fabF_2; fabF_1,beta-ketoacyl-ACP synthase; 3-oxoacyl-[acyl-carrier-protein] synthase 2,1275.0666666666666
+OG0001026,,beta-ketoacyl-ACP synthase; hypothetical protein,1176
+OG0001027,dme,NADP-dependent malic enzyme; NAD-dependent malic enzyme,2320
+OG0001028,hfq,RNA chaperone Hfq; RNA-binding protein Hfq,246.53333333333333
+OG0001029,hflX,GTPase HflX,1344.1333333333334
+OG0001030,,hypothetical protein; membrane protein,1792.2666666666667
+OG0001031,argC,N-acetyl-gamma-glutamyl-phosphate reductase,933.6
+OG0001032,nusB,transcription antitermination factor NusB; Transcription antitermination protein NusB,471.26666666666665
+OG0001033,yidD,membrane protein insertion efficiency factor YidD; Putative membrane protein insertion efficiency factor,352.3333333333333
+OG0001034,,iron-sulfur cluster assembly scaffold protein; hypothetical protein,434.4
+OG0001035,,DsbA family protein; thioredoxin domain-containing protein; hypothetical protein,857.7333333333333
+OG0001036,cobT; cobU,nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase; Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase,1006.9333333333333
+OG0001037,topA,type I DNA topoisomerase; DNA topoisomerase 1,2575.8
+OG0001038,plsY,glycerol-3-phosphate 1-O-acyltransferase PlsY; Glycerol-3-phosphate acyltransferase; putative glycerol-3-phosphate acyltransferase,632.7333333333333
+OG0001039,livF,ABC transporter ATP-binding protein; High-affinity branched-chain amino acid transport ATP-binding protein LivF,711
+OG0001040,ttcA,tRNA 2-thiocytidine(32) synthetase TtcA; tRNA-cytidine(32) 2-sulfurtransferase,880.6666666666666
+OG0001041,lexA; lexA_1; lexA_2,transcriptional repressor LexA; LexA repressor,713.2
+OG0001042,,DNA polymerase III subunit delta'; hypothetical protein,1051.4
+OG0001043,ndhC,NADH-quinone oxidoreductase subunit A; NAD(P)H-quinone oxidoreductase subunit 3,366.1333333333333
+OG0001044,nqo5,NADH-quinone oxidoreductase subunit C; NADH-quinone oxidoreductase chain 5,612
+OG0001045,sodC; sodC1,superoxide dismutase family protein; Superoxide dismutase [Cu-Zn]; Superoxide dismutase [Cu-Zn] 1; superoxide dismutase [Cu-Zn] SodC,524.8666666666667
+OG0001046,,carboxypeptidase regulatory-like domain-containing protein; hypothetical protein; carboxypeptidase-like regulatory domain-containing protein,1005.6
+OG0001047,hom,homoserine dehydrogenase; Homoserine dehydrogenase,1314.3333333333333
+OG0001048,uvrA,excinuclease ABC subunit UvrA; UvrABC system protein A,2914.2
+OG0001049,fusA,elongation factor G; Elongation factor G,2085
+OG0001050,,sel1 repeat family protein; hypothetical protein,534.3333333333334
+OG0001051,rhlE_1; rhlE_2,DEAD/DEAH box helicase; ATP-dependent RNA helicase RhlE,1430.4666666666667
+OG0001052,,hypothetical protein,273
+OG0001053,ilvI,acetolactate synthase 3 large subunit; Acetolactate synthase isozyme 3 large subunit,1801.2666666666667
+OG0001054,,aminopeptidase P family protein; hypothetical protein,1827
+OG0001055,ftsI,"penicillin-binding protein 2; putative peptidoglycan D,D-transpeptidase FtsI",1743.6
+OG0001056,,DUF475 domain-containing protein; hypothetical protein,1047.4666666666667
+OG0001057,,YcgN family cysteine cluster protein; hypothetical protein,462.26666666666665
+OG0001058,argP; hdfR,LysR family transcriptional regulator; HTH-type transcriptional regulator ArgP; HTH-type transcriptional regulator HdfR,906
+OG0001059,trkI,TrkH family potassium uptake protein; Trk system potassium uptake protein TrkI,1394.6
+OG0001060,uvrB,excinuclease ABC subunit UvrB; UvrABC system protein B,2311.733333333333
+OG0001061,,DUF6460 domain-containing protein; hypothetical protein,274.8
+OG0001062,,hypothetical protein,807.7333333333333
+OG0001063,,rhodanese-related sulfurtransferase; hypothetical protein,934.8666666666667
+OG0001064,metQ,MetQ/NlpA family lipoprotein; MetQ/NlpA family ABC transporter substrate-binding protein; D-methionine-binding lipoprotein MetQ,821.1333333333333
+OG0001065,metN,methionine ABC transporter ATP-binding protein; ATP-binding cassette domain-containing protein; Methionine import ATP-binding protein MetN,1035.0666666666666
+OG0001066,metI; metP,ABC transporter permease; D-methionine transport system permease protein MetI; Methionine import system permease protein MetP,660.2
+OG0001067,bioN; ecfT,energy-coupling factor transporter transmembrane protein EcfT; Energy-coupling factor transporter transmembrane protein BioN; Energy-coupling factor transporter transmembrane protein EcfT,636.4666666666667
+OG0001068,yclQ,siderophore ABC transporter substrate-binding protein; Petrobactin-binding protein YclQ,942.8666666666667
+OG0001069,yclN,iron chelate uptake ABC transporter family permease subunit; Petrobactin import system permease protein YclN,957.1333333333333
+OG0001070,yclO,iron chelate uptake ABC transporter family permease subunit; Petrobactin import system permease protein YclO,949.9333333333333
+OG0001071,yclP,ATP-binding cassette domain-containing protein; Petrobactin import ATP-binding protein YclP,759
+OG0001072,blh,TIGR01244 family sulfur transferase; Beta-lactamase hydrolase-like protein,329.8666666666667
+OG0001073,ribF,bifunctional riboflavin kinase/FAD synthetase; Bifunctional riboflavin kinase/FMN adenylyltransferase,1013.2666666666667
+OG0001074,nfuA,NifU family protein; Fe/S biogenesis protein NfuA,579.1333333333333
+OG0001075,groL; groL_1; groL_2,chaperonin GroEL; 60 kDa chaperonin,1583.1333333333334
+OG0001076,ecfG,RNA polymerase sigma factor; ECF RNA polymerase sigma factor EcfG,555
+OG0001077,,hypothetical protein,444
+OG0001078,,phage tail protein; hypothetical protein,977.4
+OG0001079,,hypothetical protein,317.46666666666664
+OG0001080,ygfA,5-formyltetrahydrofolate cyclo-ligase; hypothetical protein,560.0666666666667
+OG0001081,murA; murA_1; murA_2,UDP-N-acetylglucosamine 1-carboxyvinyltransferase,1230.2666666666667
+OG0001082,,YqaJ viral recombinase family protein; hypothetical protein,737.2
+OG0001083,,hypothetical protein,513.2666666666667
+OG0001084,dsbB_1; dsbB_2,disulfide bond formation protein B; Disulfide bond formation protein B,571.9333333333333
+OG0001085,bmrA; lmrA,ABC transporter transmembrane domain-containing protein; Multidrug resistance ABC transporter ATP-binding/permease protein BmrA; Multidrug resistance ABC transporter ATP-binding and permease protein,1791.3333333333333
+OG0001086,opgC,OpgC domain-containing protein; hypothetical protein,1147.0666666666666
+OG0001087,,hypothetical protein; cell envelope biogenesis protein TolA; cell envelope integrity/translocation protein TolA,1437.5333333333333
+OG0001088,tolB,Tol-Pal system beta propeller repeat protein TolB; Tol-Pal system protein TolB,1325.6666666666667
+OG0001089,atpC,"ATP synthase F1 subunit epsilon; ATP synthase epsilon chain; ATP synthase epsilon chain, sodium ion specific",416.8
+OG0001090,ftsK,DNA translocase FtsK 4TM domain-containing protein; DNA translocase FtsK; hypothetical protein,2444
+OG0001091,dnaJ_2; dnaJ_1; dnaJ_4,J domain-containing protein; DnaJ domain-containing protein; Chaperone protein DnaJ,620.8666666666667
+OG0001092,yhhQ,VUT family protein; Queuosine precursor transporter; queuosine precursor transporter,675.4
+OG0001093,,DUF1127 domain-containing protein; hypothetical protein,153.33333333333334
+OG0001094,cynT,carbonic anhydrase; Carbonic anhydrase 1,655.7333333333333
+OG0001095,,mitofilin family membrane protein; hypothetical protein; membrane protein,1285.4
+OG0001096,,"murein L,D-transpeptidase; hypothetical protein",749.7333333333333
+OG0001097,,saccharopine dehydrogenase family protein; Carboxynorspermidine synthase,1238.8666666666666
+OG0001098,mtaB,tRNA (N(6)-L-threonylcarbamoyladenosine(37)-C(2))- methylthiotransferase MtaB; Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB,1283.6
+OG0001099,ptsP,phosphoenolpyruvate--protein phosphotransferase; hypothetical protein,2521.866666666667
+OG0001100,entS_2; entS_1,MFS transporter; hypothetical protein; Enterobactin exporter EntS,1100.2
+OG0001101,gppA_1; gppA_2; gppA,"Ppx/GppA family phosphatase; Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase; hypothetical protein",1286.6
+OG0001102,,DUF459 domain-containing protein; hypothetical protein,1066.0666666666666
+OG0001103,rsmC,class I SAM-dependent methyltransferase; Ribosomal RNA small subunit methyltransferase C,1004.8
+OG0001104,,aminopeptidase; Aminopeptidase T,1244.6666666666667
+OG0001105,,porin; hypothetical protein; porin family protein; outer membrane beta-barrel protein,1565.2666666666667
+OG0001106,,hypothetical protein,358.8666666666667
+OG0001107,,hypothetical protein,349.1777777777778
+OG0001108,,DUF1499 domain-containing protein; hypothetical protein,786
+OG0001109,,hypothetical protein,540
+OG0001110,,DUF1214 domain-containing protein; hypothetical protein,606.3333333333334
+OG0001111,mtgA; pbpF,PBP1A family penicillin-binding protein; Biosynthetic peptidoglycan transglycosylase; penicillin-binding protein 1A; Penicillin-binding protein 1F; penicillin-binding protein,2127.0666666666666
+OG0001112,,TIGR02301 family protein; hypothetical protein,401.8666666666667
+OG0001113,tatC; tatC2,twin-arginine translocase subunit TatC; Sec-independent protein translocase protein TatC; Sec-independent protein translocase protein TatCy,784.8
+OG0001114,pncC,CinA family protein; Nicotinamide-nucleotide amidohydrolase PncC,489
+OG0001115,sasA_5; sasA_2; sasA_4; sasA_6; sasA_3; sasA_1,PAS domain-containing sensor histidine kinase; Adaptive-response sensory-kinase SasA,2269.2
+OG0001116,,hypothetical protein; membrane protein,294.93333333333334
+OG0001117,,hypothetical protein,207
+OG0001118,dacC; dacD_1; dacD_2; dacA; dacD,D-alanyl-D-alanine carboxypeptidase; D-alanyl-D-alanine carboxypeptidase DacC; D-alanyl-D-alanine carboxypeptidase DacD; D-alanyl-D-alanine carboxypeptidase DacA,1164
+OG0001119,hutH,histidine ammonia-lyase; Histidine ammonia-lyase,1537.9333333333334
+OG0001120,lemA,LemA family protein; Protein LemA,636.2666666666667
+OG0001121,,YgcG family protein; hypothetical protein; TPM domain-containing protein,863
+OG0001122,ybaL,Kef family K(+) transporter; Putative cation/proton antiporter YbaL; cation:proton antiporter,1745.9555555555555
+OG0001123,,DUF2853 family protein; hypothetical protein,306
+OG0001124,,transglycosylase SLT domain-containing protein; hypothetical protein,510.2
+OG0001125,,methyltransferase domain-containing protein; hypothetical protein,921.4
+OG0001126,,DUF1508 domain-containing protein; hypothetical protein; YegP family protein,179.6
+OG0001127,,helix-turn-helix domain-containing protein; hypothetical protein; helix-turn-helix transcriptional regulator,314.4
+OG0001128,,hypothetical protein,184.13333333333333
+OG0001129,,TIGR02186 family protein; hypothetical protein,804.3777777777777
+OG0001130,,sulfite exporter TauE/SafE family protein; hypothetical protein,925.0666666666667
+OG0001131,,alpha/beta hydrolase; hypothetical protein,699.8
+OG0001132,ydhC; ydhC_1,multidrug effflux MFS transporter; Inner membrane transport protein YdhC; MFS transporter,1181.5333333333333
+OG0001133,lon2; lon_2,LON peptidase substrate-binding domain-containing protein; Lon protease 2; Lon protease,664.8666666666667
+OG0001134,,SH3 domain-containing protein; hypothetical protein,638.6
+OG0001135,virB2; virB2_1; virB2_2,TrbC/VirB2 family protein; Type IV secretion system protein virB2,315.73333333333335
+OG0001136,virB3_2; virB3_1; virB3_3,type IV secretion system protein VirB3; Type IV secretion system protein virB3,310.53333333333336
+OG0001137,virB4_2; virB4_1; virB4_3,VirB4 family type IV secretion/conjugal transfer ATPase; Type IV secretion system protein virB4,2365.6
+OG0001138,,hypothetical protein; type IV secretion system protein VirB5,494.6
+OG0001139,,hypothetical protein,302.93333333333334
+OG0001140,virB9; virB9_3; virB9_2; virB9_1,P-type conjugative transfer protein VirB9; Type IV secretion system protein virB9,865.8666666666667
+OG0001141,virB10,type IV secretion system protein VirB10; Type IV secretion system protein virB10,1205.2
+OG0001142,traG,Ti-type conjugative transfer system protein TraG; hypothetical protein,1918.4666666666667
+OG0001143,,universal stress protein; hypothetical protein,491.93333333333334
+OG0001144,,hypothetical protein,508.26666666666665
+OG0001145,,hypothetical protein,567.2
+OG0001146,virB6_1; virB6_2; virB6_3; virB6_5,type IV secretion system protein; Type IV secretion system protein VirB6; hypothetical protein,723.7333333333333
+OG0001147,ybgC,tol-pal system-associated acyl-CoA thioesterase; Acyl-CoA thioesterase YbgC,441.4
+OG0001148,,hypothetical protein,1268.1333333333334
+OG0001149,rimJ; rimJ_1; rimJ_2,ribosomal protein S5-alanine N-acetyltransferase; [Ribosomal protein S5]-alanine N-acetyltransferase; hypothetical protein,506.3333333333333
+OG0001150,fsa; tal,fructose-6-phosphate aldolase; Transaldolase,654
+OG0001151,acs; acsA,acetate--CoA ligase; Acetyl-coenzyme A synthetase,1942.1333333333334
+OG0001152,hvrA,H-NS histone family protein; Trans-acting regulatory protein HvrA,288
+OG0001153,,hypothetical protein,295.4
+OG0001154,,hypothetical protein; conjugal transfer protein,315.0888888888889
+OG0001155,virB3_3; virB3_1; virB3_2; trwM,VirB3 family type IV secretion system protein; Type IV secretion system protein virB3; VirB3 family type IV secretion system protein TrwM,309.6666666666667
+OG0001156,virB4_3; virB4_1; virB4_2,VirB4 family type IV secretion/conjugal transfer ATPase; Type IV secretion system protein virB4,2471.733333333333
+OG0001157,virB8_1; virB8_3; virB8_2; trwG,type IV secretion system protein; Type IV secretion system protein virB8; type IV secrection system protein TrwG; VirB8/TrbF family protein,677.4666666666667
+OG0001158,virB9; virB9_1; virB9_3; virB9_2,P-type conjugative transfer protein VirB9; Type IV secretion system protein virB9,806.9333333333333
+OG0001159,virB10; trwE,type IV secretion system protein VirB10; hypothetical protein; type IV secrection system protein TrwE; Type IV secretion system protein virB10,1160.3333333333333
+OG0001160,virB11,P-type DNA transfer ATPase VirB11; Type IV secretion system protein VirB11,1062.2666666666667
+OG0001161,tyrC,prephenate/arogenate dehydrogenase family protein; Cyclohexadienyl dehydrogenase,933.7333333333333
+OG0001162,thiD; thiD_1; thiD_2,bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase; Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase,858.5333333333333
+OG0001163,mliC_2; mliC,MliC family protein; Membrane-bound lysozyme inhibitor of C-type lysozyme; hypothetical protein,393.73333333333335
+OG0001164,,BA14K family protein; hypothetical protein; Lectin-like protein BA14k,488.73333333333335
+OG0001165,gloB,hydroxyacylglutathione hydrolase; Hydroxyacylglutathione hydrolase GloB,758.4222222222222
+OG0001166,aroE,shikimate dehydrogenase; Shikimate dehydrogenase (NADP(+)),881.2
+OG0001167,ahcY,adenosylhomocysteinase; Adenosylhomocysteinase,1398
+OG0001168,artI; artJ,transporter substrate-binding domain-containing protein; hypothetical protein; Putative ABC transporter arginine-binding protein 2; ABC transporter arginine-binding protein 1,903.0666666666667
+OG0001169,ptsH; crh,HPr family phosphocarrier protein; Phosphocarrier protein HPr; hypothetical protein; HPr-like protein Crh,296.8666666666667
+OG0001170,manX; levD,PTS sugar transporter subunit IIA; PTS system mannose-specific EIIAB component; PTS system fructose-specific EIIA component,395.6
+OG0001171,hprK,HPr kinase/phosphatase C-terminal domain-containing protein; HPr kinase/phosphorylase,465
+OG0001172,lysM; kbp,peptidoglycan-binding protein LysM; Potassium binding protein Kbp,453.1333333333333
+OG0001173,ibpA_1; ibpA_2,Hsp20 family protein; Small heat shock protein IbpA,429.46666666666664
+OG0001174,,YeiH family protein; hypothetical protein; putative sulfate exporter family transporter,1029
+OG0001175,mutM,bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase; Formamidopyrimidine-DNA glycosylase,876
+OG0001176,,rRNA pseudouridine synthase; hypothetical protein,1410
+OG0001177,,phage late control protein D; hypothetical protein; phage late control protein,1028.1818181818182
+OG0001178,ispE,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase; 4-diphosphocytidyl-2-C-methyl-D-erythritol kinase,916.9090909090909
+OG0001179,rlmD,class I SAM-dependent RNA methyltransferase; 23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD; RNA methyltransferase,1251.4772727272727
+OG0001180,ccmH,cytochrome c-type biogenesis protein CcmH; hypothetical protein; Cytochrome c-type biogenesis protein CcmH,417.34090909090907
+OG0001181,mazG,nucleoside triphosphate pyrophosphohydrolase; Nucleoside triphosphate pyrophosphohydrolase,818.5909090909091
+OG0001182,lpxM; lpxL,lipid A biosynthesis lauroyl acyltransferase; Lipid A biosynthesis myristoyltransferase; Lipid A biosynthesis lauroyltransferase,930.2045454545455
+OG0001183,,DUF192 domain-containing protein; hypothetical protein,519.4090909090909
+OG0001184,tgt,tRNA guanosine(34) transglycosylase Tgt; Queuine tRNA-ribosyltransferase,1124.3863636363637
+OG0001185,glnB,P-II family nitrogen regulator; hypothetical protein; Nitrogen regulatory protein P-II,301.90909090909093
+OG0001186,,hypothetical protein,531.0681818181819
+OG0001187,ilvA,threonine ammonia-lyase IlvA; L-threonine dehydratase biosynthetic IlvA,1277.4545454545455
+OG0001188,sasA_1; sasA_3; sasA_5; rcsC_3; rcsC_2; rcsC_4; rcsC_1; sasA_6,ATP-binding protein; Adaptive-response sensory-kinase SasA; Sensor histidine kinase RcsC,1341
+OG0001189,,tetratricopeptide repeat protein; hypothetical protein,783.4772727272727
+OG0001190,tolR,biopolymer transporter ExbD; Tol-Pal system protein TolR,584.5227272727273
+OG0001191,rpmF,50S ribosomal protein L32; hypothetical protein,182.1818181818182
+OG0001192,,hypothetical protein,412.70454545454544
+OG0001193,zwf,glucose-6-phosphate dehydrogenase; Glucose-6-phosphate 1-dehydrogenase,1475.7272727272727
+OG0001194,,ATP-binding protein; hypothetical protein,1523.25
+OG0001195,bafA,BafA family autotransporter; hypothetical protein; putative autotransporter,2564.931818181818
+OG0001196,tatB,hypothetical protein; Sec-independent protein translocase protein TatB; preprotein translocase; twin-arginine translocase TatA/TatE family subunit,434.52272727272725
+OG0001197,,alpha/beta hydrolase; hypothetical protein,918.1363636363636
+OG0001198,glpD; eryB,glycerol-3-phosphate dehydrogenase; D-erythritol 1-phosphate dehydrogenase,1521.75
+OG0001199,decR,Lrp/AsnC family transcriptional regulator; DNA-binding transcriptional activator DecR,490.09090909090907
+OG0001200,menB,"enoyl-CoA hydratase/isomerase family protein; 1,4-dihydroxy-2-naphthoyl-CoA synthase",1027.9772727272727
+OG0001201,mdtL,MFS transporter; putative multidrug-efflux transporter; Multidrug resistance protein MdtL,1427.590909090909
+OG0001202,,hypothetical protein,340.77272727272725
+OG0001203,btuD_2; btuD_1; btuD_3,ATP-binding cassette domain-containing protein; Vitamin B12 import ATP-binding protein BtuD; hypothetical protein,789.6818181818181
+OG0001204,,hypothetical protein,375.20454545454544
+OG0001205,,ribbon-helix-helix domain-containing protein; hypothetical protein,252.4090909090909
+OG0001206,,hypothetical protein,383.9318181818182
+OG0001207,,hypothetical protein,537.2045454545455
+OG0001208,,hypothetical protein,246
+OG0001209,,MFS transporter; hypothetical protein,1111.4318181818182
+OG0001210,yjiA_2; yjiA,GTP-binding protein; P-loop guanosine triphosphatase YjiA,1029.6136363636363
+OG0001211,,WD40 repeat domain-containing protein; hypothetical protein,974.1136363636364
+OG0001212,,hypothetical protein,229.5681818181818
+OG0001213,soj,AAA family ATPase; Sporulation initiation inhibitor protein Soj,628.5681818181819
+OG0001214,,hypothetical protein,741.4772727272727
+OG0001215,virB8_3; virB8_2; virB8_1; virB8,VirB8/TrbF family protein; Type IV secretion system protein virB8,672.2727272727273
+OG0001216,,zinc ribbon domain-containing protein YjdM; hypothetical protein; PhnA domain-containing protein,329.25
+OG0001217,btuD_1; btuD; ecfA2; btuD_2; btuD_3,ABC transporter ATP-binding protein; Vitamin B12 import ATP-binding protein BtuD; Energy-coupling factor transporter ATP-binding protein EcfA2; hypothetical protein,785.1136363636364
+OG0001218,,ABC transporter substrate-binding protein; hypothetical protein,961.5681818181819
+OG0001219,yjiA_1,GTP-binding protein; P-loop guanosine triphosphatase YjiA; hypothetical protein,1052.3863636363637
+OG0001220,aroK,shikimate kinase; Shikimate kinase 1,595.8409090909091
+OG0001221,,hypothetical protein,366.6818181818182
+OG0001222,virB6_2; virB6_1; virB6_3; virB6_4; virB6,Type IV secretion system protein VirB6; type IV secretion system protein; type IV secretion system protein VirB6,986.4545454545455
+OG0001223,higB_1; higB_2; higB,"Endoribonuclease HigB; type II toxin-antitoxin system RelE/ParE family toxin; type II toxin-antitoxin system mRNA interferase toxin, RelE/StbE family; hypothetical protein",243.61363636363637
+OG0001224,dapE_2; dapE_1; dapE_3,M20/M25/M40 family metallo-hydrolase; Succinyl-diaminopimelate desuccinylase; dipeptidase,1394.7906976744187
+OG0001225,rlmB_1; rlmB_2,RNA methyltransferase; 23S rRNA (guanosine-2'-O-)-methyltransferase RlmB,816.2790697674419
+OG0001226,,hypothetical protein; DUF5320 domain-containing protein,254.30232558139534
+OG0001227,,hypothetical protein,153.13953488372093
+OG0001228,dut,dUTP diphosphatase; Deoxyuridine 5'-triphosphate nucleotidohydrolase,545.6511627906976
+OG0001229,pyk; ttuE_1; ttuE_2; ttuE,pyruvate kinase; Pyruvate kinase,1437
+OG0001230,sdhB,succinate dehydrogenase iron-sulfur subunit; Succinate dehydrogenase iron-sulfur subunit; hypothetical protein,753.6976744186046
+OG0001231,fhs,formate--tetrahydrofolate ligase; Formate--tetrahydrofolate ligase,1674
+OG0001232,pheA,prephenate dehydratase; Bifunctional chorismate mutase/prephenate dehydratase,862.8139534883721
+OG0001233,,hypothetical protein,329.4418604651163
+OG0001234,edd; edd_1,phosphogluconate dehydratase; Phosphogluconate dehydratase,1816.1860465116279
+OG0001235,tlyA,TlyA family RNA methyltransferase; 16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA,745.6046511627907
+OG0001236,petA,ubiquinol-cytochrome c reductase iron-sulfur subunit; Ubiquinol-cytochrome c reductase iron-sulfur subunit,547.7441860465116
+OG0001237,fbcH_1; fbcH_2,cytochrome b N-terminal domain-containing protein; Cytochrome b/c1,1257.6279069767443
+OG0001238,fbcH_2; fbcH_1,cytochrome c1; Cytochrome b/c1,870.6976744186046
+OG0001239,ycaD,MFS transporter; hypothetical protein; putative MFS-type transporter YcaD,794.3023255813954
+OG0001240,,DUF6163 family protein; hypothetical protein,400.8139534883721
+OG0001241,,hypothetical protein,248.02325581395348
+OG0001242,ydhP,MFS transporter; Inner membrane transport protein YdhP,1203.5581395348838
+OG0001243,ycgM,fumarylacetoacetate hydrolase family protein; putative protein YcgM; hypothetical protein,633.1395348837209
+OG0001244,dapH,"antibiotic acetyltransferase; 2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase; chloramphenicol acetyltransferase",635.3023255813954
+OG0001245,,Na/Pi cotransporter family protein; hypothetical protein,1690.4651162790697
+OG0001246,,DUF1460 domain-containing protein; hypothetical protein,852.6976744186046
+OG0001247,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein; autotransporter,3360.279069767442
+OG0001248,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,3217.813953488372
+OG0001249,,hypothetical protein,335.86046511627904
+OG0001250,vbhT; traA; vbhT_1; vbhT_2; vbhT_3,Fic family protein; Protein adenylyltransferase VbhT; Ti-type conjugative transfer relaxase TraA,1034.1627906976744
+OG0001251,,DUF2125 domain-containing protein; hypothetical protein,984
+OG0001252,,YaiI/YqxD family protein; hypothetical protein,491.16279069767444
+OG0001253,,ABC transporter permease; hypothetical protein,895.046511627907
+OG0001254,,hypothetical protein,340.95348837209303
+OG0001255,,site-specific DNA-methyltransferase; hypothetical protein,828.3953488372093
+OG0001256,,helix-turn-helix domain-containing protein; AlpA family phage regulatory protein; hypothetical protein,194.64285714285714
+OG0001257,rimO,30S ribosomal protein S12 methylthiotransferase RimO; Ribosomal protein S12 methylthiotransferase RimO,1314
+OG0001258,,SH3 domain-containing protein; hypothetical protein,319.14285714285717
+OG0001259,,hypothetical protein,1466.5
+OG0001260,ddaF,ATP-grasp domain-containing protein; Dapdiamide A synthase; hypothetical protein,1138.9285714285713
+OG0001261,,hypothetical protein,328.14285714285717
+OG0001262,,hypothetical protein,305.6904761904762
+OG0001263,,hypothetical protein,380.7142857142857
+OG0001264,kgtP_1; kgtP_3; kgtP_4,MFS transporter; Alpha-ketoglutarate permease; MFS family transporter,1305.4285714285713
+OG0001265,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,6219.928571428572
+OG0001266,ehpR; ehpR_1; ehpR_2,VOC family protein; Phenazine antibiotic resistance protein EhpR; glyoxalase,388.7857142857143
+OG0001267,,MFS transporter; hypothetical protein,1194.7857142857142
+OG0001268,ompA,outer membrane beta-barrel protein; hypothetical protein; porin family protein; Outer membrane protein A,892.5714285714286
+OG0001269,,hypothetical protein,399.7142857142857
+OG0001270,,hypothetical protein,558.4285714285714
+OG0001271,argH,Argininosuccinate lyase; argininosuccinate lyase; hypothetical protein,1371
+OG0001272,glnE,bifunctional [glutamine synthetase] adenylyltransferase/[glutamine synthetase]-adenylyl-L-tyrosine phosphorylase; hypothetical protein; Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme,2346.439024390244
+OG0001273,,hypothetical protein,342.1463414634146
+OG0001274,,hypothetical protein; helix-turn-helix domain-containing protein; helix-turn-helix transcriptional regulator; transcriptional regulator,324.9512195121951
+OG0001275,relE2; relE2_1; relE2_2,"type II toxin-antitoxin system mRNA interferase toxin, RelE/StbE family; Toxin RelE2; hypothetical protein; type II toxin-antitoxin system RelE/ParE family toxin",269.4146341463415
+OG0001276,,hypothetical protein,354.8048780487805
+OG0001277,,hypothetical protein,804.780487804878
+OG0001278,,ABC-2 family transporter protein; hypothetical protein,598.0243902439024
+OG0001279,slcC,hypothetical protein; Hydroxypyruvate reductase; (S)-sulfolactate dehydrogenase; D-2-hydroxyacid dehydrogenase family protein,901.6829268292682
+OG0001280,,antitoxin VbhA family protein; Antitoxin VbhA,189
+OG0001281,argG,Argininosuccinate synthase; argininosuccinate synthase,1232.560975609756
+OG0001282,,hypothetical protein,128.1219512195122
+OG0001283,,hypothetical protein; right-handed parallel beta-helix repeat-containing protein; autotransporter outer membrane beta-barrel domain-containing protein,1244.05
+OG0001284,,phage tail tape measure protein; hypothetical protein; tail protein,1968.825
+OG0001285,,phage terminase large subunit family protein; hypothetical protein,1677
+OG0001286,fpr; fpr_1; fpr_2,ferredoxin--NADP reductase; Flavodoxin/ferredoxin--NADP reductase; Ferredoxin--NADP reductase,768
+OG0001287,,tail protein X; hypothetical protein,254.4
+OG0001288,,hypothetical protein,424.2
+OG0001289,mdtD; hsrA,MFS transporter; Putative multidrug resistance protein MdtD; hypothetical protein; putative transport protein HsrA,1250.25
+OG0001290,,autotransporter outer membrane beta-barrel domain-containing protein; hypothetical protein,1883.325
+OG0001291,,hypothetical protein,714.525
+OG0001292,,hypothetical protein; lytic transglycosylase domain-containing protein,641.1
+OG0001293,badA_4; badA_2,Vomp family autotransporter; hypothetical protein; Autotransporter adhesin BadA,3655.6923076923076
+OG0001294,,hypothetical protein,410.84615384615387
+OG0001295,,hypothetical protein,402.6923076923077
+OG0001296,eda,bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase; KHG/KDPG aldolase,666.3846153846154
+OG0001297,argF,"ornithine carbamoyltransferase; Ornithine carbamoyltransferase 1, anabolic; Ornithine carbamoyltransferase, anabolic",924.8461538461538
+OG0001298,,hypothetical protein,688
+OG0001299,shlB_1; shlB; shlB_2,Hemolysin transporter protein ShlB; ShlB/FhaC/HecB family hemolysin secretion/activation protein; hypothetical protein,1801.2307692307693
+OG0001300,,phage tail assembly protein; hypothetical protein,280.0263157894737
+OG0001301,,hypothetical protein,443.13157894736844
+OG0001302,,phage terminase large subunit; hypothetical protein,1260.3157894736842
+OG0001303,,hypothetical protein,867
+OG0001304,,hypothetical protein,168.71052631578948
+OG0001305,,tail protein X; hypothetical protein,223.05405405405406
+OG0001306,,phage tail protein; hypothetical protein,381.56756756756755
+OG0001307,,phage major tail tube protein; hypothetical protein,504.81081081081084
+OG0001308,,hypothetical protein,522.1621621621622
+OG0001309,higA; higA_1; higA_2,HigA family addiction module antitoxin; Antitoxin HigA; hypothetical protein,316.4594594594595
+OG0001310,,hypothetical protein,316.2972972972973
+OG0001311,fumC,class II fumarate hydratase; Fumarate hydratase class II,1385.1351351351352
+OG0001312,priA; priA_1; priA_2,primosomal protein N'; Primosomal protein N',2207.3513513513512
+OG0001313,,phage baseplate assembly protein V; hypothetical protein,639.6666666666666
+OG0001314,,hypothetical protein,524.8055555555555
+OG0001315,bet,recombinase RecT; hypothetical protein; phage recombination protein Bet,768.4722222222222
+OG0001316,,DUF1465 family protein; hypothetical protein,519
+OG0001317,mdtK; norM,MATE family efflux transporter; Multidrug resistance protein MdtK; Multidrug resistance protein NorM,1341.75
+OG0001318,,ABC-2 family transporter protein; hypothetical protein; ABC transporter permease,743.5
+OG0001319,,hypothetical protein,557
+OG0001320,,hypothetical protein; YbfB/YjiJ family MFS transporter,1120.4166666666667
+OG0001321,,hypothetical protein; site-specific DNA-methyltransferase,691.1666666666666
+OG0001322,,hypothetical protein; phage tail protein,560.1428571428571
+OG0001323,bepA_3; bepA_5; bepA_2,BID domain-containing T4SS effector; Protein adenylyltransferase; hypothetical protein; Fic family protein,2305.3714285714286
+OG0001324,,hypothetical protein,675.5142857142857
+OG0001325,,hypothetical protein; FAD/NAD(P)-binding protein,1836.942857142857
+OG0001326,,GPW/gp25 family protein; hypothetical protein,336.1764705882353
+OG0001327,,hypothetical protein,249
+OG0001328,,head decoration protein; hypothetical protein,371.55882352941177
+OG0001329,,hypothetical protein,313.3235294117647
+OG0001330,,fructose-bisphosphate aldolase class I; hypothetical protein,1016.7941176470588
+OG0001331,,radical SAM protein; hypothetical protein; coproporphyrinogen III oxidase,1272
+OG0001332,,DMT family transporter; hypothetical protein,969.7941176470588
+OG0001333,,N4-gp56 family major capsid protein; hypothetical protein,1122.5
+OG0001334,,hypothetical protein; phage major tail tube protein,496.61764705882354
+OG0001335,,major capsid protein; hypothetical protein,1060
+OG0001336,,MFS transporter; hypothetical protein,1710.909090909091
+OG0001337,,hypothetical protein,210
+OG0001338,,hypothetical protein; helix-turn-helix domain-containing protein,295.6363636363636
+OG0001339,,Nitronate monooxygenase; nitronate monooxygenase,1065
+OG0001340,,hypothetical protein,147.9375
+OG0001341,entS_1; entS_2; entS_3,MFS transporter; Enterobactin exporter EntS,1212.1875
+OG0001342,,hypothetical protein,219
+OG0001343,,hypothetical protein,627.5625
+OG0001344,,hypothetical protein,100.875
+OG0001345,,hypothetical protein,172.78125
+OG0001346,,hypothetical protein; MFS transporter,1209.75
+OG0001347,,hypothetical protein,347.34375
+OG0001348,,phage portal protein; hypothetical protein,1426.258064516129
+OG0001349,lexA_2; lexA_1; lexA_3,S24 family peptidase; LexA repressor; hypothetical protein; XRE family transcriptional regulator; helix-turn-helix transcriptional regulator,608.2258064516129
+OG0001350,hlyD_1; hlyD_2; hlyD,"HlyD family type I secretion periplasmic adaptor subunit; Hemolysin secretion protein D, plasmid; Hemolysin secretion protein D, chromosomal; hypothetical protein; HlyD family secretion protein; HlyD family efflux transporter periplasmic adaptor subunit",995.7096774193549
+OG0001351,,Rha family transcriptional regulator; hypothetical protein,437.1290322580645
+OG0001352,,hypothetical protein,370.258064516129
+OG0001353,virB2_2; virB2_1,TrbC/VirB2 family protein; hypothetical protein; Type IV secretion system protein virB2,336.96774193548384
+OG0001354,virB3_1; virB3_2; virB3_3,type IV secretion system protein VirB3; Type IV secretion system protein virB3,326.51612903225805
+OG0001355,,hypothetical protein; type IV secretion protein VblB5,747.4193548387096
+OG0001356,,nucleotide-binding protein; hypothetical protein,707.7096774193549
+OG0001357,,hypothetical protein,285.0967741935484
+OG0001358,,hypothetical protein,141.8709677419355
+OG0001359,hpr; serA,"Hydroxypyruvate reductase; D-3-phosphoglycerate dehydrogenase; Formate dehydrogenase, mitochondrial; hypothetical protein",659.7096774193549
+OG0001360,sppA_2,hypothetical protein; Putative signal peptide peptidase SppA; S49 family peptidase,951.2903225806451
+OG0001361,,hypothetical protein,666.2903225806451
+OG0001362,,BrnA antitoxin family protein; hypothetical protein,302.6
+OG0001363,tetA,"tetracycline resistance MFS efflux pump; MFS transporter; Tetracycline resistance protein, class C; hypothetical protein",460.7
+OG0001364,,hypothetical protein,196.8
+OG0001365,,hypothetical protein,558.4
+OG0001366,,hypothetical protein,320.5
+OG0001367,rhtC,LysE family translocator; hypothetical protein; LysE family transporter; Threonine efflux protein,471.6
+OG0001368,virB8_2; virB8_1; virB8_3,virB8 family protein; Type IV secretion system protein virB8; VirB8/TrbF family protein,667.3
+OG0001369,virB9; virB9_2; virB9_1; virB9_3,P-type conjugative transfer protein VirB9; Type IV secretion system protein virB9,850.5
+OG0001370,virB10,type IV secretion system protein VirB10; Type IV secretion system protein virB10,1165.2
+OG0001371,,hypothetical protein,391.9
+OG0001372,lysA_2; lysA_1,Diaminopimelate decarboxylase,1770
+OG0001373,,hypothetical protein; radical SAM protein,360.3
+OG0001374,,hypothetical protein,409.3
+OG0001375,,hypothetical protein,199.56666666666666
+OG0001376,,hypothetical protein,354.3103448275862
+OG0001377,,HigA family addiction module antitoxin; hypothetical protein,296.2758620689655
+OG0001378,,hypothetical protein,190.3448275862069
+OG0001379,ddl; purD_2,ATP-grasp domain-containing protein; D-alanine--D-alanine ligase; hypothetical protein; Phosphoribosylamine--glycine ligase,1134.4137931034484
+OG0001380,bepA_4; bepA_2; bepA_3,BID domain-containing T4SS effector; hypothetical protein; Protein adenylyltransferase,843.1034482758621
+OG0001381,bepF; bepG,BID domain-containing T4SS effector; T4SS effector BepF; T4SS effector BepG; hypothetical protein,1919.5862068965516
+OG0001382,,hypothetical protein,245.27586206896552
+OG0001383,,nuclease; hypothetical protein,687.9310344827586
+OG0001384,virB4_1; virB4_2; virB4_4; virB4_3,VirB4 family type IV secretion/conjugal transfer ATPase; Type IV secretion system protein virB4,2340.7241379310344
+OG0001385,,hypothetical protein,174
+OG0001386,,hypothetical protein; Mu transposase C-terminal domain-containing protein,1684.9655172413793
+OG0001387,,hypothetical protein,444
+OG0001388,intA; intA_2; intA_4,Prophage integrase IntA; hypothetical protein,252.51724137931035
+OG0001389,,hypothetical protein,525.9310344827586
+OG0001390,,DEAD/DEAH box helicase family protein; hypothetical protein,1468.6206896551723
+OG0001391,,hypothetical protein; addiction module antidote protein,259.07142857142856
+OG0001392,hicB; hicB_1; hicB_2,type II toxin-antitoxin system HicB family antitoxin; Antitoxin HicB; hypothetical protein,386.25
+OG0001393,apxIC_1; apxIC_2; apxIC,toxin-activating lysine-acyltransferase; hypothetical protein; RTX-I toxin-activating lysine-acyltransferase ApxIC,371.57142857142856
+OG0001394,,hypothetical protein,432.9642857142857
+OG0001395,,hypothetical protein,138.21428571428572
+OG0001396,,hypothetical protein; TauD/TfdA family dioxygenase,367.39285714285717
+OG0001397,,hypothetical protein; DUF3164 family protein,537.6428571428571
+OG0001398,,type II toxin-antitoxin system HicB family antitoxin; hypothetical protein,262.55555555555554
+OG0001399,,type II toxin-antitoxin system RelE/ParE family toxin; hypothetical protein,273.1111111111111
+OG0001400,,antitoxin VbhA family protein; hypothetical protein,189.11111111111111
+OG0001401,,hypothetical protein,537.3333333333334
+OG0001402,noc; noc_1; noc_2,Nucleoid occlusion protein; hypothetical protein; ParB/RepB/Spo0J family partition protein; ParB N-terminal domain-containing protein,842.2222222222222
+OG0001403,,hypothetical protein,195.11111111111111
+OG0001404,,hypothetical protein,2058.222222222222
+OG0001405,,hypothetical protein,179.22222222222223
+OG0001406,,hypothetical protein; site-specific DNA-methyltransferase,1551.888888888889
+OG0001407,,hypothetical protein; regulatory protein GemA,608.6666666666666
+OG0001408,,hypothetical protein; phage head morphogenesis protein,1140.4444444444443
+OG0001409,,hypothetical protein; phage baseplate assembly protein V,551.1851851851852
+OG0001410,aptB; dxs_2,hypothetical protein; Apulose-4-phosphate transketolase subunit B; 1-deoxy-D-xylulose-5-phosphate synthase,738.2307692307693
+OG0001411,pemI; pemI_1; pemI_2,hypothetical protein; Antitoxin PemI; antitoxin,245.30769230769232
+OG0001412,yqeY,GatB/YqeY domain-containing protein; putative protein YqeY; hypothetical protein,453
+OG0001413,,hypothetical protein,806.1923076923077
+OG0001414,,hypothetical protein,432.9230769230769
+OG0001415,,hypothetical protein,214.6153846153846
+OG0001416,,hypothetical protein,201.46153846153845
+OG0001417,,hypothetical protein,283.96153846153845
+OG0001418,,hypothetical protein; phage protein,1429.7307692307693
+OG0001419,,hypothetical protein; baseplate assembly protein,385.2692307692308
+OG0001420,,hypothetical protein,227.04
+OG0001421,,hypothetical protein,525
+OG0001422,pemK; pemK_1; pemK_2,type II toxin-antitoxin system PemK/MazF family toxin; Endoribonuclease PemK; hypothetical protein,317.04
+OG0001423,cycA_2; cycA_1,amino acid permease; D-serine/D-alanine/glycine transporter,1394.04
+OG0001424,,hypothetical protein; short-chain dehydrogenase,482.52
+OG0001425,,hypothetical protein; type IV secretion protein VblB7,288.24
+OG0001426,smc,hypothetical protein; Chromosome partition protein Smc,392.04
+OG0001427,,hypothetical protein; DUF5664 domain-containing protein,543
+OG0001428,hicB_2; hicB_1; hicB,Antitoxin HicB; hypothetical protein,379.24
+OG0001429,,hypothetical protein; ATP-binding protein; AAA family ATPase,983.52
+OG0001430,,hypothetical protein,270
+OG0001431,,hypothetical protein; DUF3486 family protein,557.04
+OG0001432,,hypothetical protein,1031.96
+OG0001433,,hypothetical protein; DUF2190 family protein,342.12
+OG0001434,,hypothetical protein,942.12
+OG0001435,,hypothetical protein; DUF1320 domain-containing protein,422.04
+OG0001436,,hypothetical protein,195.12
+OG0001437,,BrnT family toxin; hypothetical protein,264.75
+OG0001438,,hypothetical protein,362.4166666666667
+OG0001439,,hypothetical protein,578.125
+OG0001440,cpdA_2; cpdA_3,"metallophosphoesterase; 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1131.875
+OG0001441,,hypothetical protein,228.125
+OG0001442,,hypothetical protein,799.75
+OG0001443,repC,hypothetical protein; replication initiation protein RepC,807
+OG0001444,,hypothetical protein; DUF935 domain-containing protein,1589.4166666666667
+OG0001445,,hypothetical protein; phage virion morphogenesis protein,493.25
+OG0001446,,hypothetical protein,525
+OG0001447,,hypothetical protein,396.625
+OG0001448,pbuE,Purine efflux pump PbuE,1093.25
+OG0001449,,hypothetical protein,320.3478260869565
+OG0001450,,BrnA antitoxin family protein; hypothetical protein; CopG family antitoxin,251.82608695652175
+OG0001451,fdhE,formate dehydrogenase accessory protein FdhE; Protein FdhE,902.6086956521739
+OG0001452,,hypothetical protein,202.43478260869566
+OG0001453,,DMT family transporter; hypothetical protein; EamA family transporter,805.695652173913
+OG0001454,,hypothetical protein,491.60869565217394
+OG0001455,,hypothetical protein,193.69565217391303
+OG0001456,,hypothetical protein,321.7826086956522
+OG0001457,,hypothetical protein,156.3913043478261
+OG0001458,,hypothetical protein; helix-turn-helix domain-containing protein,404.60869565217394
+OG0001459,,hypothetical protein; peptidoglycan-binding protein,585.1304347826087
+OG0001460,,hypothetical protein; DUF2730 family protein,315
+OG0001461,,hypothetical protein,351.9130434782609
+OG0001462,,hypothetical protein,391.17391304347825
+OG0001463,,hypothetical protein,173.47826086956522
+OG0001464,,hypothetical protein,350.3181818181818
+OG0001465,cpdA_3; cpdA_2,"metallophosphoesterase; 3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA",1483.7727272727273
+OG0001466,,hypothetical protein,179.86363636363637
+OG0001467,,hypothetical protein; AlpA family phage regulatory protein,274.5
+OG0001468,,hypothetical protein; type II toxin-antitoxin system Phd/YefM family antitoxin,252
+OG0001469,,hypothetical protein,202.22727272727272
+OG0001470,higA_1,hypothetical protein; Antitoxin HigA,196.0909090909091
+OG0001471,,hypothetical protein,339.8181818181818
+OG0001472,,hypothetical protein,376.3636363636364
+OG0001473,slyX,SlyX family protein; Protein SlyX,194
+OG0001474,,hypothetical protein,287.85714285714283
+OG0001475,,hypothetical protein,885
+OG0001476,moaA,"radical SAM protein; GTP 3',8-cyclase; hypothetical protein",743.8571428571429
+OG0001477,aptA_1; aptA_2; aptA,Apulose-4-phosphate transketolase subunit A,752.2857142857143
+OG0001478,,hypothetical protein; DUF3472 domain-containing protein,996.4285714285714
+OG0001479,,hypothetical protein; helix-turn-helix domain-containing protein,243.95238095238096
+OG0001480,murA_2; murA_1,hypothetical protein; UDP-N-acetylglucosamine 1-carboxyvinyltransferase,195.85714285714286
+OG0001481,,hypothetical protein,732.7
+OG0001482,,hypothetical protein,240.15
+OG0001483,,MFS transporter; hypothetical protein,1176.6
+OG0001484,,hypothetical protein,297
+OG0001485,,hypothetical protein; antitoxin,189.45
+OG0001486,,hypothetical protein,324.9
+OG0001487,apxIB; ltxB; apxIB_2; apxIB_1,hypothetical protein; Toxin RTX-I translocation ATP-binding protein; Leukotoxin export ATP-binding protein LtxB; ABC transporter transmembrane domain-containing protein,327.6
+OG0001488,,hypothetical protein,763.05
+OG0001489,,hypothetical protein,418.2
+OG0001490,tnpR_1; tnpR_2,hypothetical protein; recombinase family protein; Transposon gamma-delta resolvase,358.35
+OG0001491,,hypothetical protein,167.85
+OG0001492,,HaeIII family restriction endonuclease; hypothetical protein,268.8
+OG0001493,,hypothetical protein,609.45
+OG0001494,yejF,ABC transporter ATP-binding protein; hypothetical protein; putative ABC transporter ATP-binding protein YejF,320.5263157894737
+OG0001495,,hypothetical protein,382.42105263157896
+OG0001496,,type II toxin-antitoxin system RelE/ParE family toxin; hypothetical protein,259.2631578947368
+OG0001497,,helix-turn-helix transcriptional regulator; hypothetical protein,354.1578947368421
+OG0001498,mazF; mazF_1; mazF_2,type II toxin-antitoxin system PemK/MazF family toxin; putative endoribonuclease MazF; hypothetical protein,312.1578947368421
+OG0001499,,TM2 domain-containing protein; hypothetical protein,426.57894736842104
+OG0001500,,NINE protein; hypothetical protein; TM2 domain-containing protein,438.57894736842104
+OG0001501,mdtH,MFS transporter; Multidrug resistance protein MdtH; hypothetical protein,1005.1578947368421
+OG0001502,,hypothetical protein,512.6842105263158
+OG0001503,,hypothetical protein,845.2105263157895
+OG0001504,,hypothetical protein,764.0526315789474
+OG0001505,,hypothetical protein,752.2105263157895
+OG0001506,,hypothetical protein,561.3157894736842
+OG0001507,,hypothetical protein,381.94736842105266
+OG0001508,,hypothetical protein,105
+OG0001509,,hypothetical protein,165.1578947368421
+OG0001510,,hypothetical protein,150.1578947368421
+OG0001511,,hypothetical protein,240.6315789473684
+OG0001512,,phage head protein; hypothetical protein,1068.4736842105262
+OG0001513,,hypothetical protein,201.1578947368421
+OG0001514,,hypothetical protein,211.10526315789474
+OG0001515,,antitoxin MazE family protein; hypothetical protein,225
+OG0001516,aas,Bifunctional protein Aas; MFS transporter,1843
+OG0001517,,hypothetical protein,213.33333333333334
+OG0001518,,hypothetical protein,564.8333333333334
+OG0001519,,hypothetical protein,793
+OG0001520,shlB_2; shlB_3; shlB_1,Hemolysin transporter protein ShlB; ShlB/FhaC/HecB family hemolysin secretion/activation protein; hypothetical protein,1687.3333333333333
+OG0001521,,hypothetical protein,238.5
+OG0001522,,hypothetical protein,1302.5
+OG0001523,,hypothetical protein,276.3333333333333
+OG0001524,,hypothetical protein,139.16666666666666
+OG0001525,,hypothetical protein,222.33333333333334
+OG0001526,,hypothetical protein,202.83333333333334
+OG0001527,,hypothetical protein; helix-turn-helix domain-containing protein,221.66666666666666
+OG0001528,,hypothetical protein,167.66666666666666
+OG0001529,,hypothetical protein,208.83333333333334
+OG0001530,,hypothetical protein; autotransporter outer membrane beta-barrel domain-containing protein,368.3333333333333
+OG0001531,higB; higB_1; higB_2,type II toxin-antitoxin system RelE/ParE family toxin; Endoribonuclease HigB,278.29411764705884
+OG0001532,,hypothetical protein; DUF488 domain-containing protein; DUF488 family protein,417
+OG0001533,,hypothetical protein; ABC transporter ATP-binding protein,1068.3529411764705
+OG0001534,,type II toxin-antitoxin system RelE/ParE family toxin; hypothetical protein,294.88235294117646
+OG0001535,,hypothetical protein,434.29411764705884
+OG0001536,,hypothetical protein,143.47058823529412
+OG0001537,,hypothetical protein,262.94117647058823
+OG0001538,,hypothetical protein,362.47058823529414
+OG0001539,,hypothetical protein,252.88235294117646
+OG0001540,COQ3_1; COQ3,"hypothetical protein; Ubiquinone biosynthesis O-methyltransferase, mitochondrial",407.29411764705884
+OG0001541,,hypothetical protein,289.94117647058823
+OG0001542,,hypothetical protein,194.8235294117647
+OG0001543,,hypothetical protein,619.0588235294117
+OG0001544,,hypothetical protein; type II toxin-antitoxin system HicA family toxin,183
+OG0001545,,MFS transporter; hypothetical protein,213.88235294117646
+OG0001546,,hypothetical protein,254.11764705882354
+OG0001547,,hypothetical protein,186
+OG0001548,,hypothetical protein,173.8235294117647
+OG0001549,,hypothetical protein,322.5882352941176
+OG0001550,,hypothetical protein,935.4705882352941
+OG0001551,,hypothetical protein,439.7647058823529
+OG0001552,,hypothetical protein,147
+OG0001553,,hypothetical protein,249.7058823529412
+OG0001554,,hypothetical protein,96.70588235294117
+OG0001555,,hypothetical protein,214.23529411764707
+OG0001556,,hypothetical protein,215.8235294117647
+OG0001557,,hypothetical protein,160.05882352941177
+OG0001558,,extracellular solute-binding protein; hypothetical protein,524.4375
+OG0001559,,"L,D-transpeptidase family protein; hypothetical protein",335.625
+OG0001560,,porin family protein; hypothetical protein,838.3125
+OG0001561,,hypothetical protein,608.8125
+OG0001562,,hypothetical protein,195
+OG0001563,,hypothetical protein,457.6875
+OG0001564,,hypothetical protein; antA/AntB antirepressor family protein,350.0625
+OG0001565,,hypothetical protein,585.1875
+OG0001566,ydhC_2,hypothetical protein; Inner membrane transport protein YdhC,325.5
+OG0001567,,hypothetical protein,138
+OG0001568,,hypothetical protein,218.4375
+OG0001569,,hypothetical protein,208.5
+OG0001570,,hypothetical protein,159
+OG0001571,,hypothetical protein,162
+OG0001572,,hypothetical protein,387
+OG0001573,shlB; shlB_1,hypothetical protein; Hemolysin transporter protein ShlB,283.6875
+OG0001574,,hypothetical protein,189
+OG0001575,,hypothetical protein,273
+OG0001576,,hypothetical protein,216
+OG0001577,,hypothetical protein,122.25
+OG0001578,,hypothetical protein,183
+OG0001579,,hypothetical protein,199.6875
+OG0001580,,hypothetical protein,183
+OG0001581,pigH,"4-hydroxy-2,2'-bipyrrole-5-methanol synthase PigH",783
+OG0001582,,hypothetical protein,261
+OG0001583,,hypothetical protein,204
+OG0001584,,hypothetical protein,111
+OG0001585,,hypothetical protein,177
+OG0001586,,hypothetical protein,156
+OG0001587,,hypothetical protein,618
+OG0001588,,hypothetical protein,168.375
+OG0001589,,hypothetical protein,134.25
+OG0001590,,hypothetical protein,162
+OG0001591,,hypothetical protein,120
+OG0001592,,type II toxin-antitoxin system HicB family antitoxin; hypothetical protein,396
+OG0001593,,virulence RhuM family protein; hypothetical protein,880.8
+OG0001594,,4-oxalocrotonate tautomerase family protein; putative tautomerase,187.6
+OG0001595,,hypothetical protein,433.4
+OG0001596,,abortive infection family protein; hypothetical protein,594.2
+OG0001597,,hypothetical protein,159
+OG0001598,,hypothetical protein,455.6
+OG0001599,,hypothetical protein,199.4
+OG0001600,,hypothetical protein,219.93333333333334
+OG0001601,,hypothetical protein,123
+OG0001602,,hypothetical protein; helix-turn-helix transcriptional regulator; LexA family transcriptional regulator,418
+OG0001603,ido,hypothetical protein; L-isoleucine-4-hydroxylase,568.2
+OG0001604,,hypothetical protein,357.4
+OG0001605,,hypothetical protein,291
+OG0001606,,hypothetical protein,222
+OG0001607,,hypothetical protein,108
+OG0001608,,hypothetical protein,313.4
+OG0001609,,hypothetical protein,516.6
+OG0001610,,DUF1376 domain-containing protein; hypothetical protein; helix-turn-helix domain-containing protein,353.7857142857143
+OG0001611,,type II toxin-antitoxin system HicA family toxin; hypothetical protein,199.5
+OG0001612,,helix-turn-helix domain-containing protein; hypothetical protein; helix-turn-helix transcriptional regulator,298.07142857142856
+OG0001613,,hypothetical protein,501.85714285714283
+OG0001614,,hypothetical protein,2668.714285714286
+OG0001615,,hypothetical protein,182.35714285714286
+OG0001616,,hypothetical protein,977.5714285714286
+OG0001617,,hypothetical protein,516
+OG0001618,,hypothetical protein,207.64285714285714
+OG0001619,,hypothetical protein,186
+OG0001620,,hypothetical protein,344.7857142857143
+OG0001621,,hypothetical protein,180
+OG0001622,,hypothetical protein; DUF6421 family protein,325.5
+OG0001623,,hypothetical protein,417.64285714285717
+OG0001624,,hypothetical protein,171
+OG0001625,,hypothetical protein,132
+OG0001626,,BrnT family toxin; hypothetical protein,299.7692307692308
+OG0001627,,hypothetical protein,366
+OG0001628,,hypothetical protein,352.38461538461536
+OG0001629,,hypothetical protein,1057.8461538461538
+OG0001630,,hypothetical protein,162.23076923076923
+OG0001631,,hypothetical protein,114
+OG0001632,,hypothetical protein,247.6153846153846
+OG0001633,,hypothetical protein,123.46153846153847
+OG0001634,,hypothetical protein,201
+OG0001635,,hypothetical protein,183
+OG0001636,,hypothetical protein,150
+OG0001637,,hypothetical protein,117
+OG0001638,,hypothetical protein,468.6923076923077
+OG0001639,,hypothetical protein,177
+OG0001640,,hypothetical protein,171
+OG0001641,,hypothetical protein,144
+OG0001642,,hypothetical protein,123.23076923076923
+OG0001643,,hypothetical protein,177
+OG0001644,,hypothetical protein; phage portal protein,2042.076923076923
+OG0001645,,hypothetical protein,910.3846153846154
+OG0001646,,hypothetical protein,418.61538461538464
+OG0001647,,hypothetical protein; tail fiber domain-containing protein,1056
+OG0001648,,hypothetical protein,1872.4615384615386
+OG0001649,,hypothetical protein,2278.846153846154
+OG0001650,,hypothetical protein; autotransporter outer membrane beta-barrel domain-containing protein,2104.846153846154
+OG0001651,,hypothetical protein,411
+OG0001652,,hypothetical protein,99
+OG0001653,,hypothetical protein,292.15384615384613
+OG0001654,,hypothetical protein,131.53846153846155
+OG0001655,,hypothetical protein,123
+OG0001656,,hypothetical protein,192
+OG0001657,,hypothetical protein,613.3846153846154
+OG0001658,,hypothetical protein,353.38461538461536
+OG0001659,nagZ,beta-N-acetylhexosaminidase; hypothetical protein,315.25
+OG0001660,,YbfB/YjiJ family MFS transporter; hypothetical protein,625.5
+OG0001661,,hypothetical protein,164.5
+OG0001662,,hypothetical protein,166
+OG0001663,,hypothetical protein,159.5
+OG0001664,,hypothetical protein,202.5
+OG0001665,,hypothetical protein,117
+OG0001666,,hypothetical protein,147.5
+OG0001667,,hypothetical protein,176.25
+OG0001668,,hypothetical protein,153
+OG0001669,,hypothetical protein,422.25
+OG0001670,,hypothetical protein,164.25
+OG0001671,,hypothetical protein,361.5
+OG0001672,,hypothetical protein; N4-gp56 family major capsid protein,1143.25
+OG0001673,,hypothetical protein,461.25
+OG0001674,,hypothetical protein; VENN motif pre-toxin domain-containing protein,487.75
+OG0001675,,hypothetical protein,405.5
+OG0001676,,hypothetical protein; DUF637 domain-containing protein; filamentous hemagglutinin N-terminal domain-containing protein,6487.75
+OG0001677,,hypothetical protein,161.75
+OG0001678,,hypothetical protein,189
+OG0001679,,hypothetical protein,163
+OG0001680,,hypothetical protein,138
+OG0001681,,hypothetical protein,1136.75
+OG0001682,,hypothetical protein,205.5
+OG0001683,,phage repressor protein; hypothetical protein; transcriptional regulator,618
+OG0001684,,hypothetical protein,351.27272727272725
+OG0001685,,hypothetical protein,180
+OG0001686,,hypothetical protein,139.36363636363637
+OG0001687,ttuE_3; ttuE_2; ttuE_1,Pyruvate kinase; hypothetical protein,136.9090909090909
+OG0001688,,hypothetical protein,459.8181818181818
+OG0001689,,hypothetical protein,189
+OG0001690,,hypothetical protein,159.27272727272728
+OG0001691,,hypothetical protein,283.3636363636364
+OG0001692,,hypothetical protein,180
+OG0001693,,hypothetical protein,105
+OG0001694,,hypothetical protein,511.09090909090907
+OG0001695,,hypothetical protein; phage antirepressor Ant,374.1818181818182
+OG0001696,,hypothetical protein,281.1818181818182
+OG0001697,,hypothetical protein,132
+OG0001698,,hypothetical protein,611.1818181818181
+OG0001699,,hypothetical protein,444
+OG0001700,,hypothetical protein,840.3
+OG0001701,fabG3,SDR family oxidoreductase; 3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase; hypothetical protein,480.9
+OG0001702,,hypothetical protein; porin family protein,577.2
+OG0001703,,hypothetical protein; helix-turn-helix domain-containing protein,301.2
+OG0001704,,hypothetical protein,356.4
+OG0001705,,hypothetical protein,99
+OG0001706,,hypothetical protein,214.8
+OG0001707,,hypothetical protein,282.6
+OG0001708,,hypothetical protein,531
+OG0001709,,hypothetical protein,387.9
+OG0001710,,hypothetical protein,413.7
+OG0001711,,hypothetical protein,194.4
+OG0001712,,hypothetical protein,133.2
+OG0001713,,hypothetical protein,413.1
+OG0001714,,hypothetical protein,169.8
+OG0001715,,hypothetical protein,147
+OG0001716,,hypothetical protein,401.7
+OG0001717,,hypothetical protein,941.7
+OG0001718,virC1,Protein virC1; ParA family protein; hypothetical protein; AAA family ATPase,649.5
+OG0001719,,hypothetical protein,168.9
+OG0001720,,hypothetical protein,483.6
+OG0001721,,hypothetical protein,252
+OG0001722,,hypothetical protein,711
+OG0001723,,hypothetical protein,101.1
+OG0001724,,hypothetical protein,234
+OG0001725,,hypothetical protein,249.9
+OG0001726,priA_1; priA_2,primosomal protein N',340.2
+OG0001727,,hypothetical protein,210
+OG0001728,,GpE family phage tail protein; hypothetical protein,74.33333333333333
+OG0001729,,ATP-binding protein; hypothetical protein,2064
+OG0001730,,hypothetical protein,227.33333333333334
+OG0001731,,hypothetical protein,136.33333333333334
+OG0001732,,hypothetical protein,141
+OG0001733,,hypothetical protein,261
+OG0001734,,hypothetical protein,296
+OG0001735,,hypothetical protein,90
+OG0001736,,hypothetical protein,403.6666666666667
+OG0001737,,hypothetical protein,231
+OG0001738,,hypothetical protein,148.33333333333334
+OG0001739,,hypothetical protein,111
+OG0001740,,hypothetical protein,317
+OG0001741,,hypothetical protein,235.33333333333334
+OG0001742,,hypothetical protein,228.33333333333334
+OG0001743,,hypothetical protein,281
+OG0001744,,hypothetical protein,268.6666666666667
+OG0001745,,hypothetical protein,146
+OG0001746,,hypothetical protein,303
+OG0001747,,hypothetical protein,416.3333333333333
+OG0001748,,hypothetical protein,279.3333333333333
+OG0001749,,hypothetical protein,350.3333333333333
+OG0001750,,hypothetical protein,183
+OG0001751,,hypothetical protein,186
+OG0001752,,hypothetical protein,163.66666666666666
+OG0001753,,hypothetical protein,540
+OG0001754,yopJ_5,hypothetical protein; Effector protein YopJ,1770.3333333333333
+OG0001755,,hypothetical protein; toxin HicA,270.75
+OG0001756,rpmH,50S ribosomal protein L34,135
+OG0001757,,hypothetical protein,321.75
+OG0001758,ykgO,type B 50S ribosomal protein L36,126
+OG0001759,,hypothetical protein,279.375
+OG0001760,,hypothetical protein,209.625
+OG0001761,,hypothetical protein,162
+OG0001762,,hypothetical protein,211.125
+OG0001763,,hypothetical protein,224.25
+OG0001764,,hypothetical protein,381
+OG0001765,,hypothetical protein,156
+OG0001766,,hypothetical protein,630
+OG0001767,,hypothetical protein,198
+OG0001768,,hypothetical protein,317.625
+OG0001769,,hypothetical protein,390
+OG0001770,,hypothetical protein,129
+OG0001771,,hypothetical protein,785.25
+OG0001772,,hypothetical protein,99
+OG0001773,,hypothetical protein,454.875
+OG0001774,,hypothetical protein; type II toxin-antitoxin system RelE/ParE family toxin,351
+OG0001775,,hypothetical protein,198
+OG0001776,ddpA_2,"hypothetical protein; putative D,D-dipeptide-binding periplasmic protein DdpA",399.375
+OG0001777,tnpR; tnpR_2; tnpR_1,Transposon gamma-delta resolvase; resolvase fragment-like protein; recombinase family protein,550.875
+OG0001778,,hypothetical protein,453.375
+OG0001779,dinJ_2,type II toxin-antitoxin system RelB/DinJ family antitoxin; Antitoxin DinJ; hypothetical protein,237.375
+OG0001780,,hypothetical protein; DNA adenine methylase,310.125
+OG0001781,,hypothetical protein,102
+OG0001782,,hypothetical protein,144
+OG0001783,,hypothetical protein,258
+OG0001784,,hypothetical protein,141
+OG0001785,,hypothetical protein,217.125
+OG0001786,,DNA adenine methylase; hypothetical protein,836.1428571428571
+OG0001787,socA; socA_1; socA_2,DUF4065 domain-containing protein; Antitoxin SocA,502.7142857142857
+OG0001788,,hypothetical protein,158.14285714285714
+OG0001789,,hypothetical protein,129
+OG0001790,groL_2; groL_1,hypothetical protein; 60 kDa chaperonin,323.14285714285717
+OG0001791,,hypothetical protein,96
+OG0001792,,hypothetical protein,193.28571428571428
+OG0001793,,hypothetical protein,339
+OG0001794,,hypothetical protein,587.1428571428571
+OG0001795,,hypothetical protein,291.42857142857144
+OG0001796,,hypothetical protein,270
+OG0001797,,hypothetical protein,207
+OG0001798,,hypothetical protein,99
+OG0001799,,hypothetical protein,213
+OG0001800,,hypothetical protein,171
+OG0001801,,hypothetical protein,171.42857142857142
+OG0001802,,hypothetical protein,141.42857142857142
+OG0001803,,hypothetical protein,171
+OG0001804,,hypothetical protein,123
+OG0001805,,hypothetical protein,159
+OG0001806,,hypothetical protein; lysozyme,663
+OG0001807,,hypothetical protein,413.14285714285717
+OG0001808,,hypothetical protein,123.85714285714286
+OG0001809,,hypothetical protein,176.14285714285714
+OG0001810,,hypothetical protein,388.7142857142857
+OG0001811,,hypothetical protein,360
+OG0001812,,hypothetical protein,185.14285714285714
+OG0001813,,hypothetical protein,231
+OG0001814,,hypothetical protein,162
+OG0001815,,hypothetical protein,156.42857142857142
+OG0001816,,hypothetical protein,253.71428571428572
+OG0001817,,hypothetical protein,113.14285714285714
+OG0001818,ribC,Riboflavin synthase,281.57142857142856
+OG0001819,,hypothetical protein,279
+OG0001820,,hypothetical protein,381.42857142857144
+OG0001821,,hypothetical protein,119.14285714285714
+OG0001822,,hypothetical protein,153
+OG0001823,,hypothetical protein,343.7142857142857
+OG0001824,,hypothetical protein,369.42857142857144
+OG0001825,,hypothetical protein,798.8571428571429
+OG0001826,azo1,NAD(P)H-dependent oxidoreductase; FMN-dependent NADPH-azoreductase; hypothetical protein,509.14285714285717
+OG0001827,,hypothetical protein,507.42857142857144
+OG0001828,,hypothetical protein,222
+OG0001829,,hypothetical protein,236.57142857142858
+OG0001830,,hypothetical protein,339.42857142857144
+OG0001831,,hypothetical protein,292.7142857142857
+OG0001832,,hypothetical protein,119.14285714285714
+OG0001833,,hypothetical protein,127.28571428571429
+OG0001834,,hypothetical protein,150.42857142857142
+OG0001835,priA_2; priA_1,primosomal protein N'; Primosomal protein N'; hypothetical protein,296.57142857142856
+OG0001836,,hypothetical protein,312
+OG0001837,,hypothetical protein,123.85714285714286
+OG0001838,,Type IV secretion system protein VirB11; hypothetical protein,530.5714285714286
+OG0001839,,hypothetical protein,379.7142857142857
+OG0001840,,hypothetical protein,198.42857142857142
+OG0001841,,hypothetical protein,566.5714285714286
+OG0001842,,hypothetical protein,528
+OG0001843,,hypothetical protein,616.7142857142857
+OG0001844,,hypothetical protein,245.14285714285714
+OG0001845,,hypothetical protein,105
+OG0001846,,hypothetical protein,2227.285714285714
+OG0001847,,hypothetical protein,126
+OG0001848,,hypothetical protein,315.14285714285717
+OG0001849,,type II toxin-antitoxin system RelE/ParE family toxin; hypothetical protein,241.5
+OG0001850,,YadA-like family protein; hypothetical protein,2888.5
+OG0001851,,BrnA antitoxin family protein; hypothetical protein,270
+OG0001852,,BrnT family toxin; hypothetical protein,253.5
+OG0001853,,hypothetical protein,631.5
+OG0001854,,hypothetical protein; type II toxin-antitoxin system RelB/DinJ family antitoxin,208.5
+OG0001855,,hypothetical protein,277.5
+OG0001856,,hypothetical protein,210.5
+OG0001857,,hypothetical protein,129
+OG0001858,yopJ_1,hypothetical protein; Effector protein YopJ,740.5
+OG0001859,,hypothetical protein,182
+OG0001860,,hypothetical protein,192
+OG0001861,,hypothetical protein,165
+OG0001862,,hypothetical protein,381
+OG0001863,,hypothetical protein,138
+OG0001864,,hypothetical protein,120
+OG0001865,,hypothetical protein,211
+OG0001866,,hypothetical protein,120
+OG0001867,,hypothetical protein,870
+OG0001868,,hypothetical protein,368.5
+OG0001869,,hypothetical protein,120
+OG0001870,,hypothetical protein,90
+OG0001871,,hypothetical protein,207
+OG0001872,,hypothetical protein,352.5
+OG0001873,,hypothetical protein,429
+OG0001874,,hypothetical protein,413
+OG0001875,,hypothetical protein,93
+OG0001876,,hypothetical protein,183
+OG0001877,,hypothetical protein,117
+OG0001878,,hypothetical protein,96
+OG0001879,,hypothetical protein,135
+OG0001880,,hypothetical protein,480
+OG0001881,,hypothetical protein,171
+OG0001882,,hypothetical protein,252
+OG0001883,,hypothetical protein,109
+OG0001884,,hypothetical protein,258
+OG0001885,,hypothetical protein,111
+OG0001886,,hypothetical protein,186
+OG0001887,traG,Conjugal transfer protein TraG; type IV secretory system conjugative DNA transfer family protein,1660
+OG0001888,,hypothetical protein,390
+OG0001889,,hypothetical protein,120
+OG0001890,,hypothetical protein,271.5
+OG0001891,,hypothetical protein,96
+OG0001892,,hypothetical protein,168
+OG0001893,,hypothetical protein,268
+OG0001894,,hypothetical protein,117
+OG0001895,,hypothetical protein,221
+OG0001896,,hypothetical protein,90
+OG0001897,,hypothetical protein,279
+OG0001898,,hypothetical protein,658.5
+OG0001899,,hypothetical protein,161.5
+OG0001900,,hypothetical protein,205.5
+OG0001901,,DUF6290 family protein,228
+OG0001902,,virulence RhuM family protein; hypothetical protein,291
+OG0001903,,type II toxin-antitoxin system VapC family toxin; hypothetical protein,356.4
+OG0001904,,hypothetical protein,255.6
+OG0001905,,hypothetical protein,192
+OG0001906,,hypothetical protein,210
+OG0001907,,hypothetical protein,293.4
+OG0001908,,hypothetical protein,127.8
+OG0001909,,hypothetical protein,921.6
+OG0001910,,hypothetical protein,517.2
+OG0001911,,hypothetical protein,392.4
+OG0001912,,hypothetical protein; type I restriction enzyme HsdR N-terminal domain-containing protein,1056
+OG0001913,,hypothetical protein,486
+OG0001914,,hypothetical protein,138
+OG0001915,,hypothetical protein,730.2
+OG0001916,,hypothetical protein,156
+OG0001917,lpxD_5,hypothetical protein; UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,388.2
+OG0001918,,hypothetical protein; VENN motif pre-toxin domain-containing protein,770.4
+OG0001919,,hypothetical protein,204
+OG0001920,,hypothetical protein,237
+OG0001921,,hypothetical protein,438.6
+OG0001922,,hypothetical protein,265.8
+OG0001923,,hypothetical protein,300
+OG0001924,,hypothetical protein,456
+OG0001925,,hypothetical protein,338.4
+OG0001926,ssb_2; ssb,Single-stranded DNA-binding protein; single-stranded DNA-binding protein,255.6
+OG0001927,,MFS transporter; hypothetical protein,1017
+OG0001928,,hypothetical protein,223.2
+OG0001929,dnaJ_3; dnaJ_4; dnaJ_1; dnaJ_2,Chaperone protein DnaJ,585
+OG0001930,,hypothetical protein,571.8
+OG0001931,,hypothetical protein,273
+OG0001932,fpr_2; fpr_1,Flavodoxin/ferredoxin--NADP reductase,219
+OG0001933,,hypothetical protein,367.2
+OG0001934,,hypothetical protein,196.2
+OG0001935,,hypothetical protein,201
+OG0001936,,hypothetical protein,108.6
+OG0001937,,hypothetical protein,411.6
+OG0001938,,hypothetical protein,207
+OG0001939,,hypothetical protein,205.8
+OG0001940,,hypothetical protein,246
+OG0001941,,hypothetical protein,150
+OG0001942,,hypothetical protein,711
+OG0001943,,hypothetical protein,184.8
+OG0001944,,hypothetical protein,178.8
+OG0001945,flgG; flgC; flgF,flagellar hook protein FlgE; flagellar basal-body rod protein FlgG; flagellar basal body rod protein FlgC; flagellar basal-body rod protein FlgF,788.25
+OG0001946,,hypothetical protein,1389.75
+OG0001947,,DNA-binding protein; hypothetical protein,252
+OG0001948,,hypothetical protein,237.75
+OG0001949,,type II toxin-antitoxin system PemK/MazF family toxin; hypothetical protein,491.25
+OG0001950,,hypothetical protein,279
+OG0001951,,hypothetical protein,155.25
+OG0001952,,hypothetical protein,167.25
+OG0001953,,hypothetical protein,193.5
+OG0001954,ttuE_2; ttuE_1,Pyruvate kinase,360
+OG0001955,,hypothetical protein,255
+OG0001956,,hypothetical protein,771
+OG0001957,,hypothetical protein,411.75
+OG0001958,lpxD_4,hypothetical protein; UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,542.25
+OG0001959,,hypothetical protein,200.25
+OG0001960,,hypothetical protein,596.25
+OG0001961,,hypothetical protein,153
+OG0001962,,hypothetical protein,114
+OG0001963,,hypothetical protein,180
+OG0001964,,hypothetical protein,1122
+OG0001965,,hypothetical protein,1248
+OG0001966,COQ3; COQ3_2,"Ubiquinone biosynthesis O-methyltransferase, mitochondrial",1116
+OG0001967,,hypothetical protein,163.5
+OG0001968,,hypothetical protein,225.75
+OG0001969,,hypothetical protein,174
+OG0001970,,hypothetical protein,159
+OG0001971,,hypothetical protein,485.25
+OG0001972,,hypothetical protein,215.25
+OG0001973,,hypothetical protein,144
+OG0001974,,hypothetical protein,204.75
+OG0001975,,hypothetical protein,195
+OG0001976,,hypothetical protein,225
+OG0001977,,hypothetical protein,129
+OG0001978,,hypothetical protein,110.25
+OG0001979,,hypothetical protein,519
+OG0001980,,hypothetical protein,250.5
+OG0001981,,hypothetical protein,182.25
+OG0001982,dnaJ_3; dnaJ_4; dnaJ_5,Chaperone protein DnaJ,454.5
+OG0001983,,hypothetical protein,175.5
+OG0001984,,hypothetical protein,438.75
+OG0001985,hemA,5-aminolevulinate synthase,793.5
+OG0001986,,hypothetical protein,189
+OG0001987,,hypothetical protein,846
+OG0001988,,hypothetical protein,460.5
+OG0001989,,hypothetical protein,189
+OG0001990,,hypothetical protein,261
+OG0001991,,hypothetical protein,224.25
+OG0001992,,hypothetical protein,126
+OG0001993,,hypothetical protein,166.5
+OG0001994,,hypothetical protein,177
+OG0001995,,hypothetical protein,2253
+OG0001996,,hypothetical protein,433.5
+OG0001997,traL,Protein TraL,726
+OG0001998,,hypothetical protein,312
+OG0001999,,hypothetical protein,330
+OG0002000,traI,Protein TraI,1884
+OG0002001,,hypothetical protein,678
+OG0002002,,hypothetical protein,519
+OG0002003,,hypothetical protein,232.5
+OG0002004,,MerR family DNA-binding transcriptional regulator; hypothetical protein; MerR family transcriptional regulator,285
+OG0002005,traG,Ti-type conjugative transfer system protein TraG,1913.25
+OG0002006,,hypothetical protein,204
+OG0002007,,hypothetical protein,251.25
+OG0002008,,hypothetical protein,514.5
+OG0002009,,hypothetical protein,150
+OG0002010,,hypothetical protein,408
+OG0002011,,hypothetical protein,207
+OG0002012,,hypothetical protein,165
+OG0002013,,hypothetical protein,424.5
+OG0002014,,hypothetical protein,267
+OG0002015,,hypothetical protein,309.75
+OG0002016,,hypothetical protein,207
+OG0002017,,hypothetical protein,273
+OG0002018,,hypothetical protein,230.25
+OG0002019,,hypothetical protein,425.25
+OG0002020,,hypothetical protein,222
+OG0002021,,hypothetical protein,267.75
+OG0002022,,hypothetical protein,291.75
+OG0002023,,hypothetical protein,251.25
+OG0002024,,hypothetical protein,235.5
+OG0002025,,hypothetical protein,190.5
+OG0002026,yejB,microcin C ABC transporter permease YejB; hypothetical protein,888
+OG0002027,,N-acetylmuramidase domain-containing protein; hypothetical protein,844
+OG0002028,,flagellin A,1152
+OG0002029,,hypothetical protein,385
+OG0002030,,hypothetical protein,467
+OG0002031,,hypothetical protein,222
+OG0002032,,hypothetical protein,270
+OG0002033,,hypothetical protein; IS200/IS605 family transposase ISAba30,567
+OG0002034,,hypothetical protein,266
+OG0002035,,hypothetical protein,216
+OG0002036,,hypothetical protein,239
+OG0002037,,hypothetical protein,223
+OG0002038,,hypothetical protein,96
+OG0002039,,hypothetical protein,310
+OG0002040,,hypothetical protein,145
+OG0002041,,hypothetical protein,108
+OG0002042,,hypothetical protein,129
+OG0002043,,hypothetical protein,153
+OG0002044,,hypothetical protein,285
+OG0002045,,hypothetical protein,528
+OG0002046,,hypothetical protein,390
+OG0002047,,hypothetical protein,436
+OG0002048,,hypothetical protein,132
+OG0002049,,hypothetical protein; DNA-binding protein,201
+OG0002050,,hypothetical protein; ATP-binding protein,1926
+OG0002051,,hypothetical protein,405
+OG0002052,,hypothetical protein,710
+OG0002053,,hypothetical protein,333
+OG0002054,,hypothetical protein,189
+OG0002055,,hypothetical protein,255
+OG0002056,,hypothetical protein,171
+OG0002057,,hypothetical protein,465
+OG0002058,,hypothetical protein,102
+OG0002059,,hypothetical protein,153
+OG0002060,,hypothetical protein,261
+OG0002061,,hypothetical protein,222
+OG0002062,,hypothetical protein,462
+OG0002063,,hypothetical protein,309
+OG0002064,,hypothetical protein,147
+OG0002065,,hypothetical protein,192
+OG0002066,,hypothetical protein,186
+OG0002067,,hypothetical protein,96
+OG0002068,,hypothetical protein,543
+OG0002069,,hypothetical protein,249
+OG0002070,,hypothetical protein,1405
+OG0002071,,hypothetical protein,400
+OG0002072,,hypothetical protein,492
+OG0002073,,hypothetical protein,663
+OG0002074,,TraC family protein; conjugal transfer protein TraC,206
+OG0002075,,conjugal transfer protein TraD,225
+OG0002076,,replication/maintenance protein RepL; hypothetical protein,502
+OG0002077,,hypothetical protein,302
+OG0002078,,hypothetical protein,164
+OG0002079,,hypothetical protein,183
+OG0002080,,hypothetical protein,150
+OG0002081,,hypothetical protein,417
+OG0002082,,hypothetical protein,168
+OG0002083,,hypothetical protein,199
+OG0002084,,hypothetical protein,174
+OG0002085,,hypothetical protein,387
+OG0002086,,hypothetical protein,384
+OG0002087,,hypothetical protein,138
+OG0002088,,hypothetical protein,260
+OG0002089,,hypothetical protein,177
+OG0002090,,hypothetical protein,108
+OG0002091,,hypothetical protein,96
+OG0002092,,hypothetical protein,99
+OG0002093,,hypothetical protein,156
+OG0002094,,hypothetical protein,96
+OG0002095,,hypothetical protein,141
+OG0002096,,hypothetical protein,249
+OG0002097,,hypothetical protein,285
+OG0002098,,hypothetical protein,225
+OG0002099,,hypothetical protein,186
+OG0002100,,hypothetical protein,90
+OG0002101,,hypothetical protein,194
+OG0002102,,hypothetical protein,181
+OG0002103,,hypothetical protein,321
+OG0002104,,hypothetical protein,129
+OG0002105,,hypothetical protein,372
+OG0002106,,hypothetical protein,225
+OG0002107,,hypothetical protein,225
+OG0002108,,hypothetical protein,181
+OG0002109,,hypothetical protein,612
+OG0002110,,hypothetical protein,228
+OG0002111,,hypothetical protein,417
+OG0002112,,hypothetical protein,576
+OG0002113,,hypothetical protein,513
+OG0002114,,hypothetical protein,429
+OG0002115,,hypothetical protein,300
+OG0002116,,hypothetical protein,391
+OG0002117,,hypothetical protein,350
+OG0002118,,hypothetical protein,237
+OG0002119,,hypothetical protein,251
+OG0002120,,hypothetical protein,117
+OG0002121,,hypothetical protein,147
+OG0002122,virB4_3,Type IV secretion system protein virB4; hypothetical protein,2123
+OG0002123,,hypothetical protein,756
+OG0002124,,hypothetical protein,261
+OG0002125,,hypothetical protein,399
+OG0002126,,hypothetical protein,306
+OG0002127,,hypothetical protein,711
+OG0002128,,hypothetical protein,486
+OG0002129,,hypothetical protein,212
+OG0002130,,hypothetical protein,177
+OG0002131,,hypothetical protein,147
+OG0002132,,hypothetical protein,147
+OG0002133,,hypothetical protein,93
+OG0002134,,hypothetical protein,419
+OG0002135,,hypothetical protein,405
+OG0002136,,hypothetical protein,180
+OG0002137,,hypothetical protein,168
+OG0002138,,hypothetical protein,216
+OG0002139,,hypothetical protein,171
+OG0002140,,hypothetical protein,375
+OG0002141,ssb_3; ssb_4; ssb_1,Single-stranded DNA-binding protein,150
+OG0002142,,hypothetical protein,165
+OG0002143,,hypothetical protein,210
+OG0002144,,hypothetical protein,213
+OG0002145,,hypothetical protein,147
+OG0002146,,hypothetical protein,153
+OG0002147,,hypothetical protein,183
+OG0002148,,hypothetical protein,210
+OG0002149,,hypothetical protein,198
+OG0002150,,hypothetical protein,393
+OG0002151,,hypothetical protein,141
+OG0002152,,hypothetical protein; fructose-bisphosphate aldolase,317.6666666666667
+OG0002153,,hypothetical protein,147
+OG0002154,,hypothetical protein,270
+OG0002155,,hypothetical protein,2760
+OG0002156,,hypothetical protein,659
+OG0002157,,hypothetical protein,1056
+OG0002158,,hypothetical protein,1056
+OG0002159,,hypothetical protein,1053
+OG0002160,,hypothetical protein,1053
+OG0002161,,hypothetical protein,1053
+OG0002162,,hypothetical protein,1056
+OG0002163,,hypothetical protein,2586
+OG0002164,,hypothetical protein,1398
+OG0002165,,hypothetical protein,1128
+OG0002166,,hypothetical protein,183
+OG0002167,bepA_7,hypothetical protein; Protein adenylyltransferase,443
+OG0002168,,hypothetical protein,267
+OG0002169,,hypothetical protein,141
+OG0002170,,hypothetical protein,315
+OG0002171,,hypothetical protein,426
+OG0002172,,hypothetical protein,165
+OG0002173,,hypothetical protein,132
+OG0002174,,hypothetical protein,270
+OG0002175,,hypothetical protein,169
+OG0002176,,hypothetical protein,198
+OG0002177,,hypothetical protein,120
+OG0002178,,hypothetical protein,150
+OG0002179,,hypothetical protein,246
+OG0002180,,hypothetical protein,429
+OG0002181,,hypothetical protein,212
+OG0002182,,hypothetical protein,438
+OG0002183,,hypothetical protein,243
+OG0002184,,hypothetical protein,168
+OG0002185,,hypothetical protein,177
+OG0002186,,hypothetical protein,96
+OG0002187,,hypothetical protein,171
+OG0002188,,hypothetical protein,168
+OG0002189,,hypothetical protein,189
+OG0002190,,hypothetical protein,455
+OG0002191,,hypothetical protein,99
+OG0002192,,hypothetical protein,418
+OG0002193,,hypothetical protein,647
+OG0002194,,hypothetical protein,312
+OG0002195,,hypothetical protein,972
+OG0002196,,hypothetical protein,141
+OG0002197,,hypothetical protein,225
+OG0002198,,hypothetical protein,617
+OG0002199,,hypothetical protein,157
+OG0002200,,hypothetical protein,150
+OG0002201,,hypothetical protein,264
+OG0002202,,hypothetical protein,199
+OG0002203,,hypothetical protein,153
+OG0002204,,hypothetical protein,390
+OG0002205,,hypothetical protein,108
+OG0002206,,hypothetical protein,357
+OG0002207,,hypothetical protein,487
+OG0002208,,hypothetical protein,707
+OG0002209,,hypothetical protein,209
+OG0002210,,hypothetical protein,180
+OG0002211,,hypothetical protein,163
+OG0002212,,hypothetical protein,199
+OG0002213,,ABC transporter permease,1144.5
+OG0002214,,hypothetical protein,270
+OG0002215,,phage terminase large subunit family protein; hypothetical protein,236.5
+OG0002216,,hypothetical protein,348
+OG0002217,,antA/AntB antirepressor family protein,312
+OG0002218,,ParB/Srx family N-terminal domain-containing protein; hypothetical protein,1350
+OG0002219,,"CtxA-like, cholera toxin A subunit",717
+OG0002220,,major capsid protein; hypothetical protein,222
+OG0002221,,hypothetical protein,223.5
+OG0002222,,hypothetical protein,138
+OG0002223,,hypothetical protein,192
+OG0002224,,hypothetical protein,174
+OG0002225,,hypothetical protein,154.5
+OG0002226,,hypothetical protein,201
+OG0002227,,hypothetical protein,357
+OG0002228,,hypothetical protein,106.5
+OG0002229,,hypothetical protein,219
+OG0002230,,hypothetical protein,246
+OG0002231,truA_1; truA_2,tRNA pseudouridine synthase A,222
+OG0002232,,hypothetical protein,249
+OG0002233,,hypothetical protein,268.5
+OG0002234,,hypothetical protein,99
+OG0002235,,hypothetical protein,325.5
+OG0002236,,hypothetical protein,183
+OG0002237,,hypothetical protein,118.5
+OG0002238,,hypothetical protein,403.5
+OG0002239,,hypothetical protein,226.5
+OG0002240,,hypothetical protein,136.5
+OG0002241,,hypothetical protein,1092
+OG0002242,,hypothetical protein,342
+OG0002243,,hypothetical protein,123
+OG0002244,,hypothetical protein,96
+OG0002245,,hypothetical protein,210
+OG0002246,,hypothetical protein,111
+OG0002247,,hypothetical protein,159
+OG0002248,,hypothetical protein,249
+OG0002249,,hypothetical protein,258
+OG0002250,,hypothetical protein,327
+OG0002251,,hypothetical protein,201
+OG0002252,,hypothetical protein,219
+OG0002253,,putative phosphatase,759
+OG0002254,,hypothetical protein,843
+OG0002255,,hypothetical protein,804
+OG0002256,,hypothetical protein,621
+OG0002257,,hypothetical protein,432
+OG0002258,,hypothetical protein,390
+OG0002259,,hypothetical protein,153
+OG0002260,,hypothetical protein,195
+OG0002261,,hypothetical protein,252
+OG0002262,,hypothetical protein,754.5
+OG0002263,cmoA,Carboxy-S-adenosyl-L-methionine synthase,723
+OG0002264,,hypothetical protein,246
+OG0002265,,hypothetical protein,303
+OG0002266,,hypothetical protein,351
+OG0002267,,hypothetical protein,381
+OG0002268,,hypothetical protein,114
+OG0002269,,hypothetical protein,282
+OG0002270,,hypothetical protein,207
+OG0002271,,hypothetical protein,330
+OG0002272,,hypothetical protein,192
+OG0002273,,hypothetical protein,472.5
+OG0002274,,hypothetical protein,198
+OG0002275,,hypothetical protein,225
+OG0002276,,hypothetical protein,108
+OG0002277,,hypothetical protein,117
+OG0002278,,hypothetical protein,381
+OG0002279,,hypothetical protein,255
+OG0002280,,hypothetical protein,220.5
+OG0002281,,hypothetical protein,150
+OG0002282,,hypothetical protein,234
+OG0002283,,hypothetical protein,102
+OG0002284,,hypothetical protein,105
+OG0002285,,hypothetical protein,111
+OG0002286,,hypothetical protein,228
+OG0002287,,hypothetical protein,1023
+OG0002288,,hypothetical protein,90
+OG0002289,,hypothetical protein,177
+OG0002290,,hypothetical protein,105
+OG0002291,,hypothetical protein,99
+OG0002292,,hypothetical protein,172.5
+OG0002293,,hypothetical protein,147
+OG0002294,,hypothetical protein,123
+OG0002295,,hypothetical protein,411
+OG0002296,,hypothetical protein; Fic family protein,1047
+OG0002297,,hypothetical protein,654
+OG0002298,,hypothetical protein,204
+OG0002299,,Arc family DNA-binding protein; hypothetical protein,204
+OG0002300,,Arc family DNA-binding protein; hypothetical protein,225
+OG0002301,,hypothetical protein,183
+OG0002302,,HaeIII family restriction endonuclease; hypothetical protein,378
+OG0002303,,hypothetical protein,639
+OG0002304,,hypothetical protein,138
+OG0002305,,hypothetical protein,195
+OG0002306,,hypothetical protein,177
+OG0002307,,hypothetical protein,267
+OG0002308,,hypothetical protein,138
+OG0002309,,hypothetical protein,291
+OG0002310,,hypothetical protein,156
+OG0002311,,hypothetical protein,757.5
+OG0002312,lpxD_2; lpxD_3,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,576
+OG0002313,vbhT_1,Protein adenylyltransferase VbhT,141
+OG0002314,,hypothetical protein,537
+OG0002315,lpxD_2; lpxD_3,UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase,822
+OG0002316,,hypothetical protein,162
+OG0002317,,hypothetical protein,219
+OG0002318,,hypothetical protein,273
+OG0002319,,hypothetical protein,217.5
+OG0002320,,hypothetical protein,394.5
+OG0002321,,hypothetical protein,534
+OG0002322,,hypothetical protein; fructose-bisphosphate aldolase,215.5
+OG0002323,,hypothetical protein,127.5
+OG0002324,ehpR_2; ehpR_1,Phenazine antibiotic resistance protein EhpR,273
+OG0002325,,hypothetical protein,153
+OG0002326,,hypothetical protein,627
+OG0002327,,hypothetical protein,549
+OG0002328,,hypothetical protein,138
+OG0002329,,hypothetical protein,147
+OG0002330,,hypothetical protein,256.5
+OG0002331,,hypothetical protein,90
+OG0002332,,hypothetical protein,225
+OG0002333,,hypothetical protein,264
+OG0002334,,hypothetical protein,156
+OG0002335,,hypothetical protein,120
+OG0002336,,hypothetical protein,279
+OG0002337,,hypothetical protein,102
+OG0002338,,hypothetical protein,102
+OG0002339,,hypothetical protein,255
+OG0002340,,hypothetical protein,252
+OG0002341,,hypothetical protein,189
+OG0002342,,hypothetical protein,121.5
+OG0002343,,hypothetical protein,180
+OG0002344,,hypothetical protein,183
+OG0002345,,hypothetical protein,303
+OG0002346,pyk,Pyruvate kinase; hypothetical protein,264
+OG0002347,,hypothetical protein,138
+OG0002348,,hypothetical protein,393
+OG0002349,,hypothetical protein,426
+OG0002350,,hypothetical protein,208.5
+OG0002351,,hypothetical protein,123
+OG0002352,,hypothetical protein,117
+OG0002353,,hypothetical protein,171
+OG0002354,,hypothetical protein,268.5
+OG0002355,,hypothetical protein,102
+OG0002356,,hypothetical protein,225
+OG0002357,,hypothetical protein,156
+OG0002358,,hypothetical protein,195
+OG0002359,,hypothetical protein,489
+OG0002360,,hypothetical protein,217.5
+OG0002361,,hypothetical protein,96
+OG0002362,,hypothetical protein,213
+OG0002363,,hypothetical protein,153
+OG0002364,,hypothetical protein,387
+OG0002365,,hypothetical protein,184.5
+OG0002366,,lysozyme,466.5
+OG0002367,,hypothetical protein,346.5
+OG0002368,,DUF6127 family protein,294
+OG0002369,,host specificity factor TipJ family phage tail protein; hypothetical protein,1750.5
+OG0002370,,NlpC/P60 family protein,456
+OG0002371,,DUF1833 family protein,543
+OG0002372,,hypothetical protein,453
+OG0002373,,hypothetical protein,455.5
+OG0002374,,hypothetical protein,228
+OG0002375,,type II toxin-antitoxin system death-on-curing family toxin,387
+OG0002376,,hypothetical protein,448.5
+OG0002377,,hypothetical protein; tape measure protein,1603.5
+OG0002378,,hypothetical protein,520.5
+OG0002379,,phage tail tube protein,945
+OG0002380,,hypothetical protein; acyl-CoA transferase,406.5
+OG0002381,,DUF6441 family protein,651
+OG0002382,,hypothetical protein,321
+OG0002383,,hypothetical protein,336
+OG0002384,,hypothetical protein,795
+OG0002385,,hypothetical protein,223.5
+OG0002386,,Fic family protein,1061
+OG0002387,,type II toxin-antitoxin system RelE/ParE family toxin,342
+OG0002388,,hypothetical protein,156
+OG0002389,rpmF,50S ribosomal protein L32,177
+OG0002390,,hypothetical protein,624
+OG0002391,,hypothetical protein,258.5
+OG0002392,,hypothetical protein,966
+OG0002393,,hypothetical protein,138
+OG0002394,,hypothetical protein,172.5
+OG0002395,,hypothetical protein,262.5
+OG0002396,,hypothetical protein,189
+OG0002397,,hypothetical protein,165
+OG0002398,,hypothetical protein,205.5
+OG0002399,,hypothetical protein,151.5
+OG0002400,,hypothetical protein,561
+OG0002401,,hypothetical protein,247.5

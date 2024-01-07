@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001053,Bartonella_bovis_91-4,BBBE_RS04555,NA,NA,,acetolactate synthase 3 large subunit,1800
+OG0001053,Bartonella_elizabethae_NCTC12898,EL285_RS05035,NA,NA,,acetolactate synthase 3 large subunit,1803
+OG0001053,Bartonella_gerbillinarum_FN71,IPKPMCFA_00149,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00138,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00361,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00375,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00328,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00215,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00043,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00106,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00239,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00872,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00408,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00491,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00405,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00581,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_grahamii_as4aup,BGR_RS06555,1134,A9,,acetolactate synthase 3 large subunit,1800
+OG0001053,Bartonella_henselae_BM1374163,PRJBM_RS05185,NA,NA,,acetolactate synthase 3 large subunit,1800
+OG0001053,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00595,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1797
+OG0001053,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00504,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1797
+OG0001053,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00605,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1797
+OG0001053,Bartonella_krasnovii_FN12-1,EMOIKDEC_01261,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00982,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00878,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00969,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00710,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00673,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00856,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00657,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00740,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00756,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00646,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00698,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00699,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00727,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00264,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01047,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00729,1137,A9,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_krasnovii_OY11,PDPJCBEH_00423,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1803
+OG0001053,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00777,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00734,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00675,NA,NA,ilvI,Acetolactate synthase isozyme 3 large subunit,1800
+OG0001053,Bartonella_queenslandensis_AUST-NH15,BN338_RS00930,NA,NA,,acetolactate synthase 3 large subunit,1800
+OG0001053,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001053,Bartonella_rattaustraliani_AUST-NH4,BN67_RS01795,NA,NA,,acetolactate synthase 3 large subunit,1806
+OG0001053,Bartonella_tribocorum_BM1374166,BM1374166_RS07350,NA,NA,,acetolactate synthase 3 large subunit,1803

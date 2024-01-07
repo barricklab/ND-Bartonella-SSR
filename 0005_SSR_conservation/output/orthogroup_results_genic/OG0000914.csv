@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000914,Bartonella_bovis_91-4,BBBE_RS06830,NA,NA,,NAD-glutamate dehydrogenase,4713
+OG0000914,Bartonella_elizabethae_NCTC12898,EL285_RS07920,NA,NA,,NAD-glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_FN71,IPKPMCFA_00496,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00986,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00770,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4479
+OG0000914,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00869,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00738,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00101,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00497,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00801,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00829,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00069,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00266,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00754,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00298,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00217,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_grahamii_as4aup,BGR_RS09540,NA,NA,,NAD-glutamate dehydrogenase,4710
+OG0000914,Bartonella_henselae_BM1374163,PRJBM_RS07900,NA,NA,,NAD-glutamate dehydrogenase,4710
+OG0000914,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00137,22,A9,gdh,NAD-specific glutamate dehydrogenase,4689
+OG0000914,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00216,22,A9,gdh,NAD-specific glutamate dehydrogenase,4689
+OG0000914,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00456,22,A9,gdh,NAD-specific glutamate dehydrogenase,4689
+OG0000914,Bartonella_krasnovii_FN12-1,EMOIKDEC_00857,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00362,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00216,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00040,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01163,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00039,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00214,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00575,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00036,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00037,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00213,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00035,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00035,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00317,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01030,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00386,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00469,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_krasnovii_OY11,PDPJCBEH_00996,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4710
+OG0000914,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00975,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4704
+OG0000914,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01244,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4704
+OG0000914,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00998,NA,NA,gdh,NAD-specific glutamate dehydrogenase,4704
+OG0000914,Bartonella_queenslandensis_AUST-NH15,BN338_RS02675,NA,NA,,NAD-glutamate dehydrogenase,4710
+OG0000914,Bartonella_quintana_MF1-1,MF1_RS06280,1561,A9,,NAD-glutamate dehydrogenase,4689
+OG0000914,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04600,NA,NA,,NAD-glutamate dehydrogenase,4689
+OG0000914,Bartonella_tribocorum_BM1374166,BM1374166_RS11160,NA,NA,,NAD-glutamate dehydrogenase,4716

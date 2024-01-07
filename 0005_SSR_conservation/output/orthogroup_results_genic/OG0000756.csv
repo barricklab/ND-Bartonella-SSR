@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000756,Bartonella_bovis_91-4,BBBE_RS04880,NA,NA,,SAM-dependent methyltransferase,1089
+OG0000756,Bartonella_elizabethae_NCTC12898,EL285_RS02030,NA,NA,,class I SAM-dependent methyltransferase,1080
+OG0000756,Bartonella_gerbillinarum_FN71,IPKPMCFA_00066,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00053,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00276,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00290,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00413,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00301,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00129,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00193,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00326,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00786,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00494,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00576,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00492,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00494,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_grahamii_as4aup,BGR_RS02595,NA,NA,,class I SAM-dependent methyltransferase,1080
+OG0000756,Bartonella_henselae_BM1374163,PRJBM_RS05590,NA,NA,,SAM-dependent methyltransferase,1080
+OG0000756,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00679,NA,NA,,hypothetical protein,1092
+OG0000756,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00587,NA,NA,,hypothetical protein,1092
+OG0000756,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00519,NA,NA,,hypothetical protein,1092
+OG0000756,Bartonella_krasnovii_FN12-1,EMOIKDEC_00139,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00184,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00546,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00582,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00590,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00300,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00490,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00140,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00392,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00390,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00286,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00510,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00561,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00140,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00116,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00139,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00292,NA,NA,,hypothetical protein,1080
+OG0000756,Bartonella_krasnovii_OY11,PDPJCBEH_01102,NA,NA,,hypothetical protein,1095
+OG0000756,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00692,373,A9,,hypothetical protein,1080
+OG0000756,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00650,373,A9,,hypothetical protein,1080
+OG0000756,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00592,373,A9,,hypothetical protein,1080
+OG0000756,Bartonella_queenslandensis_AUST-NH15,BN338_RS05215,397,A9,,class I SAM-dependent methyltransferase,1080
+OG0000756,Bartonella_quintana_MF1-1,MF1_RS01630,NA,NA,,SAM-dependent methyltransferase,1092
+OG0000756,Bartonella_rattaustraliani_AUST-NH4,BN67_RS01325,NA,NA,,SAM-dependent methyltransferase,1089
+OG0000756,Bartonella_tribocorum_BM1374166,BM1374166_RS03420,397,A9,,class I SAM-dependent methyltransferase,1080

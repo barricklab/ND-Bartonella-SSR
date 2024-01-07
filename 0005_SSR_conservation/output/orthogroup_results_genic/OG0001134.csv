@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001134,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001134,Bartonella_elizabethae_NCTC12898,EL285_RS05820,NA,NA,,SH3 domain-containing protein,648
+OG0001134,Bartonella_gerbillinarum_FN71,IPKPMCFA_01164,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01292,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01193,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01296,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01270,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01295,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01310,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01289,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01053,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01069,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00925,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00982,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00955,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01021,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_grahamii_as4aup,BGR_RS07675,NA,NA,,SH3 domain-containing protein,633
+OG0001134,Bartonella_henselae_BM1374163,PRJBM_RS06150,NA,NA,,SH3 domain-containing protein,627
+OG0001134,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01069,461,A9,,hypothetical protein,630
+OG0001134,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01160,461,A9,,hypothetical protein,630
+OG0001134,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01049,461,A9,,hypothetical protein,630
+OG0001134,Bartonella_krasnovii_FN12-1,EMOIKDEC_01643,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01512,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01250,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01400,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01205,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01215,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01450,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01377,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01429,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01358,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01401,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01358,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01458,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01443,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01166,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01437,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01352,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_krasnovii_OY11,PDPJCBEH_01383,NA,NA,,hypothetical protein,648
+OG0001134,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01330,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01197,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01133,NA,NA,,hypothetical protein,627
+OG0001134,Bartonella_queenslandensis_AUST-NH15,BN338_RS03505,NA,NA,,SH3 domain-containing protein,681
+OG0001134,Bartonella_quintana_MF1-1,MF1_RS04965,NA,NA,,SH3 domain-containing protein,627
+OG0001134,Bartonella_rattaustraliani_AUST-NH4,BN67_RS09730,NA,NA,,SH3 domain-containing protein,627
+OG0001134,Bartonella_tribocorum_BM1374166,BM1374166_RS08240,NA,NA,,SH3 domain-containing protein,681

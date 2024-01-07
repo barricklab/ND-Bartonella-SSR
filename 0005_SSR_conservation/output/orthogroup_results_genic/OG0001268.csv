@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001268,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001268,Bartonella_elizabethae_NCTC12898,EL285_RS06875,NA,NA,,outer membrane beta-barrel protein,891
+OG0001268,Bartonella_gerbillinarum_FN71,IPKPMCFA_01323,NA,NA,,hypothetical protein,885
+OG0001268,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01565,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01583,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01261,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01296,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01592,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01613,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01535,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01310,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01449,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01542,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01347,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01267,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01467,3,A9,,hypothetical protein,882
+OG0001268,Bartonella_grahamii_as4aup,BGR_RS08605,NA,NA,,porin family protein,891
+OG0001268,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001268,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01509,NA,NA,ompA,Outer membrane protein A,930
+OG0001268,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01499,NA,NA,ompA,Outer membrane protein A,930
+OG0001268,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01400,NA,NA,ompA,Outer membrane protein A,930
+OG0001268,Bartonella_krasnovii_FN12-1,EMOIKDEC_01695,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00899,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01479,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00759,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01029,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01055,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00767,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01524,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01491,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01585,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01298,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01509,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01411,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01278,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01212,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01557,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01586,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_krasnovii_OY11,PDPJCBEH_01033,NA,NA,,hypothetical protein,891
+OG0001268,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01516,NA,NA,,hypothetical protein,915
+OG0001268,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01283,NA,NA,,hypothetical protein,915
+OG0001268,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01400,NA,NA,,hypothetical protein,915
+OG0001268,Bartonella_queenslandensis_AUST-NH15,BN338_RS01570,NA,NA,,porin family protein,891
+OG0001268,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001268,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001268,Bartonella_tribocorum_BM1374166,BM1374166_RS09805,NA,NA,,outer membrane beta-barrel protein,891

@@ -1,0 +1,48 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000127,Bartonella_bovis_91-4,BBBE_RS05755,NA,NA,fliI,flagellar protein export ATPase FliI,1311
+OG0000127,Bartonella_bovis_91-4,BBBE_RS06600,NA,NA,atpD,F0F1 ATP synthase subunit beta,1611
+OG0000127,Bartonella_elizabethae_NCTC12898,EL285_RS07470,NA,NA,atpD,F0F1 ATP synthase subunit beta,1608
+OG0000127,Bartonella_gerbillinarum_FN71,IPKPMCFA_01366,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01351,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01268,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01400,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01345,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01397,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01395,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01449,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01243,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01368,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01391,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01193,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01304,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01443,NA,NA,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_grahamii_as4aup,BGR_RS09120,NA,NA,atpD,F0F1 ATP synthase subunit beta,1629
+OG0000127,Bartonella_henselae_BM1374163,PRJBM_RS07515,NA,NA,atpD,F0F1 ATP synthase subunit beta,1596
+OG0000127,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00056,45,A9,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00994,45,A9,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00955,45,A9,atpD,ATP synthase subunit beta,1611
+OG0000127,Bartonella_krasnovii_FN12-1,EMOIKDEC_01183,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00796,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01008,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00859,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00906,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01342,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00669,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01017,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00939,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01002,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00986,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01337,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01277,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01028,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00673,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01239,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00888,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_krasnovii_OY11,PDPJCBEH_01423,NA,NA,atpD,ATP synthase subunit beta,1608
+OG0000127,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01052,NA,NA,atpD,ATP synthase subunit beta,1632
+OG0000127,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01476,NA,NA,atpD,ATP synthase subunit beta,1632
+OG0000127,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01374,NA,NA,atpD,ATP synthase subunit beta,1632
+OG0000127,Bartonella_queenslandensis_AUST-NH15,BN338_RS07795,NA,NA,atpD,F0F1 ATP synthase subunit beta,1608
+OG0000127,Bartonella_quintana_MF1-1,MF1_RS05950,NA,NA,atpD,F0F1 ATP synthase subunit beta,1611
+OG0000127,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04150,NA,NA,atpD,F0F1 ATP synthase subunit beta,1587
+OG0000127,Bartonella_tribocorum_BM1374166,BM1374166_RS10725,NA,NA,atpD,F0F1 ATP synthase subunit beta,1626

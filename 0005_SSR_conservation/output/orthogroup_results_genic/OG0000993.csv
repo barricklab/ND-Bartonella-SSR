@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000993,Bartonella_bovis_91-4,BBBE_RS01555,NA,NA,rsfS,ribosome silencing factor,444
+OG0000993,Bartonella_elizabethae_NCTC12898,EL285_RS00275,NA,NA,rsfS,ribosome silencing factor,429
+OG0000993,Bartonella_gerbillinarum_FN71,IPKPMCFA_00331,NA,NA,rsfS,Ribosomal silencing factor RsfS,357
+OG0000993,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01116,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00991,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00977,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01034,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00778,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00979,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01053,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01022,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00920,NA,NA,rsfS,Ribosomal silencing factor RsfS,357
+OG0000993,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00739,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00948,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00923,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00771,70,A9,rsfS,Ribosomal silencing factor RsfS,444
+OG0000993,Bartonella_grahamii_as4aup,BGR_RS00850,NA,NA,rsfS,ribosome silencing factor,444
+OG0000993,Bartonella_henselae_BM1374163,PRJBM_RS00795,70,A9,rsfS,ribosome silencing factor,444
+OG0000993,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00911,NA,NA,rsfS,Ribosomal silencing factor RsfS,366
+OG0000993,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00816,NA,NA,rsfS,Ribosomal silencing factor RsfS,366
+OG0000993,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00831,NA,NA,rsfS,Ribosomal silencing factor RsfS,366
+OG0000993,Bartonella_krasnovii_FN12-1,EMOIKDEC_00519,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00752,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00260,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00629,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00009,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00620,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00259,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01301,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00648,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00703,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00434,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00258,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00258,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00673,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01636,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00956,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00009,NA,NA,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_krasnovii_OY11,PDPJCBEH_00199,NA,NA,rsfS,Ribosomal silencing factor RsfS,432
+OG0000993,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01100,55,A9,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00878,55,A9,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00906,55,A9,rsfS,Ribosomal silencing factor RsfS,429
+OG0000993,Bartonella_queenslandensis_AUST-NH15,BN338_RS08620,NA,NA,rsfS,ribosome silencing factor,390
+OG0000993,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0000993,Bartonella_rattaustraliani_AUST-NH4,BN67_RS00095,NA,NA,rsfS,ribosome silencing factor,429
+OG0000993,Bartonella_tribocorum_BM1374166,BM1374166_RS00815,NA,NA,rsfS,ribosome silencing factor,390

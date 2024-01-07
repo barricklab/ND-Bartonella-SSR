@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000378,Bartonella_bovis_91-4,BBBE_RS02045,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_elizabethae_NCTC12898,EL285_RS01630,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_gerbillinarum_FN71,IPKPMCFA_00982,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00667,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00798,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00419,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00936,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00963,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00969,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01265,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00090,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00453,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00749,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00361,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00109,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00358,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_grahamii_as4aup,BGR_RS02385,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_henselae_BM1374163,PRJBM_RS02260,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00469,258,G11,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00362,258,G11,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00115,258,G11,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_FN12-1,EMOIKDEC_00183,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00138,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00505,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01016,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00255,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01133,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01427,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00182,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00450,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00842,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01195,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00563,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00507,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00187,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00061,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00186,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00249,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_krasnovii_OY11,PDPJCBEH_00700,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00142,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00141,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00409,NA,NA,sodB,Superoxide dismutase [Mn],603
+OG0000378,Bartonella_queenslandensis_AUST-NH15,BN338_RS06690,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_quintana_MF1-1,MF1_RS04365,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_rattaustraliani_AUST-NH4,BN67_RS10535,NA,NA,,superoxide dismutase,603
+OG0000378,Bartonella_tribocorum_BM1374166,BM1374166_RS03190,NA,NA,,superoxide dismutase,603

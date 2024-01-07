@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000283,Bartonella_bovis_91-4,BBBE_RS01380,NA,NA,,DNA translocase FtsK,2565
+OG0000283,Bartonella_elizabethae_NCTC12898,EL285_RS01175,NA,NA,,DNA translocase FtsK,2577
+OG0000283,Bartonella_gerbillinarum_FN71,IPKPMCFA_01213,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01206,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01311,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00527,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01247,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01512,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00866,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01382,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01298,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01407,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00959,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01231,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01254,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00445,12,A9,,hypothetical protein,2526
+OG0000283,Bartonella_grahamii_as4aup,BGR_RS01895,250,A9,,DNA translocase FtsK,2577
+OG0000283,Bartonella_henselae_BM1374163,PRJBM_RS01855,NA,NA,,DNA translocase FtsK,2526
+OG0000283,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00378,NA,NA,,hypothetical protein,2520
+OG0000283,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00271,NA,NA,,hypothetical protein,2583
+OG0000283,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00023,NA,NA,,hypothetical protein,2520
+OG0000283,Bartonella_krasnovii_FN12-1,EMOIKDEC_00308,2205,G9,,hypothetical protein,2595
+OG0000283,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00028,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00389,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01130,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00137,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01113,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00389,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00294,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00519,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00955,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00564,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00389,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00389,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01399,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01505,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00297,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00139,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_krasnovii_OY11,PDPJCBEH_00598,2196,G9,,hypothetical protein,2586
+OG0000283,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00250,12,A9,,hypothetical protein,2550
+OG0000283,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00250,12,A9,,hypothetical protein,2550
+OG0000283,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00299,12,A9,,hypothetical protein,2550
+OG0000283,Bartonella_queenslandensis_AUST-NH15,BN338_RS04980,NA,NA,,DNA translocase FtsK,2577
+OG0000283,Bartonella_quintana_MF1-1,MF1_RS01380,NA,NA,,DNA translocase FtsK,2559
+OG0000283,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06825,NA,NA,,DNA translocase FtsK,2541
+OG0000283,Bartonella_tribocorum_BM1374166,BM1374166_RS02675,NA,NA,,DNA translocase FtsK,2577

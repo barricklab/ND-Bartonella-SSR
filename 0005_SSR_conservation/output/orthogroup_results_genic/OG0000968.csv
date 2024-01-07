@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000968,Bartonella_bovis_91-4,BBBE_RS00065,NA,NA,,lipopolysaccharide assembly protein LapA domain-containing protein,312
+OG0000968,Bartonella_elizabethae_NCTC12898,EL285_RS08315,NA,NA,,lipopolysaccharide assembly protein LapA domain-containing protein,297
+OG0000968,Bartonella_gerbillinarum_FN71,IPKPMCFA_00575,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00904,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00687,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00948,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00818,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00022,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00577,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00892,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00908,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00148,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00346,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00834,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00219,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00138,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_grahamii_as4aup,BGR_RS00065,NA,NA,,lipopolysaccharide assembly protein LapA domain-containing protein,297
+OG0000968,Bartonella_henselae_BM1374163,PRJBM_RS00065,NA,NA,,LapA family protein,297
+OG0000968,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00216,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00135,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00375,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_FN12-1,EMOIKDEC_00935,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00441,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00137,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00119,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00389,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00118,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00135,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00496,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00115,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00116,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00134,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00114,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00114,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00396,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00951,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00465,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00548,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_krasnovii_OY11,PDPJCBEH_00051,NA,NA,,hypothetical protein,297
+OG0000968,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00394,239,A9,,hypothetical protein,297
+OG0000968,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01033,239,A9,,hypothetical protein,297
+OG0000968,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00976,239,A9,,hypothetical protein,297
+OG0000968,Bartonella_queenslandensis_AUST-NH15,BN338_RS04510,NA,NA,,LapA family protein,297
+OG0000968,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0000968,Bartonella_rattaustraliani_AUST-NH4,BN67_RS05100,NA,NA,,lipopolysaccharide assembly protein LapA domain-containing protein,300
+OG0000968,Bartonella_tribocorum_BM1374166,BM1374166_RS00065,NA,NA,,LapA family protein,297

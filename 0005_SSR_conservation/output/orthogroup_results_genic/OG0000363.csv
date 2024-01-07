@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000363,Bartonella_bovis_91-4,BBBE_RS01930,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1104
+OG0000363,Bartonella_elizabethae_NCTC12898,EL285_RS01470,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1104
+OG0000363,Bartonella_gerbillinarum_FN71,IPKPMCFA_01015,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00697,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00828,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00449,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00966,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00933,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00939,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01235,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00059,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00485,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00780,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00393,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00141,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00390,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_grahamii_as4aup,BGR_RS02235,13,A9,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1104
+OG0000363,Bartonella_henselae_BM1374163,PRJBM_RS02110,13,A9,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1107
+OG0000363,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00438,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1113
+OG0000363,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00332,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1113
+OG0000363,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00084,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1113
+OG0000363,Bartonella_krasnovii_FN12-1,EMOIKDEC_00215,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00107,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00472,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01050,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00224,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01165,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01394,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00213,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00484,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00876,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01228,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00596,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00474,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00219,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00029,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00217,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00218,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_krasnovii_OY11,PDPJCBEH_00669,NA,NA,ribBA,Riboflavin biosynthesis protein RibBA,1104
+OG0000363,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00173,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00173,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00377,13,A9,ribBA,Riboflavin biosynthesis protein RibBA,1107
+OG0000363,Bartonella_queenslandensis_AUST-NH15,BN338_RS00305,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1107
+OG0000363,Bartonella_quintana_MF1-1,MF1_RS04530,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1107
+OG0000363,Bartonella_rattaustraliani_AUST-NH4,BN67_RS07155,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1107
+OG0000363,Bartonella_tribocorum_BM1374166,BM1374166_RS03010,NA,NA,ribB,"3,4-dihydroxy-2-butanone-4-phosphate synthase",1104

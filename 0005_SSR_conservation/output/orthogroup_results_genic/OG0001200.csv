@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001200,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001200,Bartonella_elizabethae_NCTC12898,EL285_RS03655,NA,NA,,enoyl-CoA hydratase/isomerase family protein,1047
+OG0001200,Bartonella_gerbillinarum_FN71,IPKPMCFA_00924,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00411,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00055,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01095,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00229,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00430,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00374,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00348,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00634,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00548,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01059,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00051,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01036,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00947,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_grahamii_as4aup,BGR_RS05160,NA,NA,,enoyl-CoA hydratase/isomerase family protein,1047
+OG0001200,Bartonella_henselae_BM1374163,PRJBM_RS04110,NA,NA,,enoyl-CoA hydratase/isomerase family protein,1047
+OG0001200,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00762,831,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00666,831,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00678,831,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_FN12-1,EMOIKDEC_00620,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01077,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00782,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00302,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00806,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00921,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01081,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00918,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01065,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00510,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00897,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00921,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01018,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00866,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00495,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00760,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00977,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_krasnovii_OY11,PDPJCBEH_00760,NA,NA,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00548,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00506,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00111,733,A9,menB,"1,4-dihydroxy-2-naphthoyl-CoA synthase",1047
+OG0001200,Bartonella_queenslandensis_AUST-NH15,BN338_RS10165,NA,NA,,enoyl-CoA hydratase/isomerase family protein,210
+OG0001200,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001200,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06495,NA,NA,,enoyl-CoA hydratase/isomerase family protein,1047
+OG0001200,Bartonella_tribocorum_BM1374166,BM1374166_RS05465,NA,NA,,enoyl-CoA hydratase/isomerase family protein,1047

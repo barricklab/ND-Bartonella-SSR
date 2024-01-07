@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001113,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001113,Bartonella_elizabethae_NCTC12898,EL285_RS02510,NA,NA,tatC,twin-arginine translocase subunit TatC,783
+OG0001113,Bartonella_gerbillinarum_FN71,IPKPMCFA_00695,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00563,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00622,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00739,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00608,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00556,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00643,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00628,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00192,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00351,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01173,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00259,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00007,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00256,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_grahamii_as4aup,BGR_RS03075,NA,NA,tatC,twin-arginine translocase subunit TatC,783
+OG0001113,Bartonella_henselae_BM1374163,PRJBM_RS02750,NA,NA,tatC,twin-arginine translocase subunit TatC,795
+OG0001113,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00560,NA,NA,tatC2,Sec-independent protein translocase protein TatCy,783
+OG0001113,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00453,NA,NA,tatC2,Sec-independent protein translocase protein TatCy,783
+OG0001113,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00206,NA,NA,tatC2,Sec-independent protein translocase protein TatCy,783
+OG0001113,Bartonella_krasnovii_FN12-1,EMOIKDEC_00044,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00279,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00642,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00487,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00495,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00396,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00587,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00045,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00295,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00295,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00381,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01015,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00915,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00045,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00587,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00044,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00387,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_krasnovii_OY11,PDPJCBEH_00504,NA,NA,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00048,767,A9,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00048,767,A9,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00502,767,A9,tatC,Sec-independent protein translocase protein TatC,783
+OG0001113,Bartonella_queenslandensis_AUST-NH15,BN338_RS05725,NA,NA,tatC,twin-arginine translocase subunit TatC,783
+OG0001113,Bartonella_quintana_MF1-1,MF1_RS03895,NA,NA,tatC,twin-arginine translocase subunit TatC,792
+OG0001113,Bartonella_rattaustraliani_AUST-NH4,BN67_RS09620,NA,NA,tatC,twin-arginine translocase subunit TatC,843
+OG0001113,Bartonella_tribocorum_BM1374166,BM1374166_RS03920,NA,NA,tatC,twin-arginine translocase subunit TatC,783

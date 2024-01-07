@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001195,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001195,Bartonella_elizabethae_NCTC12898,EL285_RS02465,NA,NA,bafA,BafA family autotransporter,2562
+OG0001195,Bartonella_gerbillinarum_FN71,IPKPMCFA_00686,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00573,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00612,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00749,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00618,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00566,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00652,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00638,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00183,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00360,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01182,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00268,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00016,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00265,NA,NA,,putative autotransporter,2565
+OG0001195,Bartonella_grahamii_as4aup,BGR_RS03035,NA,NA,bafA,BafA family autotransporter,2565
+OG0001195,Bartonella_henselae_BM1374163,PRJBM_RS02700,NA,NA,bafA,BafA family autotransporter,2568
+OG0001195,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00552,NA,NA,,putative autotransporter,2559
+OG0001195,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00445,NA,NA,,putative autotransporter,2559
+OG0001195,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00198,NA,NA,,putative autotransporter,2559
+OG0001195,Bartonella_krasnovii_FN12-1,EMOIKDEC_00052,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00271,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00634,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00495,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00503,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00388,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00579,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00053,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00304,83,G10,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00303,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00373,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01023,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00907,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00053,83,G10,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00579,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00052,NA,NA,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00379,83,G10,,hypothetical protein,2565
+OG0001195,Bartonella_krasnovii_OY11,PDPJCBEH_00512,1950,G9,,hypothetical protein,2565
+OG0001195,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00055,NA,NA,,hypothetical protein,2571
+OG0001195,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00055,NA,NA,,hypothetical protein,2571
+OG0001195,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00495,NA,NA,,hypothetical protein,2571
+OG0001195,Bartonella_queenslandensis_AUST-NH15,BN338_RS05685,NA,NA,bafA,BafA family autotransporter,2565
+OG0001195,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001195,Bartonella_rattaustraliani_AUST-NH4,BN67_RS09565,NA,NA,bafA,BafA family autotransporter,2562
+OG0001195,Bartonella_tribocorum_BM1374166,BM1374166_RS03875,NA,NA,bafA,BafA family autotransporter,2565

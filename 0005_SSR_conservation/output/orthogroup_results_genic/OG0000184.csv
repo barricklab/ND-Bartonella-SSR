@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000184,Bartonella_bovis_91-4,BBBE_RS00310,NA,NA,,LOG family protein,843
+OG0000184,Bartonella_elizabethae_NCTC12898,EL285_RS08590,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_gerbillinarum_FN71,IPKPMCFA_00289,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00794,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00436,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00600,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00922,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00689,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00824,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01150,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00717,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00203,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00559,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00641,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00711,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00083,15,A9,,hypothetical protein,864
+OG0000184,Bartonella_grahamii_as4aup,BGR_RS00350,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_henselae_BM1374163,PRJBM_RS00350,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00271,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00080,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00320,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_krasnovii_FN12-1,EMOIKDEC_00991,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00496,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00082,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00174,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00334,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00173,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00080,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00441,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00170,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00171,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00079,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00169,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00169,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00451,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00896,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00520,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00604,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_krasnovii_OY11,PDPJCBEH_00106,NA,NA,,hypothetical protein,870
+OG0000184,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00339,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00849,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00735,NA,NA,,hypothetical protein,864
+OG0000184,Bartonella_queenslandensis_AUST-NH15,BN338_RS04230,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_quintana_MF1-1,MF1_RS00320,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_rattaustraliani_AUST-NH4,BN67_RS05475,NA,NA,,LOG family protein,864
+OG0000184,Bartonella_tribocorum_BM1374166,BM1374166_RS00345,NA,NA,,LOG family protein,864

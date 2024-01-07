@@ -1,0 +1,53 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001676,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_FN71,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_A1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_A2,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_B1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_B2,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE1-2_C,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_A,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_B1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_gerbillinarum_OE3-1_C,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_grahamii_as4aup,BGR_RS01490,NA,NA,,hypothetical protein,333
+OG0001676,Bartonella_grahamii_as4aup,BGR_RS03980,NA,NA,,DUF637 domain-containing protein,8511
+OG0001676,Bartonella_grahamii_as4aup,BGR_RS07320,NA,NA,,DUF637 domain-containing protein,8433
+OG0001676,Bartonella_grahamii_as4aup,BGR_RS07605,NA,NA,,DUF637 domain-containing protein,8433
+OG0001676,Bartonella_grahamii_as4aup,BGR_RS08190,NA,NA,,DUF637 domain-containing protein,8055
+OG0001676,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_khokhlovae_OE5-1_A,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_khokhlovae_OE5-1_B,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_khokhlovae_OE5-1_C,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_FN12-1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_A1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01540,6233,G9,,hypothetical protein,7557
+OG0001676,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01658,6233,G9,,hypothetical protein,7557
+OG0001676,Bartonella_krasnovii_OE1-1_A4,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01636,NA,NA,,hypothetical protein,7542
+OG0001676,Bartonella_krasnovii_OE1-1_B,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_C1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_C2,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_C3,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_D1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_D2,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_D3,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_D4,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_D5,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_G,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OE1-1_H,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_krasnovii_OY11,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_negeviensis_ga95fn6_A,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_negeviensis_ga95fn6_B,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_negeviensis_ga95fn6_C,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_queenslandensis_AUST-NH15,BN338_RS06250,NA,NA,,filamentous hemagglutinin N-terminal domain-containing protein,1876
+OG0001676,Bartonella_queenslandensis_AUST-NH15,BN338_RS06255,NA,NA,,DUF637 domain-containing protein,4436
+OG0001676,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001676,Bartonella_tribocorum_BM1374166,BM1374166_RS01805,NA,NA,,DUF637 domain-containing protein,7542
+OG0001676,Bartonella_tribocorum_BM1374166,BM1374166_RS06075,NA,NA,,DUF637 domain-containing protein,7578

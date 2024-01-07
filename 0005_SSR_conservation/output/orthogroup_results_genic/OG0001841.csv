@@ -1,0 +1,48 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001841,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_FN71,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_A1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_A2,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_B1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_B2,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE1-2_C,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_A,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_B1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_gerbillinarum_OE3-1_C,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_grahamii_as4aup,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_khokhlovae_OE5-1_A,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_khokhlovae_OE5-1_B,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_khokhlovae_OE5-1_C,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_FN12-1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_A1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_A2,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01595,390,A9,,hypothetical protein,447
+OG0001841,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01550,927,A9,,hypothetical protein,984
+OG0001841,Bartonella_krasnovii_OE1-1_A5,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_B,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01472,NA,NA,,hypothetical protein,732
+OG0001841,Bartonella_krasnovii_OE1-1_C2,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01518,390,A9,,hypothetical protein,447
+OG0001841,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01448,390,A9,,hypothetical protein,447
+OG0001841,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01497,390,A9,,hypothetical protein,447
+OG0001841,Bartonella_krasnovii_OE1-1_D3,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_D4,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_D5,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01691,405,A9,,hypothetical protein,462
+OG0001841,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01691,192,C10,,hypothetical protein,462
+OG0001841,Bartonella_krasnovii_OE1-1_H,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_krasnovii_OY11,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_negeviensis_ga95fn6_A,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_negeviensis_ga95fn6_B,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_negeviensis_ga95fn6_C,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001841,Bartonella_tribocorum_BM1374166,NA,NA,NA,NA,NA,NA

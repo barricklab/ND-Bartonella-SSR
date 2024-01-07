@@ -1,0 +1,54 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001111,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001111,Bartonella_elizabethae_NCTC12898,EL285_RS01880,NA,NA,,PBP1A family penicillin-binding protein,2151
+OG0001111,Bartonella_gerbillinarum_FN71,IPKPMCFA_00604,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00656,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00656,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00530,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00530,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00831,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00699,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00649,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00649,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00733,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00733,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00720,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00720,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00100,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00100,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00443,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00894,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00351,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00099,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00348,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00348,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_grahamii_as4aup,BGR_RS02435,NA,NA,,PBP1A family penicillin-binding protein,2151
+OG0001111,Bartonella_henselae_BM1374163,PRJBM_RS02285,NA,NA,,penicillin-binding protein 1A,2151
+OG0001111,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00474,NA,NA,pbpF,Penicillin-binding protein 1F,2151
+OG0001111,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00367,NA,NA,pbpF,Penicillin-binding protein 1F,2151
+OG0001111,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00120,NA,NA,pbpF,Penicillin-binding protein 1F,2151
+OG0001111,Bartonella_krasnovii_FN12-1,EMOIKDEC_00170,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00152,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00515,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00613,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00622,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00268,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00459,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00172,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00423,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00421,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00255,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00541,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00530,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00172,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00085,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00171,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00260,NA,NA,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_krasnovii_OY11,PDPJCBEH_01133,14,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00137,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00136,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00414,24,A9,mtgA,Biosynthetic peptidoglycan transglycosylase,2151
+OG0001111,Bartonella_queenslandensis_AUST-NH15,BN338_RS10015,NA,NA,,penicillin-binding protein,1086
+OG0001111,Bartonella_quintana_MF1-1,MF1_RS04325,272,A9,,penicillin-binding protein 1A,2151
+OG0001111,Bartonella_rattaustraliani_AUST-NH4,BN67_RS12025,NA,NA,,penicillin-binding protein 1A,2139
+OG0001111,Bartonella_tribocorum_BM1374166,BM1374166_RS03250,NA,NA,,PBP1A family penicillin-binding protein,2151

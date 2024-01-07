@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001151,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001151,Bartonella_elizabethae_NCTC12898,EL285_RS07530,NA,NA,acs,acetate--CoA ligase,1944
+OG0001151,Bartonella_gerbillinarum_FN71,IPKPMCFA_01401,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01380,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01172,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01389,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01466,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00167,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00432,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00733,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01124,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00008,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00206,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01113,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00357,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01304,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_grahamii_as4aup,BGR_RS09175,NA,NA,acs,acetate--CoA ligase,1944
+OG0001151,Bartonella_henselae_BM1374163,PRJBM_RS07575,NA,NA,acs,acetate--CoA ligase,1959
+OG0001151,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00065,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00985,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00946,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_krasnovii_FN12-1,EMOIKDEC_01193,NA,NA,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00785,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01019,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00870,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00917,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01353,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00658,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01028,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00929,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00991,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00975,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01326,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01288,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01017,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00662,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01229,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00898,35,A9,acsA,Acetyl-coenzyme A synthetase,1944
+OG0001151,Bartonella_krasnovii_OY11,PDPJCBEH_01344,NA,NA,acsA,Acetyl-coenzyme A synthetase,1530
+OG0001151,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01042,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01092,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01064,NA,NA,acsA,Acetyl-coenzyme A synthetase,1959
+OG0001151,Bartonella_queenslandensis_AUST-NH15,BN338_RS07735,NA,NA,acs,acetate--CoA ligase,1944
+OG0001151,Bartonella_quintana_MF1-1,MF1_RS06000,NA,NA,acs,acetate--CoA ligase,1959
+OG0001151,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04240,NA,NA,acs,acetate--CoA ligase,1944
+OG0001151,Bartonella_tribocorum_BM1374166,BM1374166_RS10810,NA,NA,acs,acetate--CoA ligase,1944

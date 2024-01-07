@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000250,Bartonella_bovis_91-4,BBBE_RS00700,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492
+OG0000250,Bartonella_elizabethae_NCTC12898,EL285_RS00600,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_FN71,IPKPMCFA_00399,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01049,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00924,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01045,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01102,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00847,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01046,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00984,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00955,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00987,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00671,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00881,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00856,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00839,NA,NA,mshD,Mycothiol acetyltransferase,492
+OG0000250,Bartonella_grahamii_as4aup,BGR_RS01180,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,483
+OG0000250,Bartonella_henselae_BM1374163,PRJBM_RS01120,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492
+OG0000250,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00976,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00882,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00898,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_krasnovii_FN12-1,EMOIKDEC_00452,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00685,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00327,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00696,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00076,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00553,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00326,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01124,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00581,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00636,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00501,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00325,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00325,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00606,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01569,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00889,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00076,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,486
+OG0000250,Bartonella_krasnovii_OY11,PDPJCBEH_00267,NA,NA,rimI,[Ribosomal protein S18]-alanine N-acetyltransferase,492
+OG0000250,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01167,21,A9,mshD,Mycothiol acetyltransferase,495
+OG0000250,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00945,21,A9,mshD,Mycothiol acetyltransferase,495
+OG0000250,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00839,21,A9,mshD,Mycothiol acetyltransferase,495
+OG0000250,Bartonella_queenslandensis_AUST-NH15,BN338_RS08290,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492
+OG0000250,Bartonella_quintana_MF1-1,MF1_RS01065,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492
+OG0000250,Bartonella_rattaustraliani_AUST-NH4,BN67_RS00470,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,483
+OG0000250,Bartonella_tribocorum_BM1374166,BM1374166_RS01155,NA,NA,rimI,ribosomal protein S18-alanine N-acetyltransferase,492

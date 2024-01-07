@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000923,Bartonella_bovis_91-4,BBBE_RS06895,NA,NA,,TlpA family protein disulfide reductase,690
+OG0000923,Bartonella_elizabethae_NCTC12898,EL285_RS08005,NA,NA,,TlpA family protein disulfide reductase,693
+OG0000923,Bartonella_gerbillinarum_FN71,IPKPMCFA_00511,NA,NA,resA_2,Thiol-disulfide oxidoreductase ResA,717
+OG0000923,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00970,NA,NA,tlpA,Thiol:disulfide interchange protein TlpA,696
+OG0000923,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00753,NA,NA,tlpA,Thiol:disulfide interchange protein TlpA,717
+OG0000923,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00883,NA,NA,tlpA,Thiol:disulfide interchange protein TlpA,696
+OG0000923,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00753,NA,NA,resA_1,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00087,NA,NA,tlpA,Thiol:disulfide interchange protein TlpA,717
+OG0000923,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00512,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00816,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00843,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00083,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00281,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00768,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00284,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00203,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_grahamii_as4aup,BGR_RS09605,NA,NA,,TlpA family protein disulfide reductase,696
+OG0000923,Bartonella_henselae_BM1374163,PRJBM_RS07970,NA,NA,,TlpA family protein disulfide reductase,699
+OG0000923,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00151,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00202,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00441,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_FN12-1,EMOIKDEC_00872,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00375,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00203,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00053,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01176,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00052,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00201,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00562,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00049,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00050,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00200,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00048,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00048,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00330,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01017,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00399,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00482,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_krasnovii_OY11,PDPJCBEH_00982,NA,NA,resA,Thiol-disulfide oxidoreductase ResA,699
+OG0000923,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00962,181,A9,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01429,181,A9,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01337,181,A9,resA,Thiol-disulfide oxidoreductase ResA,696
+OG0000923,Bartonella_queenslandensis_AUST-NH15,BN338_RS02600,NA,NA,,TlpA family protein disulfide reductase,699
+OG0000923,Bartonella_quintana_MF1-1,MF1_RS06345,NA,NA,,TlpA family protein disulfide reductase,705
+OG0000923,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04720,NA,NA,,TlpA family protein disulfide reductase,684
+OG0000923,Bartonella_tribocorum_BM1374166,BM1374166_RS11230,NA,NA,,TlpA family protein disulfide reductase,699

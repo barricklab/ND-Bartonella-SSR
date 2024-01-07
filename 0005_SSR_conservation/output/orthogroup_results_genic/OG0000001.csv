@@ -1,0 +1,335 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000001,Bartonella_bovis_91-4,BBBE_RS05865,NA,NA,,helix-turn-helix domain-containing protein,297
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS05810,NA,NA,,helix-turn-helix domain-containing protein,381
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS05970,NA,NA,,helix-turn-helix domain-containing protein,360
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06040,NA,NA,,helix-turn-helix domain-containing protein,360
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06190,NA,NA,,helix-turn-helix domain-containing protein,264
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06410,NA,NA,,helix-turn-helix domain-containing protein,363
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06470,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06490,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06495,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS06595,NA,NA,,helix-turn-helix domain-containing protein,465
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07125,NA,NA,,helix-turn-helix domain-containing protein,357
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07185,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07190,NA,NA,,helix-turn-helix domain-containing protein,363
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07250,NA,NA,,helix-turn-helix transcriptional regulator,366
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07255,NA,NA,,helix-turn-helix domain-containing protein,339
+OG0000001,Bartonella_elizabethae_NCTC12898,EL285_RS07280,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_gerbillinarum_FN71,IPKPMCFA_01126,NA,NA,,hypothetical protein,414
+OG0000001,Bartonella_gerbillinarum_FN71,IPKPMCFA_01166,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_gerbillinarum_FN71,IPKPMCFA_01438,NA,NA,,hypothetical protein,390
+OG0000001,Bartonella_gerbillinarum_FN71,IPKPMCFA_01439,NA,NA,,hypothetical protein,414
+OG0000001,Bartonella_gerbillinarum_FN71,IPKPMCFA_01564,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01448,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01608,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01665,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01625,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01626,NA,NA,,hypothetical protein,288
+OG0000001,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01676,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01617,NA,NA,,hypothetical protein,411
+OG0000001,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01632,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01634,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01526,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01723,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01334,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01703,NA,NA,,hypothetical protein,297
+OG0000001,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01153,NA,NA,,hypothetical protein,297
+OG0000001,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01435,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01436,NA,NA,,hypothetical protein,405
+OG0000001,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01502,NA,NA,,hypothetical protein,288
+OG0000001,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01674,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01491,NA,NA,,hypothetical protein,372
+OG0000001,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01784,NA,NA,,hypothetical protein,306
+OG0000001,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01785,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01855,NA,NA,,hypothetical protein,216
+OG0000001,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01345,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01135,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01136,NA,NA,,hypothetical protein,390
+OG0000001,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01294,NA,NA,,hypothetical protein,330
+OG0000001,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01003,NA,NA,,hypothetical protein,432
+OG0000001,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01671,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01673,NA,NA,,hypothetical protein,306
+OG0000001,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01492,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01518,NA,NA,,hypothetical protein,390
+OG0000001,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01519,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01223,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01331,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS07105,NA,NA,,helix-turn-helix domain-containing protein,360
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS07665,NA,NA,,helix-turn-helix domain-containing protein,381
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08095,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08120,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08125,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08130,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08150,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08230,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08255,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08260,NA,NA,,helix-turn-helix domain-containing protein,354
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08340,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08345,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08350,NA,NA,,helix-turn-helix domain-containing protein,393
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08900,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08905,NA,NA,,helix-turn-helix domain-containing protein,387
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS08910,NA,NA,,helix-turn-helix domain-containing protein,402
+OG0000001,Bartonella_grahamii_as4aup,BGR_RS10030,NA,NA,,helix-turn-helix domain-containing protein,357
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS06135,NA,NA,,helix-turn-helix domain-containing protein,357
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS06520,NA,NA,,helix-turn-helix domain-containing protein,387
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS06795,NA,NA,,helix-turn-helix domain-containing protein,387
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS07295,NA,NA,,helix-turn-helix domain-containing protein,387
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS08825,NA,NA,,helix-turn-helix domain-containing protein,393
+OG0000001,Bartonella_henselae_BM1374163,PRJBM_RS09620,NA,NA,,helix-turn-helix domain-containing protein,327
+OG0000001,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01114,NA,NA,,hypothetical protein,210
+OG0000001,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01362,NA,NA,,hypothetical protein,345
+OG0000001,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01531,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01185,NA,NA,,hypothetical protein,210
+OG0000001,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01214,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01277,NA,NA,,hypothetical protein,345
+OG0000001,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01150,NA,NA,,hypothetical protein,210
+OG0000001,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01179,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01129,NA,NA,,hypothetical protein,300
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01130,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01141,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01142,NA,NA,,hypothetical protein,183
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01143,NA,NA,,hypothetical protein,201
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01146,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01351,NA,NA,,hypothetical protein,558
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01352,NA,NA,,hypothetical protein,417
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01378,NA,NA,,hypothetical protein,405
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01384,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01392,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01519,NA,NA,,hypothetical protein,360
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01531,NA,NA,,hypothetical protein,360
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01560,NA,NA,,hypothetical protein,240
+OG0000001,Bartonella_krasnovii_FN12-1,EMOIKDEC_01645,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00832,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00833,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00837,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00840,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00851,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01397,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01409,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01439,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01514,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01644,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00964,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00967,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00971,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00972,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01113,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01143,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01156,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01252,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01360,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01373,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01436,231,A9,,hypothetical protein,357
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01519,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01662,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00807,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00815,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00818,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00822,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00823,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01142,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01172,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01184,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01402,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01538,231,A9,,hypothetical protein,357
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01563,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01686,NA,NA,,hypothetical protein,417
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00861,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00864,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00868,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00869,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01081,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01111,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01122,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01203,NA,NA,,hypothetical protein,351
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01466,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01469,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00995,NA,NA,,hypothetical protein,360
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00999,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01002,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01010,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01217,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01238,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01250,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01279,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01537,231,A9,,hypothetical protein,357
+OG0000001,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01640,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00705,NA,NA,,hypothetical protein,360
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00709,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00712,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00721,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01202,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01215,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01245,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01452,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01496,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01506,NA,NA,,hypothetical protein,426
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01509,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01588,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01590,NA,NA,,hypothetical protein,417
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00973,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00976,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00980,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00981,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01201,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01214,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01244,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01375,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01485,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01514,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01633,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00976,NA,NA,,hypothetical protein,285
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00977,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00981,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00984,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00993,NA,NA,,hypothetical protein,363
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01285,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01315,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01334,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01336,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01344,NA,NA,,hypothetical protein,426
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01347,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01431,NA,NA,,hypothetical protein,351
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01526,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01714,NA,NA,,hypothetical protein,417
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01038,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01039,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01117,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01129,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01159,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01360,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01478,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01497,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01701,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01795,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01022,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01026,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01029,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01036,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01049,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01079,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01250,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01399,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01433,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01467,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01470,NA,NA,,hypothetical protein,426
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01261,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01273,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01356,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01405,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01415,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01449,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01580,NA,NA,,hypothetical protein,360
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01584,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01587,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01604,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01341,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01353,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01363,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01414,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01417,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01421,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01422,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01456,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01494,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01583,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01068,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01081,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01111,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01229,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01445,NA,NA,,hypothetical protein,420
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01598,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01657,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01660,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01767,NA,NA,,hypothetical protein,396
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00633,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01164,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01310,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01345,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01361,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01364,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01383,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01275,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01279,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01282,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01439,NA,NA,,hypothetical protein,312
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01462,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01474,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01504,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01511,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01659,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00835,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00844,NA,NA,,hypothetical protein,402
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00847,NA,NA,,hypothetical protein,369
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00851,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00852,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01191,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01204,NA,NA,,hypothetical protein,282
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01234,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01350,NA,NA,,hypothetical protein,351
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01392,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01395,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01407,NA,NA,,hypothetical protein,261
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01062,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01070,NA,NA,,hypothetical protein,291
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01071,NA,NA,,hypothetical protein,393
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01073,NA,NA,,hypothetical protein,366
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01140,NA,NA,,hypothetical protein,354
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01150,NA,NA,,hypothetical protein,255
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01182,NA,NA,,hypothetical protein,300
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01291,NA,NA,,hypothetical protein,465
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01311,NA,NA,,hypothetical protein,498
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01318,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01321,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_krasnovii_OY11,PDPJCBEH_01381,NA,NA,,hypothetical protein,315
+OG0000001,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01332,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01411,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01475,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01526,NA,NA,,hypothetical protein,306
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01123,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01124,NA,NA,,hypothetical protein,381
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01129,NA,NA,,hypothetical protein,453
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01195,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01328,NA,NA,,hypothetical protein,411
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01331,NA,NA,,hypothetical protein,405
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01332,NA,NA,,hypothetical protein,411
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01408,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01505,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01131,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01299,NA,NA,,hypothetical protein,228
+OG0000001,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01409,NA,NA,,hypothetical protein,294
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS03490,NA,NA,,helix-turn-helix domain-containing protein,381
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS07420,NA,NA,,helix-turn-helix domain-containing protein,339
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS07985,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS07995,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS09145,NA,NA,,helix-turn-helix domain-containing protein,357
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS09380,NA,NA,,helix-turn-helix domain-containing protein,227
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS09490,NA,NA,,helix-turn-helix domain-containing protein,253
+OG0000001,Bartonella_queenslandensis_AUST-NH15,BN338_RS10605,NA,NA,,helix-turn-helix domain-containing protein,260
+OG0000001,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0000001,Bartonella_rattaustraliani_AUST-NH4,BN67_RS03790,NA,NA,,helix-turn-helix domain-containing protein,384
+OG0000001,Bartonella_rattaustraliani_AUST-NH4,BN67_RS03830,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04190,NA,NA,,helix-turn-helix domain-containing protein,372
+OG0000001,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04195,NA,NA,,helix-turn-helix domain-containing protein,357
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS07905,NA,NA,,helix-turn-helix domain-containing protein,360
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS08230,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09165,NA,NA,,helix-turn-helix domain-containing protein,393
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09185,NA,NA,,helix-turn-helix domain-containing protein,408
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09230,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09345,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09350,NA,NA,,helix-turn-helix domain-containing protein,393
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09355,NA,NA,,helix-turn-helix domain-containing protein,390
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09405,NA,NA,,helix-turn-helix domain-containing protein,333
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09410,NA,NA,,helix-turn-helix domain-containing protein,408
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09415,NA,NA,,helix-turn-helix domain-containing protein,381
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09420,NA,NA,,helix-turn-helix domain-containing protein,441
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS09425,NA,NA,,helix-turn-helix domain-containing protein,339
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10430,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10435,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10460,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10465,NA,NA,,helix-turn-helix domain-containing protein,459
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10475,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS10485,NA,NA,,helix-turn-helix domain-containing protein,366
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS13405,NA,NA,,helix-turn-helix domain-containing protein,159
+OG0000001,Bartonella_tribocorum_BM1374166,BM1374166_RS13410,NA,NA,,hypothetical protein,258

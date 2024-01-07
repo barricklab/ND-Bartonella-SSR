@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001157,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001157,Bartonella_elizabethae_NCTC12898,EL285_RS07760,NA,NA,,type IV secretion system protein,702
+OG0001157,Bartonella_gerbillinarum_FN71,IPKPMCFA_00465,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01017,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01139,NA,NA,virB8_3,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00838,NA,NA,virB8_1,Type IV secretion system protein virB8,540
+OG0001157,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00707,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00133,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00466,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00769,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01152,NA,NA,virB8_2,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00036,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00234,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01145,NA,NA,virB8_2,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00329,NA,NA,virB8_1,Type IV secretion system protein virB8,696
+OG0001157,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01660,NA,NA,virB8_2,Type IV secretion system protein virB8,603
+OG0001157,Bartonella_grahamii_as4aup,BGR_RS09365,NA,NA,,type IV secretion system protein,702
+OG0001157,Bartonella_henselae_BM1374163,PRJBM_RS07735,NA,NA,trwG,type IV secrection system protein TrwG,699
+OG0001157,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00106,NA,NA,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00247,NA,NA,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00487,NA,NA,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_krasnovii_FN12-1,EMOIKDEC_00818,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00327,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00252,NA,NA,virB8_1,Type IV secretion system protein virB8,678
+OG0001157,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00005,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01128,NA,NA,virB8_3,Type IV secretion system protein virB8,678
+OG0001157,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00004,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00250,NA,NA,virB8_1,Type IV secretion system protein virB8,543
+OG0001157,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00610,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00001,NA,NA,virB8_1,Type IV secretion system protein virB8,543
+OG0001157,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00001,NA,NA,virB8_1,Type IV secretion system protein virB8,543
+OG0001157,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00247,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00001,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00001,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00283,NA,NA,virB8_1,Type IV secretion system protein virB8,678
+OG0001157,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01065,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00350,NA,NA,virB8_1,Type IV secretion system protein virB8,702
+OG0001157,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00432,NA,NA,virB8_1,Type IV secretion system protein virB8,678
+OG0001157,Bartonella_krasnovii_OY11,PDPJCBEH_01029,NA,NA,virB8_1,Type IV secretion system protein virB8,543
+OG0001157,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01008,3,A9,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01058,3,A9,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01030,3,A9,virB8_1,Type IV secretion system protein virB8,699
+OG0001157,Bartonella_queenslandensis_AUST-NH15,BN338_RS02825,NA,NA,,type IV secretion system protein,696
+OG0001157,Bartonella_quintana_MF1-1,MF1_RS06135,NA,NA,,type IV secretion system protein,699
+OG0001157,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04405,NA,NA,,VirB8/TrbF family protein,693
+OG0001157,Bartonella_tribocorum_BM1374166,BM1374166_RS10985,NA,NA,,type IV secretion system protein,702

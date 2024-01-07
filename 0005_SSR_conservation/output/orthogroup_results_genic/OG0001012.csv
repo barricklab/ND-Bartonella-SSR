@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001012,Bartonella_bovis_91-4,BBBE_RS02320,NA,NA,,DUF421 domain-containing protein,672
+OG0001012,Bartonella_elizabethae_NCTC12898,EL285_RS02305,NA,NA,,DUF421 domain-containing protein,672
+OG0001012,Bartonella_gerbillinarum_FN71,IPKPMCFA_00655,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00604,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00581,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00780,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00649,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00598,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00683,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00668,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00153,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00390,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00841,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00298,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00046,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00295,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_grahamii_as4aup,BGR_RS02885,NA,NA,,DUF421 domain-containing protein,672
+OG0001012,Bartonella_henselae_BM1374163,PRJBM_RS02545,NA,NA,,DUF421 domain-containing protein,675
+OG0001012,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00522,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00415,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00168,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_FN12-1,EMOIKDEC_00083,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00240,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00603,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00526,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00534,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00356,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00547,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00084,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00335,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00334,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00342,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01054,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00876,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00084,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00548,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00083,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00348,NA,NA,,hypothetical protein,672
+OG0001012,Bartonella_krasnovii_OY11,PDPJCBEH_00544,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00085,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00085,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00465,555,A9,,hypothetical protein,672
+OG0001012,Bartonella_queenslandensis_AUST-NH15,BN338_RS05525,NA,NA,,DUF421 domain-containing protein,672
+OG0001012,Bartonella_quintana_MF1-1,MF1_RS04080,NA,NA,,DUF421 domain-containing protein,672
+OG0001012,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001012,Bartonella_tribocorum_BM1374166,BM1374166_RS03720,NA,NA,,DUF421 domain-containing protein,672

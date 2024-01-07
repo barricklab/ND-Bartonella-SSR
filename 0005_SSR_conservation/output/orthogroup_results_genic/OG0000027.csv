@@ -1,0 +1,99 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000027,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0000027,Bartonella_elizabethae_NCTC12898,EL285_RS06820,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,951
+OG0000027,Bartonella_gerbillinarum_FN71,IPKPMCFA_01622,NA,NA,yopJ_2,Effector protein YopJ,657
+OG0000027,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01593,NA,NA,yopJ_2,Effector protein YopJ,939
+OG0000027,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01594,NA,NA,yopJ_3,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01586,NA,NA,yopJ_1,Effector protein YopJ,939
+OG0000027,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01587,NA,NA,yopJ_2,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01269,NA,NA,,hypothetical protein,930
+OG0000027,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01695,NA,NA,yopJ_2,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01696,NA,NA,yopJ_3,Effector protein YopJ,939
+OG0000027,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01589,NA,NA,yopJ_2,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01590,NA,NA,,hypothetical protein,930
+OG0000027,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01658,NA,NA,yopJ_2,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01659,NA,NA,yopJ_3,Effector protein YopJ,939
+OG0000027,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01767,NA,NA,yopJ,Effector protein YopJ,942
+OG0000027,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01768,NA,NA,,hypothetical protein,930
+OG0000027,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01602,NA,NA,yopJ,Effector protein YopJ,939
+OG0000027,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01526,819,A9,yopJ,Effector protein YopJ,945
+OG0000027,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01604,819,A9,yopJ,Effector protein YopJ,945
+OG0000027,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01545,819,A9,yopJ,Effector protein YopJ,945
+OG0000027,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01448,819,A9,yopJ,Effector protein YopJ,945
+OG0000027,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01627,819,A9,yopJ,Effector protein YopJ,945
+OG0000027,Bartonella_grahamii_as4aup,BGR_RS08560,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,981
+OG0000027,Bartonella_grahamii_as4aup,BGR_RS08565,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,930
+OG0000027,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0000027,Bartonella_khokhlovae_OE5-1_A,NA,NA,NA,NA,NA,NA
+OG0000027,Bartonella_khokhlovae_OE5-1_B,NA,NA,NA,NA,NA,NA
+OG0000027,Bartonella_khokhlovae_OE5-1_C,NA,NA,NA,NA,NA,NA
+OG0000027,Bartonella_krasnovii_FN12-1,EMOIKDEC_01657,NA,NA,yopJ,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01604,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01605,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01606,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01492,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01493,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01494,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01614,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01615,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01616,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01015,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01016,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01017,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01553,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01554,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01555,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01550,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01551,NA,NA,yopJ_2,Effector protein YopJ,927
+OG0000027,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01580,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01581,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01582,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01573,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01574,NA,NA,yopJ_2,Effector protein YopJ,927
+OG0000027,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01635,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01636,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01637,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01498,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01499,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01500,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01560,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01561,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01562,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01569,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01570,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01571,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01582,NA,NA,yopJ_1,Effector protein YopJ,927
+OG0000027,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01583,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01281,NA,NA,yopJ_1,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01282,NA,NA,,hypothetical protein,111
+OG0000027,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01283,NA,NA,yopJ_2,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01622,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01623,NA,NA,,hypothetical protein,498
+OG0000027,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01624,NA,NA,yopJ_2,Effector protein YopJ,423
+OG0000027,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01553,NA,NA,yopJ_1,Effector protein YopJ,957
+OG0000027,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01554,NA,NA,yopJ_2,Effector protein YopJ,927
+OG0000027,Bartonella_krasnovii_OY11,PDPJCBEH_01564,NA,NA,yopJ,Effector protein YopJ,957
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01432,NA,NA,yopJ_1,Effector protein YopJ,882
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01433,NA,NA,yopJ_2,Effector protein YopJ,249
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01434,NA,NA,yopJ_3,Effector protein YopJ,255
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01437,NA,NA,yopJ_4,Effector protein YopJ,945
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01438,NA,NA,yopJ_5,Effector protein YopJ,948
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01440,NA,NA,yopJ_6,Effector protein YopJ,951
+OG0000027,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01442,NA,NA,yopJ_7,Effector protein YopJ,699
+OG0000027,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01289,NA,NA,yopJ_1,Effector protein YopJ,699
+OG0000027,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01291,NA,NA,yopJ_2,Effector protein YopJ,951
+OG0000027,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01292,NA,NA,yopJ_3,Effector protein YopJ,948
+OG0000027,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01293,NA,NA,yopJ_4,Effector protein YopJ,945
+OG0000027,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01505,NA,NA,,hypothetical protein,462
+OG0000027,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01531,NA,NA,yopJ_1,Effector protein YopJ,951
+OG0000027,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01532,NA,NA,yopJ_2,Effector protein YopJ,948
+OG0000027,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01533,NA,NA,yopJ_3,Effector protein YopJ,699
+OG0000027,Bartonella_queenslandensis_AUST-NH15,BN338_RS01515,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,912
+OG0000027,Bartonella_queenslandensis_AUST-NH15,BN338_RS01530,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,933
+OG0000027,Bartonella_quintana_MF1-1,MF1_RS05600,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,945
+OG0000027,Bartonella_rattaustraliani_AUST-NH4,BN67_RS10335,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,933
+OG0000027,Bartonella_rattaustraliani_AUST-NH4,BN67_RS10340,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,927
+OG0000027,Bartonella_rattaustraliani_AUST-NH4,BN67_RS10345,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,924
+OG0000027,Bartonella_tribocorum_BM1374166,BM1374166_RS09725,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,933
+OG0000027,Bartonella_tribocorum_BM1374166,BM1374166_RS09730,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,945
+OG0000027,Bartonella_tribocorum_BM1374166,BM1374166_RS09735,NA,NA,,YopJ/AvrA family T3SS effector serine/threonine acetyltransferase,945

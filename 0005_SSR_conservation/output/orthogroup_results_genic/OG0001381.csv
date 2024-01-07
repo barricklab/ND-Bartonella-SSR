@@ -1,0 +1,48 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001381,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_elizabethae_NCTC12898,EL285_RS06140,3,A9,,BID domain-containing T4SS effector,1947
+OG0001381,Bartonella_gerbillinarum_FN71,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_A1,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_A2,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_B1,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_B2,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE1-2_C,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_A,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_B1,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_gerbillinarum_OE3-1_C,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_grahamii_as4aup,BGR_RS07210,NA,NA,,BID domain-containing T4SS effector,1827
+OG0001381,Bartonella_henselae_BM1374163,PRJBM_RS06455,3,A9,bepF,T4SS effector BepF,2505
+OG0001381,Bartonella_henselae_BM1374163,PRJBM_RS08305,105,A9,bepG,T4SS effector BepG,3132
+OG0001381,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01094,NA,NA,,hypothetical protein,1938
+OG0001381,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01205,NA,NA,,hypothetical protein,1938
+OG0001381,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01170,NA,NA,,hypothetical protein,1938
+OG0001381,Bartonella_krasnovii_FN12-1,EMOIKDEC_01549,NA,NA,,hypothetical protein,1956
+OG0001381,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01429,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01123,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01152,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01091,NA,NA,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01269,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01235,NA,NA,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01234,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01295,NA,NA,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01149,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01069,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01293,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01321,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01101,NA,NA,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01192,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01494,492,C9,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01224,NA,NA,,hypothetical protein,1848
+OG0001381,Bartonella_krasnovii_OY11,PDPJCBEH_01172,NA,NA,,hypothetical protein,1950
+OG0001381,Bartonella_negeviensis_ga95fn6_A,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_negeviensis_ga95fn6_B,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_negeviensis_ga95fn6_C,NA,NA,NA,NA,NA,NA
+OG0001381,Bartonella_queenslandensis_AUST-NH15,BN338_RS07275,NA,NA,,BID domain-containing T4SS effector,1794
+OG0001381,Bartonella_quintana_MF1-1,MF1_RS05195,NA,NA,,BID domain-containing T4SS effector,1581
+OG0001381,Bartonella_rattaustraliani_AUST-NH4,BN67_RS07945,NA,NA,,BID domain-containing T4SS effector,1626
+OG0001381,Bartonella_tribocorum_BM1374166,BM1374166_RS08015,NA,NA,,BID domain-containing T4SS effector,1968

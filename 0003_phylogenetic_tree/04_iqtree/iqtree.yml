@@ -1,0 +1,14 @@
+name: iqtree
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - iqtree=2.2.3=h21ec9f0_0
+  - libgcc-ng=13.2.0=h807b86a_0
+  - libgomp=13.2.0=h807b86a_0
+  - libstdcxx-ng=13.2.0=h7e041cc_0
+  - libzlib=1.2.13=hd590300_5
+prefix: /work/01552/jbarrick/ls6/miniconda3/envs/iqtree

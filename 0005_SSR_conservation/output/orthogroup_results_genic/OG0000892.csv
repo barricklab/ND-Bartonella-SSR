@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000892,Bartonella_bovis_91-4,BBBE_RS06680,NA,NA,,outer membrane lipoprotein carrier protein LolA,639
+OG0000892,Bartonella_elizabethae_NCTC12898,EL285_RS07580,NA,NA,,outer membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_gerbillinarum_FN71,IPKPMCFA_01409,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01371,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01163,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01380,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01457,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00158,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00441,NA,NA,,hypothetical protein,624
+OG0000892,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00742,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01133,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00017,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00215,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01122,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00348,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01295,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_grahamii_as4aup,BGR_RS09225,NA,NA,,outer-membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_henselae_BM1374163,PRJBM_RS07620,8,T9,,outer membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00073,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00977,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00938,NA,NA,,hypothetical protein,609
+OG0000892,Bartonella_krasnovii_FN12-1,EMOIKDEC_01203,NA,NA,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00776,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01026,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00877,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00925,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01362,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00649,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01035,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00920,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00983,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00966,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01317,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01297,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01010,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00653,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01220,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00905,22,A9,,hypothetical protein,612
+OG0000892,Bartonella_krasnovii_OY11,PDPJCBEH_01353,NA,NA,lolA,Outer-membrane lipoprotein carrier protein,612
+OG0000892,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01031,461,G9,,hypothetical protein,624
+OG0000892,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01080,461,G9,,hypothetical protein,624
+OG0000892,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01052,461,G9,,hypothetical protein,624
+OG0000892,Bartonella_queenslandensis_AUST-NH15,BN338_RS07685,NA,NA,,outer membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_quintana_MF1-1,MF1_RS06040,NA,NA,,outer membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_rattaustraliani_AUST-NH4,BN67_RS04295,NA,NA,,outer-membrane lipoprotein carrier protein LolA,609
+OG0000892,Bartonella_tribocorum_BM1374166,BM1374166_RS10860,NA,NA,,outer membrane lipoprotein carrier protein LolA,609

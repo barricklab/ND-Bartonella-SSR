@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000576,Bartonella_bovis_91-4,BBBE_RS03400,NA,NA,parE,DNA topoisomerase IV subunit B,2079
+OG0000576,Bartonella_elizabethae_NCTC12898,EL285_RS04635,NA,NA,parE,DNA topoisomerase IV subunit B,2067
+OG0000576,Bartonella_gerbillinarum_FN71,IPKPMCFA_00865,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00491,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01351,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01481,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01592,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01440,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01459,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00560,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00512,110,A9,gyrB_1,DNA gyrase subunit B,2058
+OG0000576,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00621,110,A9,gyrB_2,DNA gyrase subunit B,2058
+OG0000576,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00064,110,A9,gyrB_1,DNA gyrase subunit B,2058
+OG0000576,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00119,110,A9,gyrB_1,DNA gyrase subunit B,2058
+OG0000576,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00543,110,A9,gyrB_1,DNA gyrase subunit B,2058
+OG0000576,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00755,110,A9,gyrB_2,DNA gyrase subunit B,2058
+OG0000576,Bartonella_grahamii_as4aup,BGR_RS06070,NA,NA,parE,DNA topoisomerase IV subunit B,2067
+OG0000576,Bartonella_henselae_BM1374163,PRJBM_RS03785,NA,NA,parE,DNA topoisomerase IV subunit B,2058
+OG0000576,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00995,104,A9,gyrB_2,DNA gyrase subunit B,2061
+OG0000576,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00896,104,A9,gyrB_2,DNA gyrase subunit B,2061
+OG0000576,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01233,104,A9,gyrB_2,DNA gyrase subunit B,2061
+OG0000576,Bartonella_krasnovii_FN12-1,EMOIKDEC_00770,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01540,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01340,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01452,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01344,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01378,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00992,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00782,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00827,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01387,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00804,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00817,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00788,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01340,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00394,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01601,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01436,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_krasnovii_OY11,PDPJCBEH_00867,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00601,NA,NA,gyrB_2,DNA gyrase subunit B,2067
+OG0000576,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00559,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00058,NA,NA,gyrB_1,DNA gyrase subunit B,2067
+OG0000576,Bartonella_queenslandensis_AUST-NH15,BN338_RS07055,NA,NA,parE,DNA topoisomerase IV subunit B,2067
+OG0000576,Bartonella_quintana_MF1-1,MF1_RS02980,NA,NA,parE,DNA topoisomerase IV subunit B,2058
+OG0000576,Bartonella_rattaustraliani_AUST-NH4,BN67_RS08555,85,A9,parE,DNA topoisomerase IV subunit B,2076
+OG0000576,Bartonella_tribocorum_BM1374166,BM1374166_RS06920,NA,NA,parE,DNA topoisomerase IV subunit B,2067

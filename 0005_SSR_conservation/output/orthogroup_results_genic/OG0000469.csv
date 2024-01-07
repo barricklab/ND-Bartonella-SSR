@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000469,Bartonella_bovis_91-4,BBBE_RS02605,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1194
+OG0000469,Bartonella_elizabethae_NCTC12898,EL285_RS02635,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1128
+OG0000469,Bartonella_gerbillinarum_FN71,IPKPMCFA_00718,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1200
+OG0000469,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00539,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00646,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00710,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00578,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00532,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00618,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00604,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01220,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00315,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01330,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01170,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01200,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01262,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1080
+OG0000469,Bartonella_grahamii_as4aup,BGR_RS03190,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1128
+OG0000469,Bartonella_henselae_BM1374163,PRJBM_RS02865,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1194
+OG0000469,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01325,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1110
+OG0000469,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01240,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1110
+OG0000469,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00231,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1110
+OG0000469,Bartonella_krasnovii_FN12-1,EMOIKDEC_00019,550,A9,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00302,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00666,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00464,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00471,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00419,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00611,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00021,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00271,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00271,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00405,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00991,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00939,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00021,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00611,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00021,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00411,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,1065
+OG0000469,Bartonella_krasnovii_OY11,PDPJCBEH_00479,NA,NA,ispDF,Bifunctional enzyme IspD/IspF,888
+OG0000469,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00022,685,A9,ispDF,Bifunctional enzyme IspD/IspF,1200
+OG0000469,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00022,595,A9,ispDF,Bifunctional enzyme IspD/IspF,1110
+OG0000469,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00528,685,A9,ispDF,Bifunctional enzyme IspD/IspF,1200
+OG0000469,Bartonella_queenslandensis_AUST-NH15,BN338_RS05850,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1191
+OG0000469,Bartonella_quintana_MF1-1,MF1_RS03785,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1194
+OG0000469,Bartonella_rattaustraliani_AUST-NH4,BN67_RS09155,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1194
+OG0000469,Bartonella_tribocorum_BM1374166,BM1374166_RS04045,NA,NA,,"bifunctional 2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase/2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase",1197

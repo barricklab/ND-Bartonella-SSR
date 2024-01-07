@@ -1,0 +1,1 @@
+python CL_survey.py -i genbank -o contingency_loci.csv -l 6

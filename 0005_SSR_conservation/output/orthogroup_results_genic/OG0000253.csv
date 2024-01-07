@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000253,Bartonella_bovis_91-4,BBBE_RS00725,NA,NA,,DNA polymerase III subunit gamma/tau,1929
+OG0000253,Bartonella_elizabethae_NCTC12898,EL285_RS00625,1663,A9,,DNA polymerase III subunit gamma/tau,1941
+OG0000253,Bartonella_gerbillinarum_FN71,IPKPMCFA_00404,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01044,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00919,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01050,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01107,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00852,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01051,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00979,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00950,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00992,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00666,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00876,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00851,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00844,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1935
+OG0000253,Bartonella_grahamii_as4aup,BGR_RS01205,NA,NA,,DNA polymerase III subunit gamma/tau,1941
+OG0000253,Bartonella_henselae_BM1374163,PRJBM_RS01145,NA,NA,,DNA polymerase III subunit gamma/tau,1941
+OG0000253,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00981,1468,A9,,hypothetical protein,1905
+OG0000253,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00887,1468,A9,,hypothetical protein,1905
+OG0000253,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00903,1468,A9,,hypothetical protein,1905
+OG0000253,Bartonella_krasnovii_FN12-1,EMOIKDEC_00447,1663,A9,,hypothetical protein,1941
+OG0000253,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00680,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00332,1663,A9,,hypothetical protein,1941
+OG0000253,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00701,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00081,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00548,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00331,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01119,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00576,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00631,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00506,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00330,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00330,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00601,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01564,1663,A9,ruvB_2,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00884,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00081,1663,A9,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_krasnovii_OY11,PDPJCBEH_00272,1663,A9,,hypothetical protein,1941
+OG0000253,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01172,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00950,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00834,NA,NA,ruvB_1,Holliday junction ATP-dependent DNA helicase RuvB,1941
+OG0000253,Bartonella_queenslandensis_AUST-NH15,BN338_RS08265,1663,A9,,DNA polymerase III subunit gamma/tau,1941
+OG0000253,Bartonella_quintana_MF1-1,MF1_RS01090,NA,NA,,DNA polymerase III subunit gamma/tau,1923
+OG0000253,Bartonella_rattaustraliani_AUST-NH4,BN67_RS00500,NA,NA,,DNA polymerase III subunit gamma/tau,1950
+OG0000253,Bartonella_tribocorum_BM1374166,BM1374166_RS01180,1663,A9,,DNA polymerase III subunit gamma/tau,1941

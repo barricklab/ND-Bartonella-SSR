@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000501,Bartonella_bovis_91-4,BBBE_RS02825,NA,NA,rseP,RIP metalloprotease RseP,1152
+OG0000501,Bartonella_elizabethae_NCTC12898,EL285_RS04050,NA,NA,,RIP metalloprotease,1149
+OG0000501,Bartonella_gerbillinarum_FN71,IPKPMCFA_00759,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00330,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00137,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00072,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00148,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00512,NA,NA,mmpA,Metalloprotease MmpA,906
+OG0000501,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00292,NA,NA,mmpA,Metalloprotease MmpA,1140
+OG0000501,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00432,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00553,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01169,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01140,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01086,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01117,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01078,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_grahamii_as4aup,BGR_RS03415,NA,NA,,RIP metalloprotease,1149
+OG0000501,Bartonella_henselae_BM1374163,PRJBM_RS03095,NA,NA,rseP,RIP metalloprotease RseP,1149
+OG0000501,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01027,NA,NA,mmpA,Metalloprotease MmpA,1140
+OG0000501,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00928,NA,NA,mmpA,Metalloprotease MmpA,1140
+OG0000501,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01005,NA,NA,mmpA,Metalloprotease MmpA,1140
+OG0000501,Bartonella_krasnovii_FN12-1,EMOIKDEC_01486,NA,NA,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01466,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01284,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01345,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01322,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01307,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01175,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01173,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01153,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01248,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01111,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01082,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01091,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01200,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00733,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01308,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01319,1065,T9,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_krasnovii_OY11,PDPJCBEH_01259,NA,NA,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00635,NA,NA,mmpA,Metalloprotease MmpA,1149
+OG0000501,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00593,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00024,NA,NA,mmpA,Metalloprotease MmpA,1143
+OG0000501,Bartonella_queenslandensis_AUST-NH15,BN338_RS06085,NA,NA,rseP,RIP metalloprotease RseP,1149
+OG0000501,Bartonella_quintana_MF1-1,MF1_RS02825,NA,NA,rseP,RIP metalloprotease RseP,1149
+OG0000501,Bartonella_rattaustraliani_AUST-NH4,BN67_RS08910,NA,NA,rseP,RIP metalloprotease RseP,1149
+OG0000501,Bartonella_tribocorum_BM1374166,BM1374166_RS04270,NA,NA,rseP,RIP metalloprotease RseP,1149

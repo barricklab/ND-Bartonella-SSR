@@ -1,0 +1,67 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000058,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0000058,Bartonella_elizabethae_NCTC12898,EL285_RS06105,NA,NA,,BID domain-containing T4SS effector,1635
+OG0000058,Bartonella_gerbillinarum_FN71,IPKPMCFA_01111,NA,NA,bepA_2,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01268,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01269,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01120,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_01121,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01165,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01166,NA,NA,bepA_4,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01189,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01190,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01258,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01259,NA,NA,bepA_4,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01130,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01131,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01327,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01328,NA,NA,bepA_4,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01107,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_01108,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01314,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_01315,NA,NA,bepA_4,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01022,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01023,NA,NA,bepA_4,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01035,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_01036,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01008,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01009,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01128,NA,NA,bepA_2,Protein adenylyltransferase,1707
+OG0000058,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_01129,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_grahamii_as4aup,BGR_RS07170,NA,NA,,BID domain-containing T4SS effector,1635
+OG0000058,Bartonella_henselae_BM1374163,PRJBM_RS06415,NA,NA,bepA,T4SS effector adenylyltransferase BepA,1635
+OG0000058,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_01101,NA,NA,bepA_5,Protein adenylyltransferase,1635
+OG0000058,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01198,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01163,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_FN12-1,EMOIKDEC_01543,NA,NA,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01422,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01130,510,T9,bepA_4,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01159,510,T9,bepA_4,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_01098,510,T9,bepA_4,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01262,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01228,510,T9,bepA_2,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01227,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01302,510,T9,bepA_4,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01142,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_01062,510,T9,bepA_2,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_01286,510,T9,bepA_2,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01328,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01094,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01199,510,T9,bepA_4,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01487,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01217,510,T9,bepA_3,Protein adenylyltransferase,1635
+OG0000058,Bartonella_krasnovii_OY11,PDPJCBEH_01163,510,T9,bepA_2,Protein adenylyltransferase,1635
+OG0000058,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01233,NA,NA,bepA_6,Protein adenylyltransferase,1617
+OG0000058,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01426,NA,NA,bepA_7,Protein adenylyltransferase,1506
+OG0000058,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01427,NA,NA,bepA_8,Protein adenylyltransferase,1629
+OG0000058,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01364,NA,NA,bepA_6,Protein adenylyltransferase,1071
+OG0000058,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01367,NA,NA,bepA_8,Protein adenylyltransferase,1617
+OG0000058,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01423,NA,NA,bepA_9,Protein adenylyltransferase,1506
+OG0000058,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_01424,NA,NA,bepA_10,Protein adenylyltransferase,1629
+OG0000058,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01312,NA,NA,bepA_5,Protein adenylyltransferase,1506
+OG0000058,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01313,NA,NA,bepA_6,Protein adenylyltransferase,1617
+OG0000058,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_01316,NA,NA,bepA_8,Protein adenylyltransferase,1071
+OG0000058,Bartonella_queenslandensis_AUST-NH15,BN338_RS07310,NA,NA,,BID domain-containing T4SS effector,1626
+OG0000058,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0000058,Bartonella_rattaustraliani_AUST-NH4,BN67_RS08000,NA,NA,,BID domain-containing T4SS effector,816
+OG0000058,Bartonella_tribocorum_BM1374166,BM1374166_RS07970,NA,NA,,BID domain-containing T4SS effector,1635

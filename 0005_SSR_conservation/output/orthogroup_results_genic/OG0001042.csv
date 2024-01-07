@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001042,Bartonella_bovis_91-4,BBBE_RS03360,NA,NA,,DNA polymerase III subunit delta',1056
+OG0001042,Bartonella_elizabethae_NCTC12898,EL285_RS03625,NA,NA,,DNA polymerase III subunit delta',1047
+OG0001042,Bartonella_gerbillinarum_FN71,IPKPMCFA_00929,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00405,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00061,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01089,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00223,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00436,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00368,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00354,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00628,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00554,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_01065,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00057,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_01042,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00941,NA,NA,,hypothetical protein,1056
+OG0001042,Bartonella_grahamii_as4aup,BGR_RS05190,NA,NA,,DNA polymerase III subunit delta',1044
+OG0001042,Bartonella_henselae_BM1374163,PRJBM_RS04085,NA,NA,,DNA polymerase III subunit delta',1053
+OG0001042,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00755,NA,NA,,hypothetical protein,1053
+OG0001042,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00673,NA,NA,,hypothetical protein,1053
+OG0001042,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00671,NA,NA,,hypothetical protein,1053
+OG0001042,Bartonella_krasnovii_FN12-1,EMOIKDEC_00614,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01083,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00776,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00308,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00812,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00915,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_01087,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00924,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_01059,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00504,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00903,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00915,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_01012,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00860,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00489,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00754,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00971,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_krasnovii_OY11,PDPJCBEH_00766,NA,NA,,hypothetical protein,1047
+OG0001042,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00542,868,A9,,hypothetical protein,1056
+OG0001042,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00500,868,A9,,hypothetical protein,1056
+OG0001042,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00117,868,A9,,hypothetical protein,1056
+OG0001042,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0001042,Bartonella_quintana_MF1-1,MF1_RS03250,NA,NA,,DNA polymerase III subunit delta',1056
+OG0001042,Bartonella_rattaustraliani_AUST-NH4,BN67_RS06455,NA,NA,,DNA polymerase III subunit delta',1056
+OG0001042,Bartonella_tribocorum_BM1374166,BM1374166_RS05435,NA,NA,,DNA polymerase III subunit delta',1044

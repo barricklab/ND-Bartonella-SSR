@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000617,Bartonella_bovis_91-4,BBBE_RS03665,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_elizabethae_NCTC12898,EL285_RS03145,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_gerbillinarum_FN71,IPKPMCFA_00817,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00270,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00200,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00131,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00088,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01022,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00230,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00491,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00467,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00667,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00110,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00165,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00589,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00710,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,687
+OG0000617,Bartonella_grahamii_as4aup,BGR_RS05695,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_henselae_BM1374163,PRJBM_RS04535,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00858,NA,NA,hda,DnaA regulatory inactivator Hda,690
+OG0000617,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00761,NA,NA,hda,DnaA regulatory inactivator Hda,690
+OG0000617,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00774,NA,NA,hda,DnaA regulatory inactivator Hda,690
+OG0000617,Bartonella_krasnovii_FN12-1,EMOIKDEC_00677,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01222,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01051,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00384,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00941,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00802,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00921,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00851,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00898,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01104,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00733,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00747,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00858,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00935,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00323,628,A9,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01153,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01041,628,A9,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_krasnovii_OY11,PDPJCBEH_00949,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00871,NA,NA,dnaA_2,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00412,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00205,NA,NA,dnaA_1,Chromosomal replication initiator protein DnaA,690
+OG0000617,Bartonella_queenslandensis_AUST-NH15,BN338_RS06580,NA,NA,hdaA,DnaA regulatory inactivator HdaA,663
+OG0000617,Bartonella_quintana_MF1-1,MF1_RS02615,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_rattaustraliani_AUST-NH4,BN67_RS07585,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690
+OG0000617,Bartonella_tribocorum_BM1374166,BM1374166_RS06295,NA,NA,hdaA,DnaA regulatory inactivator HdaA,690

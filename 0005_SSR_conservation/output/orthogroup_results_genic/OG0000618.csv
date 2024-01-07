@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000618,Bartonella_bovis_91-4,BBBE_RS03670,NA,NA,,AI-2E family transporter,1215
+OG0000618,Bartonella_elizabethae_NCTC12898,EL285_RS03140,NA,NA,,AI-2E family transporter,1212
+OG0000618,Bartonella_gerbillinarum_FN71,IPKPMCFA_00818,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00269,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00201,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00132,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00087,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_01023,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00229,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_00492,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00466,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00668,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00111,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00166,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00590,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00709,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_grahamii_as4aup,BGR_RS05700,NA,NA,,AI-2E family transporter,1212
+OG0000618,Bartonella_henselae_BM1374163,PRJBM_RS04540,NA,NA,,AI-2E family transporter,1212
+OG0000618,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00857,NA,NA,yhhT,Putative transport protein YhhT,1212
+OG0000618,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00762,NA,NA,yhhT,Putative transport protein YhhT,1212
+OG0000618,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00773,NA,NA,yhhT,Putative transport protein YhhT,1212
+OG0000618,Bartonella_krasnovii_FN12-1,EMOIKDEC_00678,NA,NA,,Putative transport protein,1212
+OG0000618,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_01221,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_01052,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00385,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00942,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00803,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00922,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00850,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00897,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_01103,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00734,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00748,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00857,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00936,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00324,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_01152,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_01042,NA,NA,,Putative transport protein,1215
+OG0000618,Bartonella_krasnovii_OY11,PDPJCBEH_00948,NA,NA,,Putative transport protein,1212
+OG0000618,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00872,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00411,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00206,48,A9,,hypothetical protein,1212
+OG0000618,Bartonella_queenslandensis_AUST-NH15,BN338_RS06575,NA,NA,,AI-2E family transporter,784
+OG0000618,Bartonella_quintana_MF1-1,MF1_RS02610,NA,NA,,AI-2E family transporter,1212
+OG0000618,Bartonella_rattaustraliani_AUST-NH4,BN67_RS07580,NA,NA,,AI-2E family transporter,1212
+OG0000618,Bartonella_tribocorum_BM1374166,BM1374166_RS06300,NA,NA,,AI-2E family transporter,1212

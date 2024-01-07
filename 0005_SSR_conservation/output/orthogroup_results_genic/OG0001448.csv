@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0001448,Bartonella_bovis_91-4,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_elizabethae_NCTC12898,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_FN71,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_A1,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_A2,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_B1,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_B2,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_B3,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE1-2_C,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01730,NA,NA,pbuE,Purine efflux pump PbuE,1098
+OG0001448,Bartonella_gerbillinarum_OE3-1_B1,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_B2,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_B3,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_B4,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_B5,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_gerbillinarum_OE3-1_C,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_grahamii_as4aup,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_henselae_BM1374163,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_khokhlovae_OE5-1_A,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_01521,1022,G10,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_01491,1023,G9,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_FN12-1,EMOIKDEC_00290,1022,G12,pbuE,Purine efflux pump PbuE,1107
+OG0001448,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00036,NA,NA,pbuE,Purine efflux pump PbuE,1134
+OG0001448,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00397,NA,NA,pbuE,Purine efflux pump PbuE,1134
+OG0001448,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_01122,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00145,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_01105,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00397,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00286,1019,G9,pbuE,Purine efflux pump PbuE,1119
+OG0001448,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00511,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00947,NA,NA,pbuE,Purine efflux pump PbuE,1134
+OG0001448,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00572,NA,NA,pbuE,Purine efflux pump PbuE,1134
+OG0001448,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00397,1019,G9,pbuE,Purine efflux pump PbuE,1119
+OG0001448,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00397,1019,G9,pbuE,Purine efflux pump PbuE,1119
+OG0001448,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_01391,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01497,1019,G9,pbuE,Purine efflux pump PbuE,1119
+OG0001448,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00289,NA,NA,pbuE,Purine efflux pump PbuE,1134
+OG0001448,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00146,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_krasnovii_OY11,PDPJCBEH_00604,1019,G9,pbuE,Purine efflux pump PbuE,1131
+OG0001448,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00245,NA,NA,pbuE,Purine efflux pump PbuE,1137
+OG0001448,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00243,NA,NA,pbuE,Purine efflux pump PbuE,693
+OG0001448,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00306,NA,NA,pbuE,Purine efflux pump PbuE,693
+OG0001448,Bartonella_queenslandensis_AUST-NH15,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_quintana_MF1-1,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_rattaustraliani_AUST-NH4,NA,NA,NA,NA,NA,NA
+OG0001448,Bartonella_tribocorum_BM1374166,NA,NA,NA,NA,NA,NA

@@ -1,0 +1,50 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000231,Bartonella_bovis_91-4,BBBE_RS00585,NA,NA,,NlpC/P60 family protein,855
+OG0000231,Bartonella_elizabethae_NCTC12898,EL285_RS00480,NA,NA,,NlpC/P60 family protein,867
+OG0000231,Bartonella_gerbillinarum_FN71,IPKPMCFA_00375,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01074,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00949,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01019,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01076,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00821,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01021,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01011,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00980,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00962,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00696,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00906,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00881,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00814,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_grahamii_as4aup,BGR_RS01060,NA,NA,,NlpC/P60 family protein,864
+OG0000231,Bartonella_henselae_BM1374163,PRJBM_RS01000,NA,NA,,NlpC/P60 family protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00952,541,G9,,hypothetical protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00952,96,A9,,hypothetical protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00858,541,G9,,hypothetical protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00858,96,A9,,hypothetical protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00874,541,G9,,hypothetical protein,864
+OG0000231,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00874,96,A9,,hypothetical protein,864
+OG0000231,Bartonella_krasnovii_FN12-1,EMOIKDEC_00476,NA,NA,,hypothetical protein,867
+OG0000231,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00709,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00303,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00672,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00052,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00577,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00302,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01258,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00605,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00660,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00477,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00301,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00301,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00630,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01593,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00913,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00052,NA,NA,,hypothetical protein,879
+OG0000231,Bartonella_krasnovii_OY11,PDPJCBEH_00243,NA,NA,,hypothetical protein,999
+OG0000231,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01143,NA,NA,,hypothetical protein,870
+OG0000231,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00921,NA,NA,,hypothetical protein,870
+OG0000231,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00863,NA,NA,,hypothetical protein,870
+OG0000231,Bartonella_queenslandensis_AUST-NH15,BN338_RS08410,NA,NA,,NlpC/P60 family protein,867
+OG0000231,Bartonella_quintana_MF1-1,MF1_RS00940,NA,NA,,NlpC/P60 family protein,864
+OG0000231,Bartonella_rattaustraliani_AUST-NH4,BN67_RS00390,NA,NA,,NlpC/P60 family protein,867
+OG0000231,Bartonella_tribocorum_BM1374166,BM1374166_RS01035,NA,NA,,NlpC/P60 family protein,861

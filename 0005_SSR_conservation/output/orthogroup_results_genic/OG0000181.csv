@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000181,Bartonella_bovis_91-4,BBBE_RS00295,NA,NA,,DMT family transporter,915
+OG0000181,Bartonella_elizabethae_NCTC12898,EL285_RS08575,NA,NA,,DMT family transporter,912
+OG0000181,Bartonella_gerbillinarum_FN71,IPKPMCFA_00292,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_00791,821,G10,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00433,821,G10,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_00596,821,G9,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_00925,821,G10,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00686,821,G10,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_00828,821,G9,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01154,821,G9,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00714,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00200,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00556,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00638,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00708,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00086,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_grahamii_as4aup,BGR_RS00335,NA,NA,,DMT family transporter,915
+OG0000181,Bartonella_henselae_BM1374163,PRJBM_RS00335,NA,NA,,DMT family transporter,909
+OG0000181,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00268,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00083,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00323,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_FN12-1,EMOIKDEC_00988,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00493,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00085,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00171,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00337,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00170,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00083,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_00444,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00167,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00168,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00082,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00166,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00166,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00448,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_00899,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00517,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00601,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_krasnovii_OY11,PDPJCBEH_00103,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_00342,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00852,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00732,NA,NA,,hypothetical protein,915
+OG0000181,Bartonella_queenslandensis_AUST-NH15,BN338_RS04245,NA,NA,,DMT family transporter,912
+OG0000181,Bartonella_quintana_MF1-1,MF1_RS00305,NA,NA,,DMT family transporter,915
+OG0000181,Bartonella_rattaustraliani_AUST-NH4,BN67_RS05455,NA,NA,,DMT family transporter,909
+OG0000181,Bartonella_tribocorum_BM1374166,BM1374166_RS00325,882,A9,,DMT family transporter,894

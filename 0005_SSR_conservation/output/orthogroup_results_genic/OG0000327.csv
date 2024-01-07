@@ -1,0 +1,47 @@
+orthogroup,species,locus_tag,gene_position,base_length,gene,product,bp_length
+OG0000327,Bartonella_bovis_91-4,BBBE_RS01710,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,393
+OG0000327,Bartonella_elizabethae_NCTC12898,EL285_RS00430,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_gerbillinarum_FN71,IPKPMCFA_00365,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_A1,NGMDFPDP_01084,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_A2,DCJOKJGC_00959,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_B1,PEOOCOEB_01009,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_B2,MHFFGBDM_01066,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_B3,EPECHDMP_00811,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE1-2_C,EMBLIICP_01011,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_A,OIDCCKFD_01021,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_B1,CAHOLCOL_00990,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_B2,GCDFGLPA_00952,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_B3,IHHODCJK_00706,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_B4,MJAEBMJE_00916,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_B5,JPLDOKKC_00891,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_gerbillinarum_OE3-1_C,NMIIJIPG_00804,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_grahamii_as4aup,BGR_RS01010,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_henselae_BM1374163,PRJBM_RS00950,87,A9,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_khokhlovae_OE5-1_A,BMMGAKCC_00942,87,A9,nrdI,Protein NrdI,399
+OG0000327,Bartonella_khokhlovae_OE5-1_B,FGBOIPEM_00848,87,A9,nrdI,Protein NrdI,399
+OG0000327,Bartonella_khokhlovae_OE5-1_C,OGFLLMDA_00864,87,A9,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_FN12-1,EMOIKDEC_00486,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_A1,JEMLOCML_00719,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_A2,CNPEIIHJ_00293,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_A3,FNJMBGLL_00662,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_A4,KJGNIHHA_00042,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_A5,ELDOKPEM_00587,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_B,BOFBMHLF_00292,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_C1,LKICNHNN_01268,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_C2,NGJGDJAJ_00615,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_C3,MOMDPIKI_00670,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_D1,CHDJJCHF_00467,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_D2,GCOMBPFH_00291,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_D3,JGDFGBJJ_00291,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_D4,GFDDFGGD_00640,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_D5,BINCMBPP_01603,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_G,DJDNEOMB_00923,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OE1-1_H,GMAGJBIB_00042,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_krasnovii_OY11,PDPJCBEH_00233,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_negeviensis_ga95fn6_A,KLALJOCO_01133,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_negeviensis_ga95fn6_B,IPPNIHCA_00911,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_negeviensis_ga95fn6_C,IMMEILNN_00873,NA,NA,nrdI,Protein NrdI,399
+OG0000327,Bartonella_queenslandensis_AUST-NH15,BN338_RS08475,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_quintana_MF1-1,MF1_RS00890,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_rattaustraliani_AUST-NH4,BN67_RS00270,87,A9,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
+OG0000327,Bartonella_tribocorum_BM1374166,BM1374166_RS00975,NA,NA,nrdI,class Ib ribonucleoside-diphosphate reductase assembly flavoprotein NrdI,399
